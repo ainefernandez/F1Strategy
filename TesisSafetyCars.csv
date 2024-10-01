@@ -1,0 +1,5331 @@
+LapNumber,GP,Year,TrackStatus,Label
+1,Bahrain,2019,2,Yellow flag
+2,Bahrain,2019,2,Yellow flag
+3,Bahrain,2019,1,Green flag
+4,Bahrain,2019,2,Yellow flag
+5,Bahrain,2019,1,Green flag
+6,Bahrain,2019,2,Yellow flag
+7,Bahrain,2019,1,Green flag
+8,Bahrain,2019,1,Green flag
+9,Bahrain,2019,1,Green flag
+10,Bahrain,2019,1,Green flag
+11,Bahrain,2019,1,Green flag
+12,Bahrain,2019,2,Yellow flag
+13,Bahrain,2019,1,Green flag
+14,Bahrain,2019,1,Green flag
+15,Bahrain,2019,1,Green flag
+16,Bahrain,2019,1,Green flag
+17,Bahrain,2019,1,Green flag
+18,Bahrain,2019,1,Green flag
+19,Bahrain,2019,1,Green flag
+20,Bahrain,2019,1,Green flag
+21,Bahrain,2019,1,Green flag
+22,Bahrain,2019,1,Green flag
+23,Bahrain,2019,1,Green flag
+24,Bahrain,2019,1,Green flag
+25,Bahrain,2019,1,Green flag
+26,Bahrain,2019,1,Green flag
+27,Bahrain,2019,1,Green flag
+28,Bahrain,2019,1,Green flag
+29,Bahrain,2019,1,Green flag
+30,Bahrain,2019,1,Green flag
+31,Bahrain,2019,1,Green flag
+32,Bahrain,2019,1,Green flag
+33,Bahrain,2019,1,Green flag
+34,Bahrain,2019,1,Green flag
+35,Bahrain,2019,1,Green flag
+36,Bahrain,2019,1,Green flag
+37,Bahrain,2019,2,Yellow flag
+38,Bahrain,2019,1,Green flag
+39,Bahrain,2019,1,Green flag
+40,Bahrain,2019,2,Yellow flag
+41,Bahrain,2019,1,Green flag
+42,Bahrain,2019,2,Yellow flag
+43,Bahrain,2019,1,Green flag
+44,Bahrain,2019,1,Green flag
+45,Bahrain,2019,1,Green flag
+46,Bahrain,2019,1,Green flag
+47,Bahrain,2019,1,Green flag
+48,Bahrain,2019,1,Green flag
+49,Bahrain,2019,1,Green flag
+50,Bahrain,2019,1,Green flag
+51,Bahrain,2019,1,Green flag
+52,Bahrain,2019,1,Green flag
+53,Bahrain,2019,1,Green flag
+54,Bahrain,2019,2,Yellow flag
+55,Bahrain,2019,4,Safety Car
+56,Bahrain,2019,4,Safety Car
+57,Bahrain,2019,4,Safety Car
+1,China,2019,26,Virtual Safety Car
+2,China,2019,67,Virtual Safety Car
+3,China,2019,1,Green flag
+4,China,2019,1,Green flag
+5,China,2019,1,Green flag
+6,China,2019,1,Green flag
+7,China,2019,1,Green flag
+8,China,2019,1,Green flag
+9,China,2019,1,Green flag
+10,China,2019,1,Green flag
+11,China,2019,1,Green flag
+12,China,2019,1,Green flag
+13,China,2019,1,Green flag
+14,China,2019,1,Green flag
+15,China,2019,1,Green flag
+16,China,2019,1,Green flag
+17,China,2019,1,Green flag
+18,China,2019,1,Green flag
+19,China,2019,1,Green flag
+20,China,2019,1,Green flag
+21,China,2019,1,Green flag
+22,China,2019,1,Green flag
+23,China,2019,1,Green flag
+24,China,2019,1,Green flag
+25,China,2019,1,Green flag
+26,China,2019,1,Green flag
+27,China,2019,1,Green flag
+28,China,2019,1,Green flag
+29,China,2019,1,Green flag
+30,China,2019,1,Green flag
+31,China,2019,1,Green flag
+32,China,2019,1,Green flag
+33,China,2019,1,Green flag
+34,China,2019,1,Green flag
+35,China,2019,1,Green flag
+36,China,2019,1,Green flag
+37,China,2019,1,Green flag
+38,China,2019,1,Green flag
+39,China,2019,1,Green flag
+40,China,2019,1,Green flag
+41,China,2019,1,Green flag
+42,China,2019,1,Green flag
+43,China,2019,1,Green flag
+44,China,2019,1,Green flag
+45,China,2019,1,Green flag
+46,China,2019,1,Green flag
+47,China,2019,1,Green flag
+48,China,2019,1,Green flag
+49,China,2019,1,Green flag
+50,China,2019,1,Green flag
+51,China,2019,1,Green flag
+52,China,2019,1,Green flag
+53,China,2019,1,Green flag
+54,China,2019,1,Green flag
+55,China,2019,1,Green flag
+56,China,2019,1,Green flag
+1,Australia,2019,2,Yellow flag
+2,Australia,2019,1,Green flag
+3,Australia,2019,1,Green flag
+4,Australia,2019,1,Green flag
+5,Australia,2019,1,Green flag
+6,Australia,2019,1,Green flag
+7,Australia,2019,1,Green flag
+8,Australia,2019,1,Green flag
+9,Australia,2019,1,Green flag
+10,Australia,2019,1,Green flag
+11,Australia,2019,1,Green flag
+12,Australia,2019,1,Green flag
+13,Australia,2019,1,Green flag
+14,Australia,2019,1,Green flag
+15,Australia,2019,1,Green flag
+16,Australia,2019,1,Green flag
+17,Australia,2019,1,Green flag
+18,Australia,2019,1,Green flag
+19,Australia,2019,1,Green flag
+20,Australia,2019,1,Green flag
+21,Australia,2019,1,Green flag
+22,Australia,2019,1,Green flag
+23,Australia,2019,1,Green flag
+24,Australia,2019,1,Green flag
+25,Australia,2019,1,Green flag
+26,Australia,2019,1,Green flag
+27,Australia,2019,1,Green flag
+28,Australia,2019,1,Green flag
+29,Australia,2019,1,Green flag
+30,Australia,2019,1,Green flag
+31,Australia,2019,2,Yellow flag
+32,Australia,2019,1,Green flag
+33,Australia,2019,1,Green flag
+34,Australia,2019,1,Green flag
+35,Australia,2019,1,Green flag
+36,Australia,2019,1,Green flag
+37,Australia,2019,1,Green flag
+38,Australia,2019,1,Green flag
+39,Australia,2019,1,Green flag
+40,Australia,2019,1,Green flag
+41,Australia,2019,1,Green flag
+42,Australia,2019,1,Green flag
+43,Australia,2019,1,Green flag
+44,Australia,2019,1,Green flag
+45,Australia,2019,1,Green flag
+46,Australia,2019,1,Green flag
+47,Australia,2019,1,Green flag
+48,Australia,2019,1,Green flag
+49,Australia,2019,1,Green flag
+50,Australia,2019,1,Green flag
+51,Australia,2019,1,Green flag
+52,Australia,2019,1,Green flag
+53,Australia,2019,1,Green flag
+54,Australia,2019,1,Green flag
+55,Australia,2019,1,Green flag
+56,Australia,2019,1,Green flag
+57,Australia,2019,1,Green flag
+58,Australia,2019,1,Green flag
+1,Japan,2019,1,Green flag
+2,Japan,2019,1,Green flag
+3,Japan,2019,1,Green flag
+4,Japan,2019,2,Yellow flag
+5,Japan,2019,1,Green flag
+6,Japan,2019,1,Green flag
+7,Japan,2019,1,Green flag
+8,Japan,2019,1,Green flag
+9,Japan,2019,1,Green flag
+10,Japan,2019,1,Green flag
+11,Japan,2019,1,Green flag
+12,Japan,2019,1,Green flag
+13,Japan,2019,1,Green flag
+14,Japan,2019,1,Green flag
+15,Japan,2019,1,Green flag
+16,Japan,2019,1,Green flag
+17,Japan,2019,1,Green flag
+18,Japan,2019,1,Green flag
+19,Japan,2019,1,Green flag
+20,Japan,2019,1,Green flag
+21,Japan,2019,1,Green flag
+22,Japan,2019,1,Green flag
+23,Japan,2019,1,Green flag
+24,Japan,2019,1,Green flag
+25,Japan,2019,1,Green flag
+26,Japan,2019,1,Green flag
+27,Japan,2019,1,Green flag
+28,Japan,2019,1,Green flag
+29,Japan,2019,1,Green flag
+30,Japan,2019,1,Green flag
+31,Japan,2019,1,Green flag
+32,Japan,2019,1,Green flag
+33,Japan,2019,1,Green flag
+34,Japan,2019,1,Green flag
+35,Japan,2019,1,Green flag
+36,Japan,2019,1,Green flag
+37,Japan,2019,1,Green flag
+38,Japan,2019,1,Green flag
+39,Japan,2019,1,Green flag
+40,Japan,2019,1,Green flag
+41,Japan,2019,1,Green flag
+42,Japan,2019,1,Green flag
+43,Japan,2019,1,Green flag
+44,Japan,2019,1,Green flag
+45,Japan,2019,1,Green flag
+46,Japan,2019,1,Green flag
+47,Japan,2019,1,Green flag
+48,Japan,2019,1,Green flag
+49,Japan,2019,1,Green flag
+50,Japan,2019,1,Green flag
+51,Japan,2019,1,Green flag
+52,Japan,2019,2,Yellow flag
+53,Japan,2019,2,Yellow flag
+1,Monaco,2019,2,Yellow flag
+2,Monaco,2019,1,Green flag
+3,Monaco,2019,1,Green flag
+4,Monaco,2019,1,Green flag
+5,Monaco,2019,1,Green flag
+6,Monaco,2019,2,Yellow flag
+7,Monaco,2019,1,Green flag
+8,Monaco,2019,1,Green flag
+9,Monaco,2019,2,Yellow flag
+10,Monaco,2019,2,Yellow flag
+11,Monaco,2019,24,Safety Car
+12,Monaco,2019,4,Safety Car
+13,Monaco,2019,4,Safety Car
+14,Monaco,2019,4,Safety Car
+15,Monaco,2019,2,Yellow flag
+16,Monaco,2019,2,Yellow flag
+17,Monaco,2019,1,Green flag
+18,Monaco,2019,1,Green flag
+19,Monaco,2019,1,Green flag
+20,Monaco,2019,1,Green flag
+21,Monaco,2019,1,Green flag
+22,Monaco,2019,1,Green flag
+23,Monaco,2019,1,Green flag
+24,Monaco,2019,1,Green flag
+25,Monaco,2019,1,Green flag
+26,Monaco,2019,1,Green flag
+27,Monaco,2019,1,Green flag
+28,Monaco,2019,1,Green flag
+29,Monaco,2019,1,Green flag
+30,Monaco,2019,1,Green flag
+31,Monaco,2019,1,Green flag
+32,Monaco,2019,1,Green flag
+33,Monaco,2019,1,Green flag
+34,Monaco,2019,1,Green flag
+35,Monaco,2019,1,Green flag
+36,Monaco,2019,1,Green flag
+37,Monaco,2019,1,Green flag
+38,Monaco,2019,1,Green flag
+39,Monaco,2019,1,Green flag
+40,Monaco,2019,1,Green flag
+41,Monaco,2019,2,Yellow flag
+42,Monaco,2019,1,Green flag
+43,Monaco,2019,1,Green flag
+44,Monaco,2019,1,Green flag
+45,Monaco,2019,1,Green flag
+46,Monaco,2019,1,Green flag
+47,Monaco,2019,1,Green flag
+48,Monaco,2019,1,Green flag
+49,Monaco,2019,1,Green flag
+50,Monaco,2019,1,Green flag
+51,Monaco,2019,1,Green flag
+52,Monaco,2019,1,Green flag
+53,Monaco,2019,1,Green flag
+54,Monaco,2019,1,Green flag
+55,Monaco,2019,1,Green flag
+56,Monaco,2019,1,Green flag
+57,Monaco,2019,1,Green flag
+58,Monaco,2019,1,Green flag
+59,Monaco,2019,1,Green flag
+60,Monaco,2019,1,Green flag
+61,Monaco,2019,1,Green flag
+62,Monaco,2019,1,Green flag
+63,Monaco,2019,1,Green flag
+64,Monaco,2019,1,Green flag
+65,Monaco,2019,1,Green flag
+66,Monaco,2019,1,Green flag
+67,Monaco,2019,1,Green flag
+68,Monaco,2019,1,Green flag
+69,Monaco,2019,1,Green flag
+70,Monaco,2019,1,Green flag
+71,Monaco,2019,1,Green flag
+72,Monaco,2019,1,Green flag
+73,Monaco,2019,1,Green flag
+74,Monaco,2019,1,Green flag
+75,Monaco,2019,1,Green flag
+76,Monaco,2019,1,Green flag
+77,Monaco,2019,1,Green flag
+78,Monaco,2019,1,Green flag
+1,Spain,2019,2,Yellow flag
+2,Spain,2019,1,Green flag
+3,Spain,2019,1,Green flag
+4,Spain,2019,1,Green flag
+5,Spain,2019,1,Green flag
+6,Spain,2019,1,Green flag
+7,Spain,2019,1,Green flag
+8,Spain,2019,1,Green flag
+9,Spain,2019,1,Green flag
+10,Spain,2019,1,Green flag
+11,Spain,2019,1,Green flag
+12,Spain,2019,1,Green flag
+13,Spain,2019,1,Green flag
+14,Spain,2019,1,Green flag
+15,Spain,2019,1,Green flag
+16,Spain,2019,1,Green flag
+17,Spain,2019,1,Green flag
+18,Spain,2019,1,Green flag
+19,Spain,2019,1,Green flag
+20,Spain,2019,1,Green flag
+21,Spain,2019,1,Green flag
+22,Spain,2019,1,Green flag
+23,Spain,2019,1,Green flag
+24,Spain,2019,1,Green flag
+25,Spain,2019,1,Green flag
+26,Spain,2019,1,Green flag
+27,Spain,2019,1,Green flag
+28,Spain,2019,1,Green flag
+29,Spain,2019,1,Green flag
+30,Spain,2019,1,Green flag
+31,Spain,2019,1,Green flag
+32,Spain,2019,1,Green flag
+33,Spain,2019,1,Green flag
+34,Spain,2019,1,Green flag
+35,Spain,2019,1,Green flag
+36,Spain,2019,1,Green flag
+37,Spain,2019,1,Green flag
+38,Spain,2019,1,Green flag
+39,Spain,2019,1,Green flag
+40,Spain,2019,1,Green flag
+41,Spain,2019,1,Green flag
+42,Spain,2019,1,Green flag
+43,Spain,2019,1,Green flag
+44,Spain,2019,1,Green flag
+45,Spain,2019,2,Yellow flag
+46,Spain,2019,24,Safety Car
+47,Spain,2019,4,Safety Car
+48,Spain,2019,4,Safety Car
+49,Spain,2019,4,Safety Car
+50,Spain,2019,4,Safety Car
+51,Spain,2019,4,Safety Car
+52,Spain,2019,4,Safety Car
+53,Spain,2019,1,Green flag
+54,Spain,2019,1,Green flag
+55,Spain,2019,1,Green flag
+56,Spain,2019,1,Green flag
+57,Spain,2019,1,Green flag
+58,Spain,2019,1,Green flag
+59,Spain,2019,1,Green flag
+60,Spain,2019,1,Green flag
+61,Spain,2019,1,Green flag
+62,Spain,2019,1,Green flag
+63,Spain,2019,1,Green flag
+64,Spain,2019,1,Green flag
+65,Spain,2019,1,Green flag
+66,Spain,2019,1,Green flag
+1,Canada,2019,2,Yellow flag
+2,Canada,2019,2,Yellow flag
+3,Canada,2019,1,Green flag
+4,Canada,2019,1,Green flag
+5,Canada,2019,1,Green flag
+6,Canada,2019,1,Green flag
+7,Canada,2019,1,Green flag
+8,Canada,2019,1,Green flag
+9,Canada,2019,2,Yellow flag
+10,Canada,2019,2,Yellow flag
+11,Canada,2019,2,Yellow flag
+12,Canada,2019,2,Yellow flag
+13,Canada,2019,2,Yellow flag
+14,Canada,2019,1,Green flag
+15,Canada,2019,1,Green flag
+16,Canada,2019,1,Green flag
+17,Canada,2019,1,Green flag
+18,Canada,2019,1,Green flag
+19,Canada,2019,1,Green flag
+20,Canada,2019,1,Green flag
+21,Canada,2019,1,Green flag
+22,Canada,2019,1,Green flag
+23,Canada,2019,1,Green flag
+24,Canada,2019,1,Green flag
+25,Canada,2019,1,Green flag
+26,Canada,2019,1,Green flag
+27,Canada,2019,1,Green flag
+28,Canada,2019,1,Green flag
+29,Canada,2019,1,Green flag
+30,Canada,2019,2,Yellow flag
+31,Canada,2019,2,Yellow flag
+32,Canada,2019,1,Green flag
+33,Canada,2019,1,Green flag
+34,Canada,2019,1,Green flag
+35,Canada,2019,1,Green flag
+36,Canada,2019,1,Green flag
+37,Canada,2019,1,Green flag
+38,Canada,2019,1,Green flag
+39,Canada,2019,1,Green flag
+40,Canada,2019,1,Green flag
+41,Canada,2019,1,Green flag
+42,Canada,2019,1,Green flag
+43,Canada,2019,1,Green flag
+44,Canada,2019,1,Green flag
+45,Canada,2019,1,Green flag
+46,Canada,2019,1,Green flag
+47,Canada,2019,1,Green flag
+48,Canada,2019,1,Green flag
+49,Canada,2019,1,Green flag
+50,Canada,2019,1,Green flag
+51,Canada,2019,1,Green flag
+52,Canada,2019,1,Green flag
+53,Canada,2019,1,Green flag
+54,Canada,2019,1,Green flag
+55,Canada,2019,1,Green flag
+56,Canada,2019,1,Green flag
+57,Canada,2019,1,Green flag
+58,Canada,2019,1,Green flag
+59,Canada,2019,1,Green flag
+60,Canada,2019,1,Green flag
+61,Canada,2019,1,Green flag
+62,Canada,2019,1,Green flag
+63,Canada,2019,1,Green flag
+64,Canada,2019,1,Green flag
+65,Canada,2019,1,Green flag
+66,Canada,2019,1,Green flag
+67,Canada,2019,1,Green flag
+68,Canada,2019,1,Green flag
+69,Canada,2019,1,Green flag
+70,Canada,2019,1,Green flag
+1,Austria,2019,1,Green flag
+2,Austria,2019,1,Green flag
+3,Austria,2019,1,Green flag
+4,Austria,2019,1,Green flag
+5,Austria,2019,1,Green flag
+6,Austria,2019,1,Green flag
+7,Austria,2019,1,Green flag
+8,Austria,2019,1,Green flag
+9,Austria,2019,1,Green flag
+10,Austria,2019,1,Green flag
+11,Austria,2019,1,Green flag
+12,Austria,2019,1,Green flag
+13,Austria,2019,1,Green flag
+14,Austria,2019,1,Green flag
+15,Austria,2019,1,Green flag
+16,Austria,2019,1,Green flag
+17,Austria,2019,1,Green flag
+18,Austria,2019,1,Green flag
+19,Austria,2019,1,Green flag
+20,Austria,2019,1,Green flag
+21,Austria,2019,1,Green flag
+22,Austria,2019,1,Green flag
+23,Austria,2019,1,Green flag
+24,Austria,2019,1,Green flag
+25,Austria,2019,1,Green flag
+26,Austria,2019,1,Green flag
+27,Austria,2019,1,Green flag
+28,Austria,2019,1,Green flag
+29,Austria,2019,1,Green flag
+30,Austria,2019,1,Green flag
+31,Austria,2019,1,Green flag
+32,Austria,2019,1,Green flag
+33,Austria,2019,1,Green flag
+34,Austria,2019,1,Green flag
+35,Austria,2019,1,Green flag
+36,Austria,2019,1,Green flag
+37,Austria,2019,1,Green flag
+38,Austria,2019,1,Green flag
+39,Austria,2019,1,Green flag
+40,Austria,2019,1,Green flag
+41,Austria,2019,1,Green flag
+42,Austria,2019,1,Green flag
+43,Austria,2019,1,Green flag
+44,Austria,2019,1,Green flag
+45,Austria,2019,1,Green flag
+46,Austria,2019,1,Green flag
+47,Austria,2019,1,Green flag
+48,Austria,2019,1,Green flag
+49,Austria,2019,1,Green flag
+50,Austria,2019,1,Green flag
+51,Austria,2019,1,Green flag
+52,Austria,2019,1,Green flag
+53,Austria,2019,1,Green flag
+54,Austria,2019,1,Green flag
+55,Austria,2019,1,Green flag
+56,Austria,2019,1,Green flag
+57,Austria,2019,1,Green flag
+58,Austria,2019,1,Green flag
+59,Austria,2019,1,Green flag
+60,Austria,2019,1,Green flag
+61,Austria,2019,1,Green flag
+62,Austria,2019,1,Green flag
+63,Austria,2019,1,Green flag
+64,Austria,2019,1,Green flag
+65,Austria,2019,1,Green flag
+66,Austria,2019,1,Green flag
+67,Austria,2019,1,Green flag
+68,Austria,2019,1,Green flag
+69,Austria,2019,1,Green flag
+70,Austria,2019,1,Green flag
+71,Austria,2019,1,Green flag
+1,Great Britain,2019,1,Green flag
+2,Great Britain,2019,1,Green flag
+3,Great Britain,2019,1,Green flag
+4,Great Britain,2019,1,Green flag
+5,Great Britain,2019,1,Green flag
+6,Great Britain,2019,1,Green flag
+7,Great Britain,2019,1,Green flag
+8,Great Britain,2019,1,Green flag
+9,Great Britain,2019,1,Green flag
+10,Great Britain,2019,1,Green flag
+11,Great Britain,2019,1,Green flag
+12,Great Britain,2019,1,Green flag
+13,Great Britain,2019,1,Green flag
+14,Great Britain,2019,1,Green flag
+15,Great Britain,2019,1,Green flag
+16,Great Britain,2019,1,Green flag
+17,Great Britain,2019,1,Green flag
+18,Great Britain,2019,1,Green flag
+19,Great Britain,2019,1,Green flag
+20,Great Britain,2019,24,Safety Car
+21,Great Britain,2019,4,Safety Car
+22,Great Britain,2019,4,Safety Car
+23,Great Britain,2019,4,Safety Car
+24,Great Britain,2019,1,Green flag
+25,Great Britain,2019,1,Green flag
+26,Great Britain,2019,2,Yellow flag
+27,Great Britain,2019,2,Yellow flag
+28,Great Britain,2019,1,Green flag
+29,Great Britain,2019,1,Green flag
+30,Great Britain,2019,1,Green flag
+31,Great Britain,2019,1,Green flag
+32,Great Britain,2019,1,Green flag
+33,Great Britain,2019,1,Green flag
+34,Great Britain,2019,1,Green flag
+35,Great Britain,2019,1,Green flag
+36,Great Britain,2019,1,Green flag
+37,Great Britain,2019,2,Yellow flag
+38,Great Britain,2019,2,Yellow flag
+39,Great Britain,2019,1,Green flag
+40,Great Britain,2019,1,Green flag
+41,Great Britain,2019,1,Green flag
+42,Great Britain,2019,1,Green flag
+43,Great Britain,2019,1,Green flag
+44,Great Britain,2019,1,Green flag
+45,Great Britain,2019,1,Green flag
+46,Great Britain,2019,1,Green flag
+47,Great Britain,2019,1,Green flag
+48,Great Britain,2019,1,Green flag
+49,Great Britain,2019,1,Green flag
+50,Great Britain,2019,1,Green flag
+51,Great Britain,2019,1,Green flag
+52,Great Britain,2019,1,Green flag
+1,Hungary,2019,1,Green flag
+2,Hungary,2019,2,Yellow flag
+3,Hungary,2019,1,Green flag
+4,Hungary,2019,1,Green flag
+5,Hungary,2019,1,Green flag
+6,Hungary,2019,1,Green flag
+7,Hungary,2019,1,Green flag
+8,Hungary,2019,1,Green flag
+9,Hungary,2019,1,Green flag
+10,Hungary,2019,1,Green flag
+11,Hungary,2019,1,Green flag
+12,Hungary,2019,1,Green flag
+13,Hungary,2019,1,Green flag
+14,Hungary,2019,1,Green flag
+15,Hungary,2019,1,Green flag
+16,Hungary,2019,1,Green flag
+17,Hungary,2019,1,Green flag
+18,Hungary,2019,1,Green flag
+19,Hungary,2019,1,Green flag
+20,Hungary,2019,1,Green flag
+21,Hungary,2019,1,Green flag
+22,Hungary,2019,1,Green flag
+23,Hungary,2019,1,Green flag
+24,Hungary,2019,1,Green flag
+25,Hungary,2019,1,Green flag
+26,Hungary,2019,1,Green flag
+27,Hungary,2019,1,Green flag
+28,Hungary,2019,1,Green flag
+29,Hungary,2019,1,Green flag
+30,Hungary,2019,1,Green flag
+31,Hungary,2019,1,Green flag
+32,Hungary,2019,1,Green flag
+33,Hungary,2019,1,Green flag
+34,Hungary,2019,1,Green flag
+35,Hungary,2019,1,Green flag
+36,Hungary,2019,1,Green flag
+37,Hungary,2019,1,Green flag
+38,Hungary,2019,1,Green flag
+39,Hungary,2019,1,Green flag
+40,Hungary,2019,1,Green flag
+41,Hungary,2019,1,Green flag
+42,Hungary,2019,1,Green flag
+43,Hungary,2019,1,Green flag
+44,Hungary,2019,1,Green flag
+45,Hungary,2019,1,Green flag
+46,Hungary,2019,1,Green flag
+47,Hungary,2019,1,Green flag
+48,Hungary,2019,1,Green flag
+49,Hungary,2019,1,Green flag
+50,Hungary,2019,1,Green flag
+51,Hungary,2019,1,Green flag
+52,Hungary,2019,1,Green flag
+53,Hungary,2019,1,Green flag
+54,Hungary,2019,1,Green flag
+55,Hungary,2019,1,Green flag
+56,Hungary,2019,1,Green flag
+57,Hungary,2019,1,Green flag
+58,Hungary,2019,1,Green flag
+59,Hungary,2019,1,Green flag
+60,Hungary,2019,1,Green flag
+61,Hungary,2019,1,Green flag
+62,Hungary,2019,1,Green flag
+63,Hungary,2019,1,Green flag
+64,Hungary,2019,1,Green flag
+65,Hungary,2019,1,Green flag
+66,Hungary,2019,1,Green flag
+67,Hungary,2019,1,Green flag
+68,Hungary,2019,1,Green flag
+69,Hungary,2019,1,Green flag
+70,Hungary,2019,1,Green flag
+1,Belgium,2019,24,Safety Car
+2,Belgium,2019,4,Safety Car
+3,Belgium,2019,4,Safety Car
+4,Belgium,2019,4,Safety Car
+5,Belgium,2019,1,Green flag
+6,Belgium,2019,1,Green flag
+7,Belgium,2019,1,Green flag
+8,Belgium,2019,1,Green flag
+9,Belgium,2019,1,Green flag
+10,Belgium,2019,1,Green flag
+11,Belgium,2019,1,Green flag
+12,Belgium,2019,1,Green flag
+13,Belgium,2019,1,Green flag
+14,Belgium,2019,1,Green flag
+15,Belgium,2019,1,Green flag
+16,Belgium,2019,1,Green flag
+17,Belgium,2019,1,Green flag
+18,Belgium,2019,1,Green flag
+19,Belgium,2019,1,Green flag
+20,Belgium,2019,1,Green flag
+21,Belgium,2019,1,Green flag
+22,Belgium,2019,1,Green flag
+23,Belgium,2019,1,Green flag
+24,Belgium,2019,1,Green flag
+25,Belgium,2019,1,Green flag
+26,Belgium,2019,1,Green flag
+27,Belgium,2019,1,Green flag
+28,Belgium,2019,1,Green flag
+29,Belgium,2019,1,Green flag
+30,Belgium,2019,1,Green flag
+31,Belgium,2019,1,Green flag
+32,Belgium,2019,1,Green flag
+33,Belgium,2019,1,Green flag
+34,Belgium,2019,1,Green flag
+35,Belgium,2019,1,Green flag
+36,Belgium,2019,1,Green flag
+37,Belgium,2019,1,Green flag
+38,Belgium,2019,1,Green flag
+39,Belgium,2019,1,Green flag
+40,Belgium,2019,1,Green flag
+41,Belgium,2019,1,Green flag
+42,Belgium,2019,1,Green flag
+43,Belgium,2019,1,Green flag
+44,Belgium,2019,2,Yellow flag
+0,Belgium,2019,24,Safety Car
+1,Azerbaijan,2019,1,Green flag
+2,Azerbaijan,2019,1,Green flag
+3,Azerbaijan,2019,1,Green flag
+4,Azerbaijan,2019,1,Green flag
+5,Azerbaijan,2019,1,Green flag
+6,Azerbaijan,2019,1,Green flag
+7,Azerbaijan,2019,1,Green flag
+8,Azerbaijan,2019,1,Green flag
+9,Azerbaijan,2019,1,Green flag
+10,Azerbaijan,2019,1,Green flag
+11,Azerbaijan,2019,1,Green flag
+12,Azerbaijan,2019,1,Green flag
+13,Azerbaijan,2019,1,Green flag
+14,Azerbaijan,2019,1,Green flag
+15,Azerbaijan,2019,1,Green flag
+16,Azerbaijan,2019,1,Green flag
+17,Azerbaijan,2019,1,Green flag
+18,Azerbaijan,2019,1,Green flag
+19,Azerbaijan,2019,1,Green flag
+20,Azerbaijan,2019,1,Green flag
+21,Azerbaijan,2019,1,Green flag
+22,Azerbaijan,2019,1,Green flag
+23,Azerbaijan,2019,1,Green flag
+24,Azerbaijan,2019,1,Green flag
+25,Azerbaijan,2019,1,Green flag
+26,Azerbaijan,2019,1,Green flag
+27,Azerbaijan,2019,1,Green flag
+28,Azerbaijan,2019,1,Green flag
+29,Azerbaijan,2019,1,Green flag
+30,Azerbaijan,2019,1,Green flag
+31,Azerbaijan,2019,2,Yellow flag
+32,Azerbaijan,2019,2,Yellow flag
+33,Azerbaijan,2019,2,Yellow flag
+34,Azerbaijan,2019,1,Green flag
+35,Azerbaijan,2019,1,Green flag
+36,Azerbaijan,2019,1,Green flag
+37,Azerbaijan,2019,1,Green flag
+38,Azerbaijan,2019,1,Green flag
+39,Azerbaijan,2019,,Unknown
+40,Azerbaijan,2019,67,Virtual Safety Car
+41,Azerbaijan,2019,1,Green flag
+42,Azerbaijan,2019,1,Green flag
+43,Azerbaijan,2019,1,Green flag
+44,Azerbaijan,2019,1,Green flag
+45,Azerbaijan,2019,1,Green flag
+46,Azerbaijan,2019,1,Green flag
+47,Azerbaijan,2019,1,Green flag
+48,Azerbaijan,2019,1,Green flag
+49,Azerbaijan,2019,1,Green flag
+50,Azerbaijan,2019,1,Green flag
+51,Azerbaijan,2019,1,Green flag
+1,Singapore,2019,1,Green flag
+2,Singapore,2019,1,Green flag
+3,Singapore,2019,1,Green flag
+4,Singapore,2019,1,Green flag
+5,Singapore,2019,1,Green flag
+6,Singapore,2019,1,Green flag
+7,Singapore,2019,1,Green flag
+8,Singapore,2019,1,Green flag
+9,Singapore,2019,1,Green flag
+10,Singapore,2019,1,Green flag
+11,Singapore,2019,1,Green flag
+12,Singapore,2019,1,Green flag
+13,Singapore,2019,1,Green flag
+14,Singapore,2019,1,Green flag
+15,Singapore,2019,1,Green flag
+16,Singapore,2019,1,Green flag
+17,Singapore,2019,1,Green flag
+18,Singapore,2019,1,Green flag
+19,Singapore,2019,1,Green flag
+20,Singapore,2019,1,Green flag
+21,Singapore,2019,1,Green flag
+22,Singapore,2019,1,Green flag
+23,Singapore,2019,1,Green flag
+24,Singapore,2019,1,Green flag
+25,Singapore,2019,1,Green flag
+26,Singapore,2019,1,Green flag
+27,Singapore,2019,1,Green flag
+28,Singapore,2019,1,Green flag
+29,Singapore,2019,1,Green flag
+30,Singapore,2019,1,Green flag
+31,Singapore,2019,1,Green flag
+32,Singapore,2019,1,Green flag
+33,Singapore,2019,1,Green flag
+34,Singapore,2019,1,Green flag
+35,Singapore,2019,2,Yellow flag
+36,Singapore,2019,24,Safety Car
+37,Singapore,2019,4,Safety Car
+38,Singapore,2019,4,Safety Car
+39,Singapore,2019,4,Safety Car
+40,Singapore,2019,4,Safety Car
+41,Singapore,2019,1,Green flag
+42,Singapore,2019,1,Green flag
+43,Singapore,2019,2,Yellow flag
+44,Singapore,2019,24,Safety Car
+45,Singapore,2019,4,Safety Car
+46,Singapore,2019,4,Safety Car
+47,Singapore,2019,4,Safety Car
+48,Singapore,2019,1,Green flag
+49,Singapore,2019,1,Green flag
+50,Singapore,2019,24,Safety Car
+51,Singapore,2019,4,Safety Car
+52,Singapore,2019,1,Green flag
+53,Singapore,2019,1,Green flag
+54,Singapore,2019,1,Green flag
+55,Singapore,2019,1,Green flag
+56,Singapore,2019,1,Green flag
+57,Singapore,2019,1,Green flag
+58,Singapore,2019,1,Green flag
+59,Singapore,2019,1,Green flag
+60,Singapore,2019,1,Green flag
+61,Singapore,2019,1,Green flag
+1,Austin,2019,1,Green flag
+2,Austin,2019,1,Green flag
+3,Austin,2019,1,Green flag
+4,Austin,2019,1,Green flag
+5,Austin,2019,1,Green flag
+6,Austin,2019,1,Green flag
+7,Austin,2019,1,Green flag
+8,Austin,2019,2,Yellow flag
+9,Austin,2019,2,Yellow flag
+10,Austin,2019,1,Green flag
+11,Austin,2019,1,Green flag
+12,Austin,2019,1,Green flag
+13,Austin,2019,1,Green flag
+14,Austin,2019,1,Green flag
+15,Austin,2019,1,Green flag
+16,Austin,2019,1,Green flag
+17,Austin,2019,1,Green flag
+18,Austin,2019,1,Green flag
+19,Austin,2019,1,Green flag
+20,Austin,2019,1,Green flag
+21,Austin,2019,1,Green flag
+22,Austin,2019,1,Green flag
+23,Austin,2019,1,Green flag
+24,Austin,2019,1,Green flag
+25,Austin,2019,1,Green flag
+26,Austin,2019,1,Green flag
+27,Austin,2019,1,Green flag
+28,Austin,2019,1,Green flag
+29,Austin,2019,1,Green flag
+30,Austin,2019,1,Green flag
+31,Austin,2019,1,Green flag
+32,Austin,2019,1,Green flag
+33,Austin,2019,1,Green flag
+34,Austin,2019,1,Green flag
+35,Austin,2019,1,Green flag
+36,Austin,2019,1,Green flag
+37,Austin,2019,1,Green flag
+38,Austin,2019,1,Green flag
+39,Austin,2019,1,Green flag
+40,Austin,2019,1,Green flag
+41,Austin,2019,1,Green flag
+42,Austin,2019,1,Green flag
+43,Austin,2019,1,Green flag
+44,Austin,2019,1,Green flag
+45,Austin,2019,1,Green flag
+46,Austin,2019,1,Green flag
+47,Austin,2019,1,Green flag
+48,Austin,2019,1,Green flag
+49,Austin,2019,1,Green flag
+50,Austin,2019,1,Green flag
+51,Austin,2019,1,Green flag
+52,Austin,2019,1,Green flag
+53,Austin,2019,1,Green flag
+54,Austin,2019,1,Green flag
+55,Austin,2019,2,Yellow flag
+56,Austin,2019,2,Yellow flag
+1,Mexico,2019,6,Virtual Safety Car
+2,Mexico,2019,67,Virtual Safety Car
+3,Mexico,2019,7,Unknown
+4,Mexico,2019,1,Green flag
+5,Mexico,2019,2,Yellow flag
+6,Mexico,2019,1,Green flag
+7,Mexico,2019,1,Green flag
+8,Mexico,2019,1,Green flag
+9,Mexico,2019,1,Green flag
+10,Mexico,2019,1,Green flag
+11,Mexico,2019,1,Green flag
+12,Mexico,2019,1,Green flag
+13,Mexico,2019,1,Green flag
+14,Mexico,2019,1,Green flag
+15,Mexico,2019,1,Green flag
+16,Mexico,2019,1,Green flag
+17,Mexico,2019,1,Green flag
+18,Mexico,2019,1,Green flag
+19,Mexico,2019,1,Green flag
+20,Mexico,2019,1,Green flag
+21,Mexico,2019,1,Green flag
+22,Mexico,2019,1,Green flag
+23,Mexico,2019,1,Green flag
+24,Mexico,2019,1,Green flag
+25,Mexico,2019,1,Green flag
+26,Mexico,2019,1,Green flag
+27,Mexico,2019,1,Green flag
+28,Mexico,2019,1,Green flag
+29,Mexico,2019,1,Green flag
+30,Mexico,2019,1,Green flag
+31,Mexico,2019,1,Green flag
+32,Mexico,2019,1,Green flag
+33,Mexico,2019,1,Green flag
+34,Mexico,2019,1,Green flag
+35,Mexico,2019,1,Green flag
+36,Mexico,2019,1,Green flag
+37,Mexico,2019,1,Green flag
+38,Mexico,2019,1,Green flag
+39,Mexico,2019,1,Green flag
+40,Mexico,2019,1,Green flag
+41,Mexico,2019,1,Green flag
+42,Mexico,2019,1,Green flag
+43,Mexico,2019,1,Green flag
+44,Mexico,2019,1,Green flag
+45,Mexico,2019,1,Green flag
+46,Mexico,2019,1,Green flag
+47,Mexico,2019,1,Green flag
+48,Mexico,2019,1,Green flag
+49,Mexico,2019,1,Green flag
+50,Mexico,2019,1,Green flag
+51,Mexico,2019,1,Green flag
+52,Mexico,2019,1,Green flag
+53,Mexico,2019,1,Green flag
+54,Mexico,2019,1,Green flag
+55,Mexico,2019,1,Green flag
+56,Mexico,2019,1,Green flag
+57,Mexico,2019,1,Green flag
+58,Mexico,2019,1,Green flag
+59,Mexico,2019,1,Green flag
+60,Mexico,2019,1,Green flag
+61,Mexico,2019,1,Green flag
+62,Mexico,2019,1,Green flag
+63,Mexico,2019,1,Green flag
+64,Mexico,2019,1,Green flag
+65,Mexico,2019,1,Green flag
+66,Mexico,2019,1,Green flag
+67,Mexico,2019,1,Green flag
+68,Mexico,2019,1,Green flag
+69,Mexico,2019,1,Green flag
+70,Mexico,2019,1,Green flag
+71,Mexico,2019,1,Green flag
+1,Brazil,2019,1,Green flag
+2,Brazil,2019,1,Green flag
+3,Brazil,2019,1,Green flag
+4,Brazil,2019,1,Green flag
+5,Brazil,2019,1,Green flag
+6,Brazil,2019,1,Green flag
+7,Brazil,2019,1,Green flag
+8,Brazil,2019,2,Yellow flag
+9,Brazil,2019,1,Green flag
+10,Brazil,2019,1,Green flag
+11,Brazil,2019,1,Green flag
+12,Brazil,2019,1,Green flag
+13,Brazil,2019,1,Green flag
+14,Brazil,2019,1,Green flag
+15,Brazil,2019,1,Green flag
+16,Brazil,2019,1,Green flag
+17,Brazil,2019,1,Green flag
+18,Brazil,2019,1,Green flag
+19,Brazil,2019,1,Green flag
+20,Brazil,2019,1,Green flag
+21,Brazil,2019,1,Green flag
+22,Brazil,2019,1,Green flag
+23,Brazil,2019,1,Green flag
+24,Brazil,2019,1,Green flag
+25,Brazil,2019,1,Green flag
+26,Brazil,2019,1,Green flag
+27,Brazil,2019,1,Green flag
+28,Brazil,2019,1,Green flag
+29,Brazil,2019,1,Green flag
+30,Brazil,2019,1,Green flag
+31,Brazil,2019,1,Green flag
+32,Brazil,2019,1,Green flag
+33,Brazil,2019,1,Green flag
+34,Brazil,2019,1,Green flag
+35,Brazil,2019,1,Green flag
+36,Brazil,2019,1,Green flag
+37,Brazil,2019,1,Green flag
+38,Brazil,2019,1,Green flag
+39,Brazil,2019,1,Green flag
+40,Brazil,2019,1,Green flag
+41,Brazil,2019,1,Green flag
+42,Brazil,2019,1,Green flag
+43,Brazil,2019,1,Green flag
+44,Brazil,2019,1,Green flag
+45,Brazil,2019,1,Green flag
+46,Brazil,2019,1,Green flag
+47,Brazil,2019,1,Green flag
+48,Brazil,2019,1,Green flag
+49,Brazil,2019,1,Green flag
+50,Brazil,2019,1,Green flag
+51,Brazil,2019,1,Green flag
+52,Brazil,2019,2,Yellow flag
+53,Brazil,2019,24,Safety Car
+54,Brazil,2019,4,Safety Car
+55,Brazil,2019,4,Safety Car
+56,Brazil,2019,4,Safety Car
+57,Brazil,2019,4,Safety Car
+58,Brazil,2019,4,Safety Car
+59,Brazil,2019,4,Safety Car
+60,Brazil,2019,1,Green flag
+61,Brazil,2019,1,Green flag
+62,Brazil,2019,1,Green flag
+63,Brazil,2019,1,Green flag
+64,Brazil,2019,1,Green flag
+65,Brazil,2019,1,Green flag
+66,Brazil,2019,4,Safety Car
+67,Brazil,2019,4,Safety Car
+68,Brazil,2019,4,Safety Car
+69,Brazil,2019,4,Safety Car
+70,Brazil,2019,2,Yellow flag
+71,Brazil,2019,1,Green flag
+1,Abu Dhabi,2019,2,Yellow flag
+2,Abu Dhabi,2019,1,Green flag
+3,Abu Dhabi,2019,1,Green flag
+4,Abu Dhabi,2019,1,Green flag
+5,Abu Dhabi,2019,1,Green flag
+6,Abu Dhabi,2019,1,Green flag
+7,Abu Dhabi,2019,1,Green flag
+8,Abu Dhabi,2019,1,Green flag
+9,Abu Dhabi,2019,1,Green flag
+10,Abu Dhabi,2019,1,Green flag
+11,Abu Dhabi,2019,1,Green flag
+12,Abu Dhabi,2019,1,Green flag
+13,Abu Dhabi,2019,1,Green flag
+14,Abu Dhabi,2019,1,Green flag
+15,Abu Dhabi,2019,1,Green flag
+16,Abu Dhabi,2019,1,Green flag
+17,Abu Dhabi,2019,1,Green flag
+18,Abu Dhabi,2019,1,Green flag
+19,Abu Dhabi,2019,1,Green flag
+20,Abu Dhabi,2019,1,Green flag
+21,Abu Dhabi,2019,1,Green flag
+22,Abu Dhabi,2019,1,Green flag
+23,Abu Dhabi,2019,1,Green flag
+24,Abu Dhabi,2019,1,Green flag
+25,Abu Dhabi,2019,1,Green flag
+26,Abu Dhabi,2019,1,Green flag
+27,Abu Dhabi,2019,1,Green flag
+28,Abu Dhabi,2019,1,Green flag
+29,Abu Dhabi,2019,1,Green flag
+30,Abu Dhabi,2019,1,Green flag
+31,Abu Dhabi,2019,1,Green flag
+32,Abu Dhabi,2019,1,Green flag
+33,Abu Dhabi,2019,1,Green flag
+34,Abu Dhabi,2019,1,Green flag
+35,Abu Dhabi,2019,1,Green flag
+36,Abu Dhabi,2019,1,Green flag
+37,Abu Dhabi,2019,1,Green flag
+38,Abu Dhabi,2019,1,Green flag
+39,Abu Dhabi,2019,1,Green flag
+40,Abu Dhabi,2019,1,Green flag
+41,Abu Dhabi,2019,1,Green flag
+42,Abu Dhabi,2019,1,Green flag
+43,Abu Dhabi,2019,1,Green flag
+44,Abu Dhabi,2019,1,Green flag
+45,Abu Dhabi,2019,1,Green flag
+46,Abu Dhabi,2019,1,Green flag
+47,Abu Dhabi,2019,1,Green flag
+48,Abu Dhabi,2019,1,Green flag
+49,Abu Dhabi,2019,1,Green flag
+50,Abu Dhabi,2019,1,Green flag
+51,Abu Dhabi,2019,1,Green flag
+52,Abu Dhabi,2019,1,Green flag
+53,Abu Dhabi,2019,1,Green flag
+54,Abu Dhabi,2019,1,Green flag
+55,Abu Dhabi,2019,1,Green flag
+1,Monza,2019,2,Yellow flag
+2,Monza,2019,1,Green flag
+3,Monza,2019,2,Yellow flag
+4,Monza,2019,1,Green flag
+5,Monza,2019,1,Green flag
+6,Monza,2019,2,Yellow flag
+7,Monza,2019,1,Green flag
+8,Monza,2019,1,Green flag
+9,Monza,2019,1,Green flag
+10,Monza,2019,1,Green flag
+11,Monza,2019,1,Green flag
+12,Monza,2019,1,Green flag
+13,Monza,2019,1,Green flag
+14,Monza,2019,1,Green flag
+15,Monza,2019,1,Green flag
+16,Monza,2019,1,Green flag
+17,Monza,2019,1,Green flag
+18,Monza,2019,1,Green flag
+19,Monza,2019,1,Green flag
+20,Monza,2019,1,Green flag
+21,Monza,2019,1,Green flag
+22,Monza,2019,1,Green flag
+23,Monza,2019,1,Green flag
+24,Monza,2019,1,Green flag
+25,Monza,2019,1,Green flag
+26,Monza,2019,1,Green flag
+27,Monza,2019,1,Green flag
+28,Monza,2019,267,Virtual Safety Car
+29,Monza,2019,7,Unknown
+30,Monza,2019,267,Virtual Safety Car
+31,Monza,2019,7,Unknown
+32,Monza,2019,1,Green flag
+33,Monza,2019,1,Green flag
+34,Monza,2019,1,Green flag
+35,Monza,2019,1,Green flag
+36,Monza,2019,1,Green flag
+37,Monza,2019,1,Green flag
+38,Monza,2019,1,Green flag
+39,Monza,2019,1,Green flag
+40,Monza,2019,1,Green flag
+41,Monza,2019,1,Green flag
+42,Monza,2019,1,Green flag
+43,Monza,2019,1,Green flag
+44,Monza,2019,1,Green flag
+45,Monza,2019,1,Green flag
+46,Monza,2019,1,Green flag
+47,Monza,2019,1,Green flag
+48,Monza,2019,1,Green flag
+49,Monza,2019,1,Green flag
+50,Monza,2019,1,Green flag
+51,Monza,2019,1,Green flag
+52,Monza,2019,1,Green flag
+53,Monza,2019,1,Green flag
+1,Bahrain,2020,5,Red Flag
+2,Bahrain,2020,1,Green flag
+3,Bahrain,2020,24,Safety Car
+4,Bahrain,2020,4,Safety Car
+5,Bahrain,2020,4,Safety Car
+6,Bahrain,2020,4,Safety Car
+7,Bahrain,2020,4,Safety Car
+8,Bahrain,2020,4,Safety Car
+9,Bahrain,2020,1,Green flag
+10,Bahrain,2020,1,Green flag
+11,Bahrain,2020,1,Green flag
+12,Bahrain,2020,1,Green flag
+13,Bahrain,2020,2,Yellow flag
+14,Bahrain,2020,1,Green flag
+15,Bahrain,2020,1,Green flag
+16,Bahrain,2020,1,Green flag
+17,Bahrain,2020,1,Green flag
+18,Bahrain,2020,1,Green flag
+19,Bahrain,2020,1,Green flag
+20,Bahrain,2020,1,Green flag
+21,Bahrain,2020,1,Green flag
+22,Bahrain,2020,1,Green flag
+23,Bahrain,2020,1,Green flag
+24,Bahrain,2020,1,Green flag
+25,Bahrain,2020,1,Green flag
+26,Bahrain,2020,1,Green flag
+27,Bahrain,2020,1,Green flag
+28,Bahrain,2020,1,Green flag
+29,Bahrain,2020,1,Green flag
+30,Bahrain,2020,1,Green flag
+31,Bahrain,2020,1,Green flag
+32,Bahrain,2020,1,Green flag
+33,Bahrain,2020,1,Green flag
+34,Bahrain,2020,1,Green flag
+35,Bahrain,2020,1,Green flag
+36,Bahrain,2020,1,Green flag
+37,Bahrain,2020,1,Green flag
+38,Bahrain,2020,1,Green flag
+39,Bahrain,2020,1,Green flag
+40,Bahrain,2020,1,Green flag
+41,Bahrain,2020,1,Green flag
+42,Bahrain,2020,1,Green flag
+43,Bahrain,2020,1,Green flag
+44,Bahrain,2020,1,Green flag
+45,Bahrain,2020,1,Green flag
+46,Bahrain,2020,1,Green flag
+47,Bahrain,2020,1,Green flag
+48,Bahrain,2020,1,Green flag
+49,Bahrain,2020,1,Green flag
+50,Bahrain,2020,1,Green flag
+51,Bahrain,2020,1,Green flag
+52,Bahrain,2020,1,Green flag
+53,Bahrain,2020,1,Green flag
+54,Bahrain,2020,2,Yellow flag
+55,Bahrain,2020,4,Safety Car
+56,Bahrain,2020,4,Safety Car
+57,Bahrain,2020,4,Safety Car
+0,Bahrain,2020,5,Red Flag
+1,Monaco,2020,1,Green flag
+2,Monaco,2020,1,Green flag
+3,Monaco,2020,1,Green flag
+4,Monaco,2020,1,Green flag
+5,Monaco,2020,1,Green flag
+6,Monaco,2020,1,Green flag
+7,Monaco,2020,1,Green flag
+8,Monaco,2020,2,Yellow flag
+9,Monaco,2020,1,Green flag
+10,Monaco,2020,1,Green flag
+11,Monaco,2020,1,Green flag
+12,Monaco,2020,1,Green flag
+13,Monaco,2020,1,Green flag
+14,Monaco,2020,1,Green flag
+15,Monaco,2020,1,Green flag
+16,Monaco,2020,1,Green flag
+17,Monaco,2020,1,Green flag
+18,Monaco,2020,1,Green flag
+19,Monaco,2020,2,Yellow flag
+20,Monaco,2020,24,Safety Car
+21,Monaco,2020,4,Safety Car
+22,Monaco,2020,4,Safety Car
+23,Monaco,2020,4,Safety Car
+24,Monaco,2020,1,Green flag
+25,Monaco,2020,24,Safety Car
+26,Monaco,2020,45,Safety Car
+27,Monaco,2020,1,Green flag
+28,Monaco,2020,1,Green flag
+29,Monaco,2020,1,Green flag
+30,Monaco,2020,1,Green flag
+31,Monaco,2020,1,Green flag
+32,Monaco,2020,1,Green flag
+33,Monaco,2020,1,Green flag
+34,Monaco,2020,1,Green flag
+35,Monaco,2020,1,Green flag
+36,Monaco,2020,1,Green flag
+37,Monaco,2020,1,Green flag
+38,Monaco,2020,1,Green flag
+39,Monaco,2020,1,Green flag
+40,Monaco,2020,1,Green flag
+41,Monaco,2020,1,Green flag
+42,Monaco,2020,1,Green flag
+43,Monaco,2020,1,Green flag
+44,Monaco,2020,1,Green flag
+45,Monaco,2020,1,Green flag
+46,Monaco,2020,1,Green flag
+47,Monaco,2020,1,Green flag
+48,Monaco,2020,1,Green flag
+49,Monaco,2020,1,Green flag
+50,Monaco,2020,1,Green flag
+51,Monaco,2020,1,Green flag
+52,Monaco,2020,1,Green flag
+53,Monaco,2020,1,Green flag
+1,Spain,2020,1,Green flag
+2,Spain,2020,1,Green flag
+3,Spain,2020,1,Green flag
+4,Spain,2020,1,Green flag
+5,Spain,2020,1,Green flag
+6,Spain,2020,1,Green flag
+7,Spain,2020,1,Green flag
+8,Spain,2020,1,Green flag
+9,Spain,2020,1,Green flag
+10,Spain,2020,1,Green flag
+11,Spain,2020,1,Green flag
+12,Spain,2020,1,Green flag
+13,Spain,2020,1,Green flag
+14,Spain,2020,1,Green flag
+15,Spain,2020,1,Green flag
+16,Spain,2020,1,Green flag
+17,Spain,2020,1,Green flag
+18,Spain,2020,1,Green flag
+19,Spain,2020,1,Green flag
+20,Spain,2020,1,Green flag
+21,Spain,2020,1,Green flag
+22,Spain,2020,1,Green flag
+23,Spain,2020,1,Green flag
+24,Spain,2020,1,Green flag
+25,Spain,2020,1,Green flag
+26,Spain,2020,1,Green flag
+27,Spain,2020,1,Green flag
+28,Spain,2020,1,Green flag
+29,Spain,2020,1,Green flag
+30,Spain,2020,1,Green flag
+31,Spain,2020,1,Green flag
+32,Spain,2020,1,Green flag
+33,Spain,2020,1,Green flag
+34,Spain,2020,1,Green flag
+35,Spain,2020,1,Green flag
+36,Spain,2020,1,Green flag
+37,Spain,2020,2,Yellow flag
+38,Spain,2020,2,Yellow flag
+39,Spain,2020,1,Green flag
+40,Spain,2020,1,Green flag
+41,Spain,2020,1,Green flag
+42,Spain,2020,1,Green flag
+43,Spain,2020,1,Green flag
+44,Spain,2020,1,Green flag
+45,Spain,2020,1,Green flag
+46,Spain,2020,1,Green flag
+47,Spain,2020,1,Green flag
+48,Spain,2020,1,Green flag
+49,Spain,2020,1,Green flag
+50,Spain,2020,1,Green flag
+51,Spain,2020,1,Green flag
+52,Spain,2020,1,Green flag
+53,Spain,2020,1,Green flag
+54,Spain,2020,1,Green flag
+55,Spain,2020,1,Green flag
+56,Spain,2020,1,Green flag
+57,Spain,2020,1,Green flag
+58,Spain,2020,1,Green flag
+59,Spain,2020,1,Green flag
+60,Spain,2020,1,Green flag
+61,Spain,2020,1,Green flag
+62,Spain,2020,1,Green flag
+63,Spain,2020,1,Green flag
+64,Spain,2020,1,Green flag
+65,Spain,2020,1,Green flag
+66,Spain,2020,1,Green flag
+0,Canada,2020,24,Safety Car
+1,Canada,2020,24,Safety Car
+2,Canada,2020,4,Safety Car
+3,Canada,2020,4,Safety Car
+4,Canada,2020,4,Safety Car
+5,Canada,2020,4,Safety Car
+6,Canada,2020,4,Safety Car
+7,Canada,2020,24,Safety Car
+8,Canada,2020,45,Safety Car
+9,Canada,2020,1,Green flag
+10,Canada,2020,1,Green flag
+11,Canada,2020,1,Green flag
+12,Canada,2020,1,Green flag
+13,Canada,2020,1,Green flag
+14,Canada,2020,1,Green flag
+15,Canada,2020,1,Green flag
+16,Canada,2020,1,Green flag
+17,Canada,2020,1,Green flag
+18,Canada,2020,1,Green flag
+19,Canada,2020,1,Green flag
+20,Canada,2020,1,Green flag
+21,Canada,2020,1,Green flag
+22,Canada,2020,1,Green flag
+23,Canada,2020,1,Green flag
+24,Canada,2020,1,Green flag
+25,Canada,2020,1,Green flag
+26,Canada,2020,1,Green flag
+27,Canada,2020,1,Green flag
+28,Canada,2020,1,Green flag
+29,Canada,2020,1,Green flag
+30,Canada,2020,1,Green flag
+31,Canada,2020,1,Green flag
+32,Canada,2020,1,Green flag
+33,Canada,2020,1,Green flag
+34,Canada,2020,1,Green flag
+35,Canada,2020,1,Green flag
+36,Canada,2020,1,Green flag
+37,Canada,2020,1,Green flag
+38,Canada,2020,1,Green flag
+39,Canada,2020,1,Green flag
+40,Canada,2020,1,Green flag
+41,Canada,2020,1,Green flag
+42,Canada,2020,1,Green flag
+43,Canada,2020,24,Safety Car
+44,Canada,2020,4,Safety Car
+45,Canada,2020,45,Safety Car
+46,Canada,2020,1,Green flag
+47,Canada,2020,1,Green flag
+48,Canada,2020,1,Green flag
+49,Canada,2020,1,Green flag
+50,Canada,2020,1,Green flag
+51,Canada,2020,1,Green flag
+52,Canada,2020,1,Green flag
+53,Canada,2020,1,Green flag
+54,Canada,2020,1,Green flag
+55,Canada,2020,1,Green flag
+56,Canada,2020,1,Green flag
+57,Canada,2020,1,Green flag
+58,Canada,2020,1,Green flag
+59,Canada,2020,1,Green flag
+1,Austria,2020,1,Green flag
+2,Austria,2020,1,Green flag
+3,Austria,2020,1,Green flag
+4,Austria,2020,1,Green flag
+5,Austria,2020,1,Green flag
+6,Austria,2020,1,Green flag
+7,Austria,2020,1,Green flag
+8,Austria,2020,1,Green flag
+9,Austria,2020,1,Green flag
+10,Austria,2020,1,Green flag
+11,Austria,2020,1,Green flag
+12,Austria,2020,1,Green flag
+13,Austria,2020,1,Green flag
+14,Austria,2020,1,Green flag
+15,Austria,2020,2,Yellow flag
+16,Austria,2020,1,Green flag
+17,Austria,2020,1,Green flag
+18,Austria,2020,1,Green flag
+19,Austria,2020,1,Green flag
+20,Austria,2020,2,Yellow flag
+21,Austria,2020,24,Safety Car
+22,Austria,2020,4,Safety Car
+23,Austria,2020,4,Safety Car
+24,Austria,2020,4,Safety Car
+25,Austria,2020,4,Safety Car
+26,Austria,2020,2,Yellow flag
+27,Austria,2020,1,Green flag
+28,Austria,2020,1,Green flag
+29,Austria,2020,1,Green flag
+30,Austria,2020,1,Green flag
+31,Austria,2020,1,Green flag
+32,Austria,2020,1,Green flag
+33,Austria,2020,1,Green flag
+34,Austria,2020,1,Green flag
+35,Austria,2020,1,Green flag
+36,Austria,2020,1,Green flag
+37,Austria,2020,1,Green flag
+38,Austria,2020,1,Green flag
+39,Austria,2020,1,Green flag
+40,Austria,2020,1,Green flag
+41,Austria,2020,1,Green flag
+42,Austria,2020,1,Green flag
+43,Austria,2020,1,Green flag
+44,Austria,2020,1,Green flag
+45,Austria,2020,1,Green flag
+46,Austria,2020,24,Safety Car
+47,Austria,2020,4,Safety Car
+48,Austria,2020,4,Safety Car
+49,Austria,2020,42,Safety Car
+50,Austria,2020,24,Safety Car
+51,Austria,2020,4,Safety Car
+52,Austria,2020,4,Safety Car
+53,Austria,2020,4,Safety Car
+54,Austria,2020,4,Safety Car
+55,Austria,2020,4,Safety Car
+56,Austria,2020,1,Green flag
+57,Austria,2020,1,Green flag
+58,Austria,2020,1,Green flag
+59,Austria,2020,1,Green flag
+60,Austria,2020,1,Green flag
+61,Austria,2020,1,Green flag
+62,Austria,2020,1,Green flag
+63,Austria,2020,1,Green flag
+64,Austria,2020,2,Yellow flag
+65,Austria,2020,2,Yellow flag
+66,Austria,2020,1,Green flag
+67,Austria,2020,,Unknown
+68,Austria,2020,,Unknown
+1,Great Britain,2020,1,Green flag
+2,Great Britain,2020,24,Safety Car
+3,Great Britain,2020,4,Safety Car
+4,Great Britain,2020,4,Safety Car
+5,Great Britain,2020,4,Safety Car
+6,Great Britain,2020,1,Green flag
+7,Great Britain,2020,1,Green flag
+8,Great Britain,2020,1,Green flag
+9,Great Britain,2020,1,Green flag
+10,Great Britain,2020,1,Green flag
+11,Great Britain,2020,1,Green flag
+12,Great Britain,2020,24,Safety Car
+13,Great Britain,2020,4,Safety Car
+14,Great Britain,2020,4,Safety Car
+15,Great Britain,2020,4,Safety Car
+16,Great Britain,2020,4,Safety Car
+17,Great Britain,2020,4,Safety Car
+18,Great Britain,2020,4,Safety Car
+19,Great Britain,2020,1,Green flag
+20,Great Britain,2020,1,Green flag
+21,Great Britain,2020,1,Green flag
+22,Great Britain,2020,1,Green flag
+23,Great Britain,2020,1,Green flag
+24,Great Britain,2020,1,Green flag
+25,Great Britain,2020,1,Green flag
+26,Great Britain,2020,1,Green flag
+27,Great Britain,2020,1,Green flag
+28,Great Britain,2020,1,Green flag
+29,Great Britain,2020,1,Green flag
+30,Great Britain,2020,1,Green flag
+31,Great Britain,2020,1,Green flag
+32,Great Britain,2020,1,Green flag
+33,Great Britain,2020,1,Green flag
+34,Great Britain,2020,1,Green flag
+35,Great Britain,2020,1,Green flag
+36,Great Britain,2020,1,Green flag
+37,Great Britain,2020,1,Green flag
+38,Great Britain,2020,1,Green flag
+39,Great Britain,2020,1,Green flag
+40,Great Britain,2020,1,Green flag
+41,Great Britain,2020,1,Green flag
+42,Great Britain,2020,1,Green flag
+43,Great Britain,2020,1,Green flag
+44,Great Britain,2020,1,Green flag
+45,Great Britain,2020,1,Green flag
+46,Great Britain,2020,1,Green flag
+47,Great Britain,2020,1,Green flag
+48,Great Britain,2020,2,Yellow flag
+49,Great Britain,2020,1,Green flag
+50,Great Britain,2020,1,Green flag
+51,Great Britain,2020,1,Green flag
+52,Great Britain,2020,1,Green flag
+0,Great Britain,2020,1,Green flag
+1,Hungary,2020,1,Green flag
+2,Hungary,2020,1,Green flag
+3,Hungary,2020,1,Green flag
+4,Hungary,2020,2,Yellow flag
+5,Hungary,2020,2,Yellow flag
+6,Hungary,2020,1,Green flag
+7,Hungary,2020,1,Green flag
+8,Hungary,2020,1,Green flag
+9,Hungary,2020,1,Green flag
+10,Hungary,2020,1,Green flag
+11,Hungary,2020,1,Green flag
+12,Hungary,2020,1,Green flag
+13,Hungary,2020,1,Green flag
+14,Hungary,2020,1,Green flag
+15,Hungary,2020,1,Green flag
+16,Hungary,2020,1,Green flag
+17,Hungary,2020,1,Green flag
+18,Hungary,2020,1,Green flag
+19,Hungary,2020,1,Green flag
+20,Hungary,2020,1,Green flag
+21,Hungary,2020,1,Green flag
+22,Hungary,2020,1,Green flag
+23,Hungary,2020,1,Green flag
+24,Hungary,2020,1,Green flag
+25,Hungary,2020,1,Green flag
+26,Hungary,2020,1,Green flag
+27,Hungary,2020,1,Green flag
+28,Hungary,2020,1,Green flag
+29,Hungary,2020,1,Green flag
+30,Hungary,2020,1,Green flag
+31,Hungary,2020,1,Green flag
+32,Hungary,2020,1,Green flag
+33,Hungary,2020,1,Green flag
+34,Hungary,2020,1,Green flag
+35,Hungary,2020,1,Green flag
+36,Hungary,2020,1,Green flag
+37,Hungary,2020,1,Green flag
+38,Hungary,2020,1,Green flag
+39,Hungary,2020,1,Green flag
+40,Hungary,2020,1,Green flag
+41,Hungary,2020,1,Green flag
+42,Hungary,2020,1,Green flag
+43,Hungary,2020,2,Yellow flag
+44,Hungary,2020,1,Green flag
+45,Hungary,2020,1,Green flag
+46,Hungary,2020,1,Green flag
+47,Hungary,2020,1,Green flag
+48,Hungary,2020,1,Green flag
+49,Hungary,2020,1,Green flag
+50,Hungary,2020,1,Green flag
+51,Hungary,2020,1,Green flag
+52,Hungary,2020,1,Green flag
+53,Hungary,2020,1,Green flag
+54,Hungary,2020,1,Green flag
+55,Hungary,2020,1,Green flag
+56,Hungary,2020,1,Green flag
+57,Hungary,2020,1,Green flag
+58,Hungary,2020,1,Green flag
+59,Hungary,2020,1,Green flag
+60,Hungary,2020,1,Green flag
+61,Hungary,2020,1,Green flag
+62,Hungary,2020,1,Green flag
+63,Hungary,2020,1,Green flag
+64,Hungary,2020,1,Green flag
+65,Hungary,2020,1,Green flag
+66,Hungary,2020,1,Green flag
+67,Hungary,2020,1,Green flag
+68,Hungary,2020,1,Green flag
+69,Hungary,2020,1,Green flag
+70,Hungary,2020,1,Green flag
+1,Belgium,2020,1,Green flag
+2,Belgium,2020,1,Green flag
+3,Belgium,2020,1,Green flag
+4,Belgium,2020,1,Green flag
+5,Belgium,2020,1,Green flag
+6,Belgium,2020,1,Green flag
+7,Belgium,2020,1,Green flag
+8,Belgium,2020,1,Green flag
+9,Belgium,2020,1,Green flag
+10,Belgium,2020,24,Safety Car
+11,Belgium,2020,4,Safety Car
+12,Belgium,2020,4,Safety Car
+13,Belgium,2020,4,Safety Car
+14,Belgium,2020,4,Safety Car
+15,Belgium,2020,1,Green flag
+16,Belgium,2020,1,Green flag
+17,Belgium,2020,1,Green flag
+18,Belgium,2020,1,Green flag
+19,Belgium,2020,1,Green flag
+20,Belgium,2020,1,Green flag
+21,Belgium,2020,1,Green flag
+22,Belgium,2020,1,Green flag
+23,Belgium,2020,1,Green flag
+24,Belgium,2020,1,Green flag
+25,Belgium,2020,1,Green flag
+26,Belgium,2020,1,Green flag
+27,Belgium,2020,1,Green flag
+28,Belgium,2020,1,Green flag
+29,Belgium,2020,1,Green flag
+30,Belgium,2020,1,Green flag
+31,Belgium,2020,1,Green flag
+32,Belgium,2020,1,Green flag
+33,Belgium,2020,1,Green flag
+34,Belgium,2020,1,Green flag
+35,Belgium,2020,1,Green flag
+36,Belgium,2020,1,Green flag
+37,Belgium,2020,1,Green flag
+38,Belgium,2020,1,Green flag
+39,Belgium,2020,1,Green flag
+40,Belgium,2020,1,Green flag
+41,Belgium,2020,1,Green flag
+42,Belgium,2020,1,Green flag
+43,Belgium,2020,1,Green flag
+44,Belgium,2020,2,Yellow flag
+0,Belgium,2020,1,Green flag
+1,Abu Dhabi,2020,1,Green flag
+2,Abu Dhabi,2020,1,Green flag
+3,Abu Dhabi,2020,1,Green flag
+4,Abu Dhabi,2020,1,Green flag
+5,Abu Dhabi,2020,1,Green flag
+6,Abu Dhabi,2020,1,Green flag
+7,Abu Dhabi,2020,1,Green flag
+8,Abu Dhabi,2020,1,Green flag
+9,Abu Dhabi,2020,2,Yellow flag
+10,Abu Dhabi,2020,26,Virtual Safety Car
+11,Abu Dhabi,2020,64,Safety Car
+12,Abu Dhabi,2020,4,Safety Car
+13,Abu Dhabi,2020,4,Safety Car
+14,Abu Dhabi,2020,1,Green flag
+15,Abu Dhabi,2020,1,Green flag
+16,Abu Dhabi,2020,1,Green flag
+17,Abu Dhabi,2020,1,Green flag
+18,Abu Dhabi,2020,1,Green flag
+19,Abu Dhabi,2020,1,Green flag
+20,Abu Dhabi,2020,1,Green flag
+21,Abu Dhabi,2020,1,Green flag
+22,Abu Dhabi,2020,1,Green flag
+23,Abu Dhabi,2020,1,Green flag
+24,Abu Dhabi,2020,1,Green flag
+25,Abu Dhabi,2020,1,Green flag
+26,Abu Dhabi,2020,1,Green flag
+27,Abu Dhabi,2020,1,Green flag
+28,Abu Dhabi,2020,1,Green flag
+29,Abu Dhabi,2020,1,Green flag
+30,Abu Dhabi,2020,1,Green flag
+31,Abu Dhabi,2020,1,Green flag
+32,Abu Dhabi,2020,1,Green flag
+33,Abu Dhabi,2020,1,Green flag
+34,Abu Dhabi,2020,1,Green flag
+35,Abu Dhabi,2020,1,Green flag
+36,Abu Dhabi,2020,1,Green flag
+37,Abu Dhabi,2020,1,Green flag
+38,Abu Dhabi,2020,1,Green flag
+39,Abu Dhabi,2020,1,Green flag
+40,Abu Dhabi,2020,1,Green flag
+41,Abu Dhabi,2020,1,Green flag
+42,Abu Dhabi,2020,1,Green flag
+43,Abu Dhabi,2020,1,Green flag
+44,Abu Dhabi,2020,1,Green flag
+45,Abu Dhabi,2020,1,Green flag
+46,Abu Dhabi,2020,1,Green flag
+47,Abu Dhabi,2020,1,Green flag
+48,Abu Dhabi,2020,1,Green flag
+49,Abu Dhabi,2020,1,Green flag
+50,Abu Dhabi,2020,1,Green flag
+51,Abu Dhabi,2020,1,Green flag
+52,Abu Dhabi,2020,1,Green flag
+53,Abu Dhabi,2020,1,Green flag
+54,Abu Dhabi,2020,1,Green flag
+55,Abu Dhabi,2020,1,Green flag
+1,Monza,2020,1,Green flag
+2,Monza,2020,1,Green flag
+3,Monza,2020,1,Green flag
+4,Monza,2020,1,Green flag
+5,Monza,2020,1,Green flag
+6,Monza,2020,1,Green flag
+7,Monza,2020,1,Green flag
+8,Monza,2020,2,Yellow flag
+9,Monza,2020,1,Green flag
+10,Monza,2020,1,Green flag
+11,Monza,2020,1,Green flag
+12,Monza,2020,1,Green flag
+13,Monza,2020,1,Green flag
+14,Monza,2020,1,Green flag
+15,Monza,2020,1,Green flag
+16,Monza,2020,1,Green flag
+17,Monza,2020,1,Green flag
+18,Monza,2020,1,Green flag
+19,Monza,2020,2,Yellow flag
+20,Monza,2020,24,Safety Car
+21,Monza,2020,4,Safety Car
+22,Monza,2020,4,Safety Car
+23,Monza,2020,4,Safety Car
+24,Monza,2020,1,Green flag
+25,Monza,2020,24,Safety Car
+26,Monza,2020,45,Safety Car
+27,Monza,2020,1,Green flag
+28,Monza,2020,1,Green flag
+29,Monza,2020,1,Green flag
+30,Monza,2020,1,Green flag
+31,Monza,2020,1,Green flag
+32,Monza,2020,1,Green flag
+33,Monza,2020,1,Green flag
+34,Monza,2020,1,Green flag
+35,Monza,2020,1,Green flag
+36,Monza,2020,1,Green flag
+37,Monza,2020,1,Green flag
+38,Monza,2020,1,Green flag
+39,Monza,2020,1,Green flag
+40,Monza,2020,1,Green flag
+41,Monza,2020,1,Green flag
+42,Monza,2020,1,Green flag
+43,Monza,2020,1,Green flag
+44,Monza,2020,1,Green flag
+45,Monza,2020,1,Green flag
+46,Monza,2020,1,Green flag
+47,Monza,2020,1,Green flag
+48,Monza,2020,1,Green flag
+49,Monza,2020,1,Green flag
+50,Monza,2020,1,Green flag
+51,Monza,2020,1,Green flag
+52,Monza,2020,1,Green flag
+53,Monza,2020,1,Green flag
+1,Bahrain,2021,24,Safety Car
+2,Bahrain,2021,4,Safety Car
+3,Bahrain,2021,4,Safety Car
+4,Bahrain,2021,267,Virtual Safety Car
+5,Bahrain,2021,7,Unknown
+6,Bahrain,2021,1,Green flag
+7,Bahrain,2021,1,Green flag
+8,Bahrain,2021,1,Green flag
+9,Bahrain,2021,1,Green flag
+10,Bahrain,2021,1,Green flag
+11,Bahrain,2021,1,Green flag
+12,Bahrain,2021,1,Green flag
+13,Bahrain,2021,1,Green flag
+14,Bahrain,2021,1,Green flag
+15,Bahrain,2021,1,Green flag
+16,Bahrain,2021,1,Green flag
+17,Bahrain,2021,1,Green flag
+18,Bahrain,2021,1,Green flag
+19,Bahrain,2021,1,Green flag
+20,Bahrain,2021,1,Green flag
+21,Bahrain,2021,1,Green flag
+22,Bahrain,2021,1,Green flag
+23,Bahrain,2021,1,Green flag
+24,Bahrain,2021,1,Green flag
+25,Bahrain,2021,1,Green flag
+26,Bahrain,2021,1,Green flag
+27,Bahrain,2021,1,Green flag
+28,Bahrain,2021,1,Green flag
+29,Bahrain,2021,1,Green flag
+30,Bahrain,2021,1,Green flag
+31,Bahrain,2021,1,Green flag
+32,Bahrain,2021,1,Green flag
+33,Bahrain,2021,1,Green flag
+34,Bahrain,2021,1,Green flag
+35,Bahrain,2021,1,Green flag
+36,Bahrain,2021,1,Green flag
+37,Bahrain,2021,1,Green flag
+38,Bahrain,2021,1,Green flag
+39,Bahrain,2021,1,Green flag
+40,Bahrain,2021,1,Green flag
+41,Bahrain,2021,1,Green flag
+42,Bahrain,2021,1,Green flag
+43,Bahrain,2021,2,Yellow flag
+44,Bahrain,2021,1,Green flag
+45,Bahrain,2021,1,Green flag
+46,Bahrain,2021,1,Green flag
+47,Bahrain,2021,1,Green flag
+48,Bahrain,2021,1,Green flag
+49,Bahrain,2021,1,Green flag
+50,Bahrain,2021,1,Green flag
+51,Bahrain,2021,1,Green flag
+52,Bahrain,2021,1,Green flag
+53,Bahrain,2021,1,Green flag
+54,Bahrain,2021,1,Green flag
+55,Bahrain,2021,1,Green flag
+56,Bahrain,2021,1,Green flag
+57,Bahrain,2021,,Unknown
+0,Bahrain,2021,24,Safety Car
+1,Monaco,2021,1,Green flag
+2,Monaco,2021,1,Green flag
+3,Monaco,2021,1,Green flag
+4,Monaco,2021,1,Green flag
+5,Monaco,2021,1,Green flag
+6,Monaco,2021,1,Green flag
+7,Monaco,2021,1,Green flag
+8,Monaco,2021,1,Green flag
+9,Monaco,2021,1,Green flag
+10,Monaco,2021,1,Green flag
+11,Monaco,2021,1,Green flag
+12,Monaco,2021,1,Green flag
+13,Monaco,2021,1,Green flag
+14,Monaco,2021,1,Green flag
+15,Monaco,2021,1,Green flag
+16,Monaco,2021,1,Green flag
+17,Monaco,2021,1,Green flag
+18,Monaco,2021,1,Green flag
+19,Monaco,2021,1,Green flag
+20,Monaco,2021,1,Green flag
+21,Monaco,2021,1,Green flag
+22,Monaco,2021,1,Green flag
+23,Monaco,2021,1,Green flag
+24,Monaco,2021,1,Green flag
+25,Monaco,2021,1,Green flag
+26,Monaco,2021,1,Green flag
+27,Monaco,2021,1,Green flag
+28,Monaco,2021,1,Green flag
+29,Monaco,2021,1,Green flag
+30,Monaco,2021,1,Green flag
+31,Monaco,2021,1,Green flag
+32,Monaco,2021,1,Green flag
+33,Monaco,2021,1,Green flag
+34,Monaco,2021,1,Green flag
+35,Monaco,2021,1,Green flag
+36,Monaco,2021,1,Green flag
+37,Monaco,2021,1,Green flag
+38,Monaco,2021,1,Green flag
+39,Monaco,2021,1,Green flag
+40,Monaco,2021,1,Green flag
+41,Monaco,2021,1,Green flag
+42,Monaco,2021,1,Green flag
+43,Monaco,2021,1,Green flag
+44,Monaco,2021,1,Green flag
+45,Monaco,2021,1,Green flag
+46,Monaco,2021,1,Green flag
+47,Monaco,2021,1,Green flag
+48,Monaco,2021,1,Green flag
+49,Monaco,2021,1,Green flag
+50,Monaco,2021,1,Green flag
+51,Monaco,2021,1,Green flag
+52,Monaco,2021,1,Green flag
+53,Monaco,2021,1,Green flag
+54,Monaco,2021,1,Green flag
+55,Monaco,2021,1,Green flag
+56,Monaco,2021,1,Green flag
+57,Monaco,2021,1,Green flag
+58,Monaco,2021,1,Green flag
+59,Monaco,2021,1,Green flag
+60,Monaco,2021,1,Green flag
+61,Monaco,2021,1,Green flag
+62,Monaco,2021,1,Green flag
+63,Monaco,2021,1,Green flag
+64,Monaco,2021,1,Green flag
+65,Monaco,2021,1,Green flag
+66,Monaco,2021,1,Green flag
+67,Monaco,2021,1,Green flag
+68,Monaco,2021,1,Green flag
+69,Monaco,2021,1,Green flag
+70,Monaco,2021,1,Green flag
+71,Monaco,2021,1,Green flag
+72,Monaco,2021,1,Green flag
+73,Monaco,2021,1,Green flag
+74,Monaco,2021,1,Green flag
+75,Monaco,2021,1,Green flag
+76,Monaco,2021,1,Green flag
+77,Monaco,2021,1,Green flag
+78,Monaco,2021,1,Green flag
+0,Monaco,2021,1,Green flag
+1,Spain,2021,1,Green flag
+2,Spain,2021,1,Green flag
+3,Spain,2021,1,Green flag
+4,Spain,2021,1,Green flag
+5,Spain,2021,1,Green flag
+6,Spain,2021,1,Green flag
+7,Spain,2021,2,Yellow flag
+8,Spain,2021,24,Safety Car
+9,Spain,2021,4,Safety Car
+10,Spain,2021,4,Safety Car
+11,Spain,2021,1,Green flag
+12,Spain,2021,1,Green flag
+13,Spain,2021,1,Green flag
+14,Spain,2021,1,Green flag
+15,Spain,2021,1,Green flag
+16,Spain,2021,1,Green flag
+17,Spain,2021,1,Green flag
+18,Spain,2021,1,Green flag
+19,Spain,2021,1,Green flag
+20,Spain,2021,1,Green flag
+21,Spain,2021,1,Green flag
+22,Spain,2021,1,Green flag
+23,Spain,2021,1,Green flag
+24,Spain,2021,1,Green flag
+25,Spain,2021,1,Green flag
+26,Spain,2021,1,Green flag
+27,Spain,2021,1,Green flag
+28,Spain,2021,1,Green flag
+29,Spain,2021,1,Green flag
+30,Spain,2021,1,Green flag
+31,Spain,2021,1,Green flag
+32,Spain,2021,1,Green flag
+33,Spain,2021,1,Green flag
+34,Spain,2021,1,Green flag
+35,Spain,2021,1,Green flag
+36,Spain,2021,1,Green flag
+37,Spain,2021,1,Green flag
+38,Spain,2021,1,Green flag
+39,Spain,2021,1,Green flag
+40,Spain,2021,1,Green flag
+41,Spain,2021,1,Green flag
+42,Spain,2021,1,Green flag
+43,Spain,2021,1,Green flag
+44,Spain,2021,1,Green flag
+45,Spain,2021,1,Green flag
+46,Spain,2021,1,Green flag
+47,Spain,2021,1,Green flag
+48,Spain,2021,1,Green flag
+49,Spain,2021,1,Green flag
+50,Spain,2021,1,Green flag
+51,Spain,2021,1,Green flag
+52,Spain,2021,1,Green flag
+53,Spain,2021,1,Green flag
+54,Spain,2021,1,Green flag
+55,Spain,2021,1,Green flag
+56,Spain,2021,1,Green flag
+57,Spain,2021,1,Green flag
+58,Spain,2021,1,Green flag
+59,Spain,2021,1,Green flag
+60,Spain,2021,1,Green flag
+61,Spain,2021,1,Green flag
+62,Spain,2021,1,Green flag
+63,Spain,2021,1,Green flag
+64,Spain,2021,1,Green flag
+65,Spain,2021,1,Green flag
+66,Spain,2021,1,Green flag
+1,Imola,2021,24,Safety Car
+2,Imola,2021,4,Safety Car
+3,Imola,2021,4,Safety Car
+4,Imola,2021,4,Safety Car
+5,Imola,2021,4,Safety Car
+6,Imola,2021,4,Safety Car
+7,Imola,2021,1,Green flag
+8,Imola,2021,1,Green flag
+9,Imola,2021,1,Green flag
+10,Imola,2021,2,Yellow flag
+11,Imola,2021,1,Green flag
+12,Imola,2021,1,Green flag
+13,Imola,2021,2,Yellow flag
+14,Imola,2021,1,Green flag
+15,Imola,2021,1,Green flag
+16,Imola,2021,1,Green flag
+17,Imola,2021,1,Green flag
+18,Imola,2021,1,Green flag
+19,Imola,2021,1,Green flag
+20,Imola,2021,1,Green flag
+21,Imola,2021,1,Green flag
+22,Imola,2021,1,Green flag
+23,Imola,2021,1,Green flag
+24,Imola,2021,1,Green flag
+25,Imola,2021,1,Green flag
+26,Imola,2021,1,Green flag
+27,Imola,2021,1,Green flag
+28,Imola,2021,1,Green flag
+29,Imola,2021,2,Yellow flag
+30,Imola,2021,24,Safety Car
+31,Imola,2021,4,Safety Car
+32,Imola,2021,45,Safety Car
+33,Imola,2021,5,Red Flag
+34,Imola,2021,1,Green flag
+35,Imola,2021,2,Yellow flag
+36,Imola,2021,1,Green flag
+37,Imola,2021,1,Green flag
+38,Imola,2021,2,Yellow flag
+39,Imola,2021,1,Green flag
+40,Imola,2021,1,Green flag
+41,Imola,2021,1,Green flag
+42,Imola,2021,1,Green flag
+43,Imola,2021,1,Green flag
+44,Imola,2021,1,Green flag
+45,Imola,2021,1,Green flag
+46,Imola,2021,1,Green flag
+47,Imola,2021,1,Green flag
+48,Imola,2021,1,Green flag
+49,Imola,2021,1,Green flag
+50,Imola,2021,1,Green flag
+51,Imola,2021,1,Green flag
+52,Imola,2021,1,Green flag
+53,Imola,2021,1,Green flag
+54,Imola,2021,1,Green flag
+55,Imola,2021,1,Green flag
+56,Imola,2021,1,Green flag
+57,Imola,2021,1,Green flag
+58,Imola,2021,1,Green flag
+59,Imola,2021,1,Green flag
+60,Imola,2021,1,Green flag
+61,Imola,2021,2,Yellow flag
+62,Imola,2021,1,Green flag
+63,Imola,2021,1,Green flag
+0,Imola,2021,2,Yellow flag
+1,Austria,2021,2,Yellow flag
+2,Austria,2021,1,Green flag
+3,Austria,2021,1,Green flag
+4,Austria,2021,1,Green flag
+5,Austria,2021,1,Green flag
+6,Austria,2021,1,Green flag
+7,Austria,2021,1,Green flag
+8,Austria,2021,1,Green flag
+9,Austria,2021,1,Green flag
+10,Austria,2021,1,Green flag
+11,Austria,2021,1,Green flag
+12,Austria,2021,1,Green flag
+13,Austria,2021,1,Green flag
+14,Austria,2021,1,Green flag
+15,Austria,2021,1,Green flag
+16,Austria,2021,1,Green flag
+17,Austria,2021,1,Green flag
+18,Austria,2021,1,Green flag
+19,Austria,2021,1,Green flag
+20,Austria,2021,1,Green flag
+21,Austria,2021,1,Green flag
+22,Austria,2021,1,Green flag
+23,Austria,2021,1,Green flag
+24,Austria,2021,1,Green flag
+25,Austria,2021,1,Green flag
+26,Austria,2021,1,Green flag
+27,Austria,2021,1,Green flag
+28,Austria,2021,1,Green flag
+29,Austria,2021,1,Green flag
+30,Austria,2021,1,Green flag
+31,Austria,2021,1,Green flag
+32,Austria,2021,1,Green flag
+33,Austria,2021,1,Green flag
+34,Austria,2021,1,Green flag
+35,Austria,2021,1,Green flag
+36,Austria,2021,1,Green flag
+37,Austria,2021,1,Green flag
+38,Austria,2021,1,Green flag
+39,Austria,2021,1,Green flag
+40,Austria,2021,1,Green flag
+41,Austria,2021,1,Green flag
+42,Austria,2021,1,Green flag
+43,Austria,2021,1,Green flag
+44,Austria,2021,1,Green flag
+45,Austria,2021,1,Green flag
+46,Austria,2021,1,Green flag
+47,Austria,2021,1,Green flag
+48,Austria,2021,1,Green flag
+49,Austria,2021,1,Green flag
+50,Austria,2021,1,Green flag
+51,Austria,2021,1,Green flag
+52,Austria,2021,1,Green flag
+53,Austria,2021,1,Green flag
+54,Austria,2021,1,Green flag
+55,Austria,2021,1,Green flag
+56,Austria,2021,1,Green flag
+57,Austria,2021,1,Green flag
+58,Austria,2021,1,Green flag
+59,Austria,2021,1,Green flag
+60,Austria,2021,1,Green flag
+61,Austria,2021,1,Green flag
+62,Austria,2021,1,Green flag
+63,Austria,2021,1,Green flag
+64,Austria,2021,1,Green flag
+65,Austria,2021,1,Green flag
+66,Austria,2021,1,Green flag
+67,Austria,2021,1,Green flag
+68,Austria,2021,1,Green flag
+69,Austria,2021,1,Green flag
+70,Austria,2021,1,Green flag
+71,Austria,2021,1,Green flag
+1,Great Britain,2021,24,Safety Car
+2,Great Britain,2021,45,Safety Car
+3,Great Britain,2021,1,Green flag
+4,Great Britain,2021,2,Yellow flag
+5,Great Britain,2021,1,Green flag
+6,Great Britain,2021,1,Green flag
+7,Great Britain,2021,1,Green flag
+8,Great Britain,2021,1,Green flag
+9,Great Britain,2021,1,Green flag
+10,Great Britain,2021,1,Green flag
+11,Great Britain,2021,1,Green flag
+12,Great Britain,2021,1,Green flag
+13,Great Britain,2021,1,Green flag
+14,Great Britain,2021,1,Green flag
+15,Great Britain,2021,1,Green flag
+16,Great Britain,2021,1,Green flag
+17,Great Britain,2021,1,Green flag
+18,Great Britain,2021,1,Green flag
+19,Great Britain,2021,1,Green flag
+20,Great Britain,2021,1,Green flag
+21,Great Britain,2021,1,Green flag
+22,Great Britain,2021,1,Green flag
+23,Great Britain,2021,1,Green flag
+24,Great Britain,2021,1,Green flag
+25,Great Britain,2021,1,Green flag
+26,Great Britain,2021,1,Green flag
+27,Great Britain,2021,1,Green flag
+28,Great Britain,2021,1,Green flag
+29,Great Britain,2021,1,Green flag
+30,Great Britain,2021,1,Green flag
+31,Great Britain,2021,1,Green flag
+32,Great Britain,2021,1,Green flag
+33,Great Britain,2021,1,Green flag
+34,Great Britain,2021,1,Green flag
+35,Great Britain,2021,1,Green flag
+36,Great Britain,2021,1,Green flag
+37,Great Britain,2021,1,Green flag
+38,Great Britain,2021,1,Green flag
+39,Great Britain,2021,1,Green flag
+40,Great Britain,2021,1,Green flag
+41,Great Britain,2021,1,Green flag
+42,Great Britain,2021,1,Green flag
+43,Great Britain,2021,1,Green flag
+44,Great Britain,2021,1,Green flag
+45,Great Britain,2021,1,Green flag
+46,Great Britain,2021,1,Green flag
+47,Great Britain,2021,2,Yellow flag
+48,Great Britain,2021,1,Green flag
+49,Great Britain,2021,1,Green flag
+50,Great Britain,2021,1,Green flag
+51,Great Britain,2021,1,Green flag
+52,Great Britain,2021,1,Green flag
+0,Great Britain,2021,24,Safety Car
+1,Hungary,2021,24,Safety Car
+2,Hungary,2021,45,Safety Car
+3,Hungary,2021,1,Green flag
+4,Hungary,2021,1,Green flag
+5,Hungary,2021,1,Green flag
+6,Hungary,2021,1,Green flag
+7,Hungary,2021,1,Green flag
+8,Hungary,2021,1,Green flag
+9,Hungary,2021,1,Green flag
+10,Hungary,2021,1,Green flag
+11,Hungary,2021,1,Green flag
+12,Hungary,2021,1,Green flag
+13,Hungary,2021,1,Green flag
+14,Hungary,2021,1,Green flag
+15,Hungary,2021,1,Green flag
+16,Hungary,2021,1,Green flag
+17,Hungary,2021,1,Green flag
+18,Hungary,2021,1,Green flag
+19,Hungary,2021,1,Green flag
+20,Hungary,2021,1,Green flag
+21,Hungary,2021,1,Green flag
+22,Hungary,2021,1,Green flag
+23,Hungary,2021,1,Green flag
+24,Hungary,2021,1,Green flag
+25,Hungary,2021,1,Green flag
+26,Hungary,2021,1,Green flag
+27,Hungary,2021,1,Green flag
+28,Hungary,2021,1,Green flag
+29,Hungary,2021,1,Green flag
+30,Hungary,2021,1,Green flag
+31,Hungary,2021,1,Green flag
+32,Hungary,2021,1,Green flag
+33,Hungary,2021,1,Green flag
+34,Hungary,2021,1,Green flag
+35,Hungary,2021,1,Green flag
+36,Hungary,2021,1,Green flag
+37,Hungary,2021,1,Green flag
+38,Hungary,2021,1,Green flag
+39,Hungary,2021,1,Green flag
+40,Hungary,2021,1,Green flag
+41,Hungary,2021,1,Green flag
+42,Hungary,2021,1,Green flag
+43,Hungary,2021,1,Green flag
+44,Hungary,2021,1,Green flag
+45,Hungary,2021,1,Green flag
+46,Hungary,2021,1,Green flag
+47,Hungary,2021,1,Green flag
+48,Hungary,2021,1,Green flag
+49,Hungary,2021,1,Green flag
+50,Hungary,2021,1,Green flag
+51,Hungary,2021,1,Green flag
+52,Hungary,2021,1,Green flag
+53,Hungary,2021,1,Green flag
+54,Hungary,2021,1,Green flag
+55,Hungary,2021,1,Green flag
+56,Hungary,2021,1,Green flag
+57,Hungary,2021,1,Green flag
+58,Hungary,2021,1,Green flag
+59,Hungary,2021,1,Green flag
+60,Hungary,2021,1,Green flag
+61,Hungary,2021,1,Green flag
+62,Hungary,2021,1,Green flag
+63,Hungary,2021,2,Yellow flag
+64,Hungary,2021,1,Green flag
+65,Hungary,2021,1,Green flag
+66,Hungary,2021,1,Green flag
+67,Hungary,2021,1,Green flag
+68,Hungary,2021,1,Green flag
+69,Hungary,2021,1,Green flag
+70,Hungary,2021,1,Green flag
+0,Hungary,2021,24,Safety Car
+1,Belgium,2021,1,Green flag
+2,Belgium,2021,1,Green flag
+3,Belgium,2021,1,Green flag
+1,Azerbaijan,2021,1,Green flag
+2,Azerbaijan,2021,1,Green flag
+3,Azerbaijan,2021,1,Green flag
+4,Azerbaijan,2021,2,Yellow flag
+5,Azerbaijan,2021,1,Green flag
+6,Azerbaijan,2021,1,Green flag
+7,Azerbaijan,2021,1,Green flag
+8,Azerbaijan,2021,1,Green flag
+9,Azerbaijan,2021,1,Green flag
+10,Azerbaijan,2021,1,Green flag
+11,Azerbaijan,2021,2,Yellow flag
+12,Azerbaijan,2021,1,Green flag
+13,Azerbaijan,2021,1,Green flag
+14,Azerbaijan,2021,1,Green flag
+15,Azerbaijan,2021,1,Green flag
+16,Azerbaijan,2021,1,Green flag
+17,Azerbaijan,2021,1,Green flag
+18,Azerbaijan,2021,1,Green flag
+19,Azerbaijan,2021,1,Green flag
+20,Azerbaijan,2021,1,Green flag
+21,Azerbaijan,2021,1,Green flag
+22,Azerbaijan,2021,1,Green flag
+23,Azerbaijan,2021,2,Yellow flag
+24,Azerbaijan,2021,2,Yellow flag
+25,Azerbaijan,2021,2,Yellow flag
+26,Azerbaijan,2021,1,Green flag
+27,Azerbaijan,2021,1,Green flag
+28,Azerbaijan,2021,1,Green flag
+29,Azerbaijan,2021,1,Green flag
+30,Azerbaijan,2021,2,Yellow flag
+31,Azerbaijan,2021,24,Safety Car
+32,Azerbaijan,2021,4,Safety Car
+33,Azerbaijan,2021,4,Safety Car
+34,Azerbaijan,2021,4,Safety Car
+35,Azerbaijan,2021,4,Safety Car
+36,Azerbaijan,2021,1,Green flag
+37,Azerbaijan,2021,1,Green flag
+38,Azerbaijan,2021,1,Green flag
+39,Azerbaijan,2021,1,Green flag
+40,Azerbaijan,2021,1,Green flag
+41,Azerbaijan,2021,1,Green flag
+42,Azerbaijan,2021,1,Green flag
+43,Azerbaijan,2021,1,Green flag
+44,Azerbaijan,2021,1,Green flag
+45,Azerbaijan,2021,1,Green flag
+46,Azerbaijan,2021,1,Green flag
+47,Azerbaijan,2021,24,Safety Car
+48,Azerbaijan,2021,45,Safety Car
+49,Azerbaijan,2021,1,Green flag
+50,Azerbaijan,2021,2,Yellow flag
+51,Azerbaijan,2021,1,Green flag
+1,Austin,2021,2,Yellow flag
+2,Austin,2021,1,Green flag
+3,Austin,2021,1,Green flag
+4,Austin,2021,1,Green flag
+5,Austin,2021,1,Green flag
+6,Austin,2021,1,Green flag
+7,Austin,2021,1,Green flag
+8,Austin,2021,1,Green flag
+9,Austin,2021,1,Green flag
+10,Austin,2021,1,Green flag
+11,Austin,2021,1,Green flag
+12,Austin,2021,1,Green flag
+13,Austin,2021,1,Green flag
+14,Austin,2021,1,Green flag
+15,Austin,2021,1,Green flag
+16,Austin,2021,1,Green flag
+17,Austin,2021,1,Green flag
+18,Austin,2021,1,Green flag
+19,Austin,2021,1,Green flag
+20,Austin,2021,1,Green flag
+21,Austin,2021,1,Green flag
+22,Austin,2021,1,Green flag
+23,Austin,2021,1,Green flag
+24,Austin,2021,1,Green flag
+25,Austin,2021,1,Green flag
+26,Austin,2021,1,Green flag
+27,Austin,2021,1,Green flag
+28,Austin,2021,67,Virtual Safety Car
+29,Austin,2021,1,Green flag
+30,Austin,2021,1,Green flag
+31,Austin,2021,1,Green flag
+32,Austin,2021,1,Green flag
+33,Austin,2021,1,Green flag
+34,Austin,2021,1,Green flag
+35,Austin,2021,1,Green flag
+36,Austin,2021,1,Green flag
+37,Austin,2021,1,Green flag
+38,Austin,2021,1,Green flag
+39,Austin,2021,1,Green flag
+40,Austin,2021,1,Green flag
+41,Austin,2021,1,Green flag
+42,Austin,2021,1,Green flag
+43,Austin,2021,1,Green flag
+44,Austin,2021,1,Green flag
+45,Austin,2021,1,Green flag
+46,Austin,2021,1,Green flag
+47,Austin,2021,1,Green flag
+48,Austin,2021,1,Green flag
+49,Austin,2021,1,Green flag
+50,Austin,2021,1,Green flag
+51,Austin,2021,1,Green flag
+52,Austin,2021,1,Green flag
+53,Austin,2021,2,Yellow flag
+54,Austin,2021,1,Green flag
+55,Austin,2021,1,Green flag
+56,Austin,2021,1,Green flag
+1,Mexico,2021,24,Safety Car
+2,Mexico,2021,4,Safety Car
+3,Mexico,2021,4,Safety Car
+4,Mexico,2021,4,Safety Car
+5,Mexico,2021,1,Green flag
+6,Mexico,2021,1,Green flag
+7,Mexico,2021,1,Green flag
+8,Mexico,2021,1,Green flag
+9,Mexico,2021,1,Green flag
+10,Mexico,2021,1,Green flag
+11,Mexico,2021,1,Green flag
+12,Mexico,2021,1,Green flag
+13,Mexico,2021,1,Green flag
+14,Mexico,2021,1,Green flag
+15,Mexico,2021,1,Green flag
+16,Mexico,2021,1,Green flag
+17,Mexico,2021,1,Green flag
+18,Mexico,2021,1,Green flag
+19,Mexico,2021,1,Green flag
+20,Mexico,2021,1,Green flag
+21,Mexico,2021,1,Green flag
+22,Mexico,2021,1,Green flag
+23,Mexico,2021,1,Green flag
+24,Mexico,2021,1,Green flag
+25,Mexico,2021,1,Green flag
+26,Mexico,2021,1,Green flag
+27,Mexico,2021,1,Green flag
+28,Mexico,2021,1,Green flag
+29,Mexico,2021,1,Green flag
+30,Mexico,2021,1,Green flag
+31,Mexico,2021,1,Green flag
+32,Mexico,2021,1,Green flag
+33,Mexico,2021,1,Green flag
+34,Mexico,2021,1,Green flag
+35,Mexico,2021,1,Green flag
+36,Mexico,2021,1,Green flag
+37,Mexico,2021,1,Green flag
+38,Mexico,2021,1,Green flag
+39,Mexico,2021,1,Green flag
+40,Mexico,2021,1,Green flag
+41,Mexico,2021,1,Green flag
+42,Mexico,2021,1,Green flag
+43,Mexico,2021,1,Green flag
+44,Mexico,2021,1,Green flag
+45,Mexico,2021,1,Green flag
+46,Mexico,2021,1,Green flag
+47,Mexico,2021,1,Green flag
+48,Mexico,2021,1,Green flag
+49,Mexico,2021,1,Green flag
+50,Mexico,2021,1,Green flag
+51,Mexico,2021,1,Green flag
+52,Mexico,2021,1,Green flag
+53,Mexico,2021,1,Green flag
+54,Mexico,2021,1,Green flag
+55,Mexico,2021,1,Green flag
+56,Mexico,2021,1,Green flag
+57,Mexico,2021,1,Green flag
+58,Mexico,2021,1,Green flag
+59,Mexico,2021,1,Green flag
+60,Mexico,2021,1,Green flag
+61,Mexico,2021,1,Green flag
+62,Mexico,2021,1,Green flag
+63,Mexico,2021,1,Green flag
+64,Mexico,2021,1,Green flag
+65,Mexico,2021,1,Green flag
+66,Mexico,2021,1,Green flag
+67,Mexico,2021,1,Green flag
+68,Mexico,2021,1,Green flag
+69,Mexico,2021,1,Green flag
+70,Mexico,2021,1,Green flag
+71,Mexico,2021,1,Green flag
+0,Mexico,2021,24,Safety Car
+1,Brazil,2021,1,Green flag
+2,Brazil,2021,1,Green flag
+3,Brazil,2021,1,Green flag
+4,Brazil,2021,1,Green flag
+5,Brazil,2021,1,Green flag
+6,Brazil,2021,4,Safety Car
+7,Brazil,2021,4,Safety Car
+8,Brazil,2021,4,Safety Car
+9,Brazil,2021,4,Safety Car
+10,Brazil,2021,1,Green flag
+11,Brazil,2021,1,Green flag
+12,Brazil,2021,6,Virtual Safety Car
+13,Brazil,2021,6,Virtual Safety Car
+14,Brazil,2021,67,Virtual Safety Car
+15,Brazil,2021,1,Green flag
+16,Brazil,2021,1,Green flag
+17,Brazil,2021,1,Green flag
+18,Brazil,2021,1,Green flag
+19,Brazil,2021,1,Green flag
+20,Brazil,2021,1,Green flag
+21,Brazil,2021,1,Green flag
+22,Brazil,2021,1,Green flag
+23,Brazil,2021,1,Green flag
+24,Brazil,2021,1,Green flag
+25,Brazil,2021,1,Green flag
+26,Brazil,2021,1,Green flag
+27,Brazil,2021,1,Green flag
+28,Brazil,2021,1,Green flag
+29,Brazil,2021,1,Green flag
+30,Brazil,2021,6,Virtual Safety Car
+31,Brazil,2021,67,Virtual Safety Car
+32,Brazil,2021,1,Green flag
+33,Brazil,2021,1,Green flag
+34,Brazil,2021,1,Green flag
+35,Brazil,2021,1,Green flag
+36,Brazil,2021,1,Green flag
+37,Brazil,2021,1,Green flag
+38,Brazil,2021,1,Green flag
+39,Brazil,2021,1,Green flag
+40,Brazil,2021,1,Green flag
+41,Brazil,2021,1,Green flag
+42,Brazil,2021,1,Green flag
+43,Brazil,2021,1,Green flag
+44,Brazil,2021,1,Green flag
+45,Brazil,2021,1,Green flag
+46,Brazil,2021,1,Green flag
+47,Brazil,2021,1,Green flag
+48,Brazil,2021,1,Green flag
+49,Brazil,2021,1,Green flag
+50,Brazil,2021,1,Green flag
+51,Brazil,2021,1,Green flag
+52,Brazil,2021,1,Green flag
+53,Brazil,2021,1,Green flag
+54,Brazil,2021,1,Green flag
+55,Brazil,2021,1,Green flag
+56,Brazil,2021,1,Green flag
+57,Brazil,2021,1,Green flag
+58,Brazil,2021,1,Green flag
+59,Brazil,2021,1,Green flag
+60,Brazil,2021,1,Green flag
+61,Brazil,2021,1,Green flag
+62,Brazil,2021,1,Green flag
+63,Brazil,2021,1,Green flag
+64,Brazil,2021,1,Green flag
+65,Brazil,2021,1,Green flag
+66,Brazil,2021,1,Green flag
+67,Brazil,2021,1,Green flag
+68,Brazil,2021,1,Green flag
+69,Brazil,2021,1,Green flag
+70,Brazil,2021,1,Green flag
+71,Brazil,2021,1,Green flag
+1,Abu Dhabi,2021,1,Green flag
+2,Abu Dhabi,2021,1,Green flag
+3,Abu Dhabi,2021,1,Green flag
+4,Abu Dhabi,2021,1,Green flag
+5,Abu Dhabi,2021,1,Green flag
+6,Abu Dhabi,2021,1,Green flag
+7,Abu Dhabi,2021,1,Green flag
+8,Abu Dhabi,2021,1,Green flag
+9,Abu Dhabi,2021,1,Green flag
+10,Abu Dhabi,2021,1,Green flag
+11,Abu Dhabi,2021,1,Green flag
+12,Abu Dhabi,2021,1,Green flag
+13,Abu Dhabi,2021,1,Green flag
+14,Abu Dhabi,2021,1,Green flag
+15,Abu Dhabi,2021,1,Green flag
+16,Abu Dhabi,2021,1,Green flag
+17,Abu Dhabi,2021,1,Green flag
+18,Abu Dhabi,2021,1,Green flag
+19,Abu Dhabi,2021,1,Green flag
+20,Abu Dhabi,2021,1,Green flag
+21,Abu Dhabi,2021,1,Green flag
+22,Abu Dhabi,2021,1,Green flag
+23,Abu Dhabi,2021,1,Green flag
+24,Abu Dhabi,2021,1,Green flag
+25,Abu Dhabi,2021,2,Yellow flag
+26,Abu Dhabi,2021,2,Yellow flag
+27,Abu Dhabi,2021,1,Green flag
+28,Abu Dhabi,2021,1,Green flag
+29,Abu Dhabi,2021,1,Green flag
+30,Abu Dhabi,2021,1,Green flag
+31,Abu Dhabi,2021,1,Green flag
+32,Abu Dhabi,2021,1,Green flag
+33,Abu Dhabi,2021,1,Green flag
+34,Abu Dhabi,2021,1,Green flag
+35,Abu Dhabi,2021,6,Virtual Safety Car
+36,Abu Dhabi,2021,6,Virtual Safety Car
+37,Abu Dhabi,2021,67,Virtual Safety Car
+38,Abu Dhabi,2021,1,Green flag
+39,Abu Dhabi,2021,1,Green flag
+40,Abu Dhabi,2021,1,Green flag
+41,Abu Dhabi,2021,1,Green flag
+42,Abu Dhabi,2021,1,Green flag
+43,Abu Dhabi,2021,1,Green flag
+44,Abu Dhabi,2021,1,Green flag
+45,Abu Dhabi,2021,1,Green flag
+46,Abu Dhabi,2021,1,Green flag
+47,Abu Dhabi,2021,1,Green flag
+48,Abu Dhabi,2021,1,Green flag
+49,Abu Dhabi,2021,1,Green flag
+50,Abu Dhabi,2021,1,Green flag
+51,Abu Dhabi,2021,1,Green flag
+52,Abu Dhabi,2021,24,Safety Car
+53,Abu Dhabi,2021,4,Safety Car
+54,Abu Dhabi,2021,4,Safety Car
+55,Abu Dhabi,2021,4,Safety Car
+56,Abu Dhabi,2021,4,Safety Car
+57,Abu Dhabi,2021,4,Safety Car
+58,Abu Dhabi,2021,1,Green flag
+1,Monza,2021,267,Virtual Safety Car
+2,Monza,2021,1,Green flag
+3,Monza,2021,1,Green flag
+4,Monza,2021,1,Green flag
+5,Monza,2021,1,Green flag
+6,Monza,2021,1,Green flag
+7,Monza,2021,1,Green flag
+8,Monza,2021,1,Green flag
+9,Monza,2021,1,Green flag
+10,Monza,2021,1,Green flag
+11,Monza,2021,1,Green flag
+12,Monza,2021,1,Green flag
+13,Monza,2021,1,Green flag
+14,Monza,2021,1,Green flag
+15,Monza,2021,1,Green flag
+16,Monza,2021,1,Green flag
+17,Monza,2021,1,Green flag
+18,Monza,2021,1,Green flag
+19,Monza,2021,1,Green flag
+20,Monza,2021,1,Green flag
+21,Monza,2021,1,Green flag
+22,Monza,2021,1,Green flag
+23,Monza,2021,1,Green flag
+24,Monza,2021,1,Green flag
+25,Monza,2021,1,Green flag
+26,Monza,2021,24,Safety Car
+27,Monza,2021,4,Safety Car
+28,Monza,2021,4,Safety Car
+29,Monza,2021,4,Safety Car
+30,Monza,2021,4,Safety Car
+31,Monza,2021,1,Green flag
+32,Monza,2021,2,Yellow flag
+33,Monza,2021,1,Green flag
+34,Monza,2021,1,Green flag
+35,Monza,2021,1,Green flag
+36,Monza,2021,1,Green flag
+37,Monza,2021,1,Green flag
+38,Monza,2021,1,Green flag
+39,Monza,2021,1,Green flag
+40,Monza,2021,1,Green flag
+41,Monza,2021,2,Yellow flag
+42,Monza,2021,1,Green flag
+43,Monza,2021,2,Yellow flag
+44,Monza,2021,267,Virtual Safety Car
+45,Monza,2021,1,Green flag
+46,Monza,2021,1,Green flag
+47,Monza,2021,1,Green flag
+48,Monza,2021,1,Green flag
+49,Monza,2021,1,Green flag
+50,Monza,2021,1,Green flag
+51,Monza,2021,1,Green flag
+52,Monza,2021,1,Green flag
+53,Monza,2021,1,Green flag
+0,Monza,2021,26,Virtual Safety Car
+1,Qatar,2021,1,Green flag
+2,Qatar,2021,1,Green flag
+3,Qatar,2021,1,Green flag
+4,Qatar,2021,1,Green flag
+5,Qatar,2021,1,Green flag
+6,Qatar,2021,1,Green flag
+7,Qatar,2021,1,Green flag
+8,Qatar,2021,1,Green flag
+9,Qatar,2021,1,Green flag
+10,Qatar,2021,1,Green flag
+11,Qatar,2021,1,Green flag
+12,Qatar,2021,1,Green flag
+13,Qatar,2021,1,Green flag
+14,Qatar,2021,1,Green flag
+15,Qatar,2021,1,Green flag
+16,Qatar,2021,1,Green flag
+17,Qatar,2021,1,Green flag
+18,Qatar,2021,1,Green flag
+19,Qatar,2021,1,Green flag
+20,Qatar,2021,1,Green flag
+21,Qatar,2021,1,Green flag
+22,Qatar,2021,1,Green flag
+23,Qatar,2021,1,Green flag
+24,Qatar,2021,1,Green flag
+25,Qatar,2021,1,Green flag
+26,Qatar,2021,1,Green flag
+27,Qatar,2021,1,Green flag
+28,Qatar,2021,1,Green flag
+29,Qatar,2021,1,Green flag
+30,Qatar,2021,1,Green flag
+31,Qatar,2021,1,Green flag
+32,Qatar,2021,1,Green flag
+33,Qatar,2021,2,Yellow flag
+34,Qatar,2021,1,Green flag
+35,Qatar,2021,1,Green flag
+36,Qatar,2021,1,Green flag
+37,Qatar,2021,1,Green flag
+38,Qatar,2021,1,Green flag
+39,Qatar,2021,1,Green flag
+40,Qatar,2021,1,Green flag
+41,Qatar,2021,1,Green flag
+42,Qatar,2021,1,Green flag
+43,Qatar,2021,1,Green flag
+44,Qatar,2021,1,Green flag
+45,Qatar,2021,1,Green flag
+46,Qatar,2021,1,Green flag
+47,Qatar,2021,1,Green flag
+48,Qatar,2021,1,Green flag
+49,Qatar,2021,1,Green flag
+50,Qatar,2021,2,Yellow flag
+51,Qatar,2021,2,Yellow flag
+52,Qatar,2021,1,Green flag
+53,Qatar,2021,1,Green flag
+54,Qatar,2021,6,Virtual Safety Car
+55,Qatar,2021,67,Virtual Safety Car
+56,Qatar,2021,1,Green flag
+57,Qatar,2021,1,Green flag
+1,Saudi Arabia,2021,1,Green flag
+2,Saudi Arabia,2021,1,Green flag
+3,Saudi Arabia,2021,1,Green flag
+4,Saudi Arabia,2021,1,Green flag
+5,Saudi Arabia,2021,1,Green flag
+6,Saudi Arabia,2021,1,Green flag
+7,Saudi Arabia,2021,1,Green flag
+8,Saudi Arabia,2021,1,Green flag
+9,Saudi Arabia,2021,2,Yellow flag
+10,Saudi Arabia,2021,24,Safety Car
+11,Saudi Arabia,2021,4,Safety Car
+12,Saudi Arabia,2021,4,Safety Car
+13,Saudi Arabia,2021,45,Safety Car
+14,Saudi Arabia,2021,1,Green flag
+15,Saudi Arabia,2021,25,Red Flag
+16,Saudi Arabia,2021,1,Green flag
+17,Saudi Arabia,2021,1,Green flag
+18,Saudi Arabia,2021,1,Green flag
+19,Saudi Arabia,2021,1,Green flag
+20,Saudi Arabia,2021,1,Green flag
+21,Saudi Arabia,2021,1,Green flag
+22,Saudi Arabia,2021,1,Green flag
+23,Saudi Arabia,2021,26,Virtual Safety Car
+24,Saudi Arabia,2021,67,Virtual Safety Car
+25,Saudi Arabia,2021,1,Green flag
+26,Saudi Arabia,2021,1,Green flag
+27,Saudi Arabia,2021,6,Virtual Safety Car
+28,Saudi Arabia,2021,67,Virtual Safety Car
+29,Saudi Arabia,2021,6,Virtual Safety Car
+30,Saudi Arabia,2021,6,Virtual Safety Car
+31,Saudi Arabia,2021,6,Virtual Safety Car
+32,Saudi Arabia,2021,67,Virtual Safety Car
+33,Saudi Arabia,2021,1,Green flag
+34,Saudi Arabia,2021,1,Green flag
+35,Saudi Arabia,2021,6,Virtual Safety Car
+36,Saudi Arabia,2021,67,Virtual Safety Car
+37,Saudi Arabia,2021,1,Green flag
+38,Saudi Arabia,2021,1,Green flag
+39,Saudi Arabia,2021,1,Green flag
+40,Saudi Arabia,2021,1,Green flag
+41,Saudi Arabia,2021,1,Green flag
+42,Saudi Arabia,2021,1,Green flag
+43,Saudi Arabia,2021,1,Green flag
+44,Saudi Arabia,2021,1,Green flag
+45,Saudi Arabia,2021,1,Green flag
+46,Saudi Arabia,2021,1,Green flag
+47,Saudi Arabia,2021,1,Green flag
+48,Saudi Arabia,2021,1,Green flag
+49,Saudi Arabia,2021,1,Green flag
+50,Saudi Arabia,2021,1,Green flag
+1,Bahrain,2022,1,Green flag
+2,Bahrain,2022,1,Green flag
+3,Bahrain,2022,1,Green flag
+4,Bahrain,2022,1,Green flag
+5,Bahrain,2022,1,Green flag
+6,Bahrain,2022,1,Green flag
+7,Bahrain,2022,1,Green flag
+8,Bahrain,2022,1,Green flag
+9,Bahrain,2022,1,Green flag
+10,Bahrain,2022,1,Green flag
+11,Bahrain,2022,1,Green flag
+12,Bahrain,2022,1,Green flag
+13,Bahrain,2022,1,Green flag
+14,Bahrain,2022,1,Green flag
+15,Bahrain,2022,2,Yellow flag
+16,Bahrain,2022,1,Green flag
+17,Bahrain,2022,1,Green flag
+18,Bahrain,2022,1,Green flag
+19,Bahrain,2022,1,Green flag
+20,Bahrain,2022,1,Green flag
+21,Bahrain,2022,1,Green flag
+22,Bahrain,2022,1,Green flag
+23,Bahrain,2022,1,Green flag
+24,Bahrain,2022,1,Green flag
+25,Bahrain,2022,1,Green flag
+26,Bahrain,2022,1,Green flag
+27,Bahrain,2022,1,Green flag
+28,Bahrain,2022,1,Green flag
+29,Bahrain,2022,1,Green flag
+30,Bahrain,2022,1,Green flag
+31,Bahrain,2022,1,Green flag
+32,Bahrain,2022,1,Green flag
+33,Bahrain,2022,1,Green flag
+34,Bahrain,2022,1,Green flag
+35,Bahrain,2022,1,Green flag
+36,Bahrain,2022,1,Green flag
+37,Bahrain,2022,1,Green flag
+38,Bahrain,2022,1,Green flag
+39,Bahrain,2022,1,Green flag
+40,Bahrain,2022,1,Green flag
+41,Bahrain,2022,1,Green flag
+42,Bahrain,2022,1,Green flag
+43,Bahrain,2022,1,Green flag
+44,Bahrain,2022,1,Green flag
+45,Bahrain,2022,1,Green flag
+46,Bahrain,2022,64,Safety Car
+47,Bahrain,2022,4,Safety Car
+48,Bahrain,2022,4,Safety Car
+49,Bahrain,2022,4,Safety Car
+50,Bahrain,2022,4,Safety Car
+51,Bahrain,2022,1,Green flag
+52,Bahrain,2022,1,Green flag
+53,Bahrain,2022,1,Green flag
+54,Bahrain,2022,1,Green flag
+55,Bahrain,2022,1,Green flag
+56,Bahrain,2022,1,Green flag
+57,Bahrain,2022,,Unknown
+1,China,2022,1,Green flag
+2,China,2022,1,Green flag
+3,China,2022,1,Green flag
+4,China,2022,1,Green flag
+5,China,2022,1,Green flag
+6,China,2022,1,Green flag
+7,China,2022,1,Green flag
+8,China,2022,1,Green flag
+9,China,2022,26,Virtual Safety Car
+10,China,2022,67,Virtual Safety Car
+11,China,2022,1,Green flag
+12,China,2022,1,Green flag
+13,China,2022,1,Green flag
+14,China,2022,1,Green flag
+15,China,2022,1,Green flag
+16,China,2022,1,Green flag
+17,China,2022,1,Green flag
+18,China,2022,1,Green flag
+19,China,2022,2,Yellow flag
+20,China,2022,267,Virtual Safety Car
+21,China,2022,7,Unknown
+22,China,2022,1,Green flag
+23,China,2022,1,Green flag
+24,China,2022,1,Green flag
+25,China,2022,1,Green flag
+26,China,2022,1,Green flag
+27,China,2022,1,Green flag
+28,China,2022,1,Green flag
+29,China,2022,1,Green flag
+30,China,2022,1,Green flag
+31,China,2022,1,Green flag
+32,China,2022,1,Green flag
+33,China,2022,1,Green flag
+34,China,2022,1,Green flag
+35,China,2022,1,Green flag
+36,China,2022,1,Green flag
+37,China,2022,1,Green flag
+38,China,2022,1,Green flag
+39,China,2022,1,Green flag
+40,China,2022,1,Green flag
+41,China,2022,1,Green flag
+42,China,2022,1,Green flag
+43,China,2022,1,Green flag
+44,China,2022,1,Green flag
+45,China,2022,1,Green flag
+46,China,2022,1,Green flag
+47,China,2022,1,Green flag
+48,China,2022,1,Green flag
+49,China,2022,24,Safety Car
+50,China,2022,4,Safety Car
+51,China,2022,4,Safety Car
+52,China,2022,4,Safety Car
+53,China,2022,4,Safety Car
+54,China,2022,4,Safety Car
+55,China,2022,1,Green flag
+56,China,2022,1,Green flag
+57,China,2022,1,Green flag
+58,China,2022,1,Green flag
+59,China,2022,1,Green flag
+60,China,2022,1,Green flag
+61,China,2022,1,Green flag
+62,China,2022,1,Green flag
+63,China,2022,1,Green flag
+64,China,2022,1,Green flag
+65,China,2022,1,Green flag
+66,China,2022,1,Green flag
+67,China,2022,1,Green flag
+68,China,2022,1,Green flag
+69,China,2022,1,Green flag
+70,China,2022,1,Green flag
+1,Australia,2022,1,Green flag
+2,Australia,2022,2,Yellow flag
+3,Australia,2022,264,Safety Car
+4,Australia,2022,4,Safety Car
+5,Australia,2022,4,Safety Car
+6,Australia,2022,4,Safety Car
+7,Australia,2022,1,Green flag
+8,Australia,2022,1,Green flag
+9,Australia,2022,1,Green flag
+10,Australia,2022,1,Green flag
+11,Australia,2022,1,Green flag
+12,Australia,2022,1,Green flag
+13,Australia,2022,1,Green flag
+14,Australia,2022,1,Green flag
+15,Australia,2022,1,Green flag
+16,Australia,2022,1,Green flag
+17,Australia,2022,1,Green flag
+18,Australia,2022,1,Green flag
+19,Australia,2022,1,Green flag
+20,Australia,2022,1,Green flag
+21,Australia,2022,1,Green flag
+22,Australia,2022,1,Green flag
+23,Australia,2022,24,Safety Car
+24,Australia,2022,4,Safety Car
+25,Australia,2022,4,Safety Car
+26,Australia,2022,4,Safety Car
+27,Australia,2022,1,Green flag
+28,Australia,2022,1,Green flag
+29,Australia,2022,1,Green flag
+30,Australia,2022,1,Green flag
+31,Australia,2022,1,Green flag
+32,Australia,2022,1,Green flag
+33,Australia,2022,1,Green flag
+34,Australia,2022,1,Green flag
+35,Australia,2022,1,Green flag
+36,Australia,2022,1,Green flag
+37,Australia,2022,1,Green flag
+38,Australia,2022,1,Green flag
+39,Australia,2022,,Unknown
+40,Australia,2022,67,Virtual Safety Car
+41,Australia,2022,1,Green flag
+42,Australia,2022,1,Green flag
+43,Australia,2022,1,Green flag
+44,Australia,2022,1,Green flag
+45,Australia,2022,1,Green flag
+46,Australia,2022,1,Green flag
+47,Australia,2022,1,Green flag
+48,Australia,2022,1,Green flag
+49,Australia,2022,1,Green flag
+50,Australia,2022,1,Green flag
+51,Australia,2022,1,Green flag
+52,Australia,2022,1,Green flag
+53,Australia,2022,1,Green flag
+54,Australia,2022,1,Green flag
+55,Australia,2022,1,Green flag
+56,Australia,2022,1,Green flag
+57,Australia,2022,1,Green flag
+58,Australia,2022,1,Green flag
+1,Japan,2022,24,Safety Car
+2,Japan,2022,45,Safety Car
+3,Japan,2022,1,Green flag
+4,Japan,2022,1,Green flag
+5,Japan,2022,1,Green flag
+6,Japan,2022,1,Green flag
+7,Japan,2022,1,Green flag
+8,Japan,2022,1,Green flag
+9,Japan,2022,1,Green flag
+10,Japan,2022,1,Green flag
+11,Japan,2022,1,Green flag
+12,Japan,2022,1,Green flag
+13,Japan,2022,1,Green flag
+14,Japan,2022,1,Green flag
+15,Japan,2022,1,Green flag
+16,Japan,2022,1,Green flag
+17,Japan,2022,1,Green flag
+18,Japan,2022,1,Green flag
+19,Japan,2022,1,Green flag
+20,Japan,2022,1,Green flag
+21,Japan,2022,1,Green flag
+22,Japan,2022,1,Green flag
+23,Japan,2022,1,Green flag
+24,Japan,2022,1,Green flag
+25,Japan,2022,1,Green flag
+26,Japan,2022,1,Green flag
+27,Japan,2022,1,Green flag
+28,Japan,2022,1,Green flag
+29,Japan,2022,,Unknown
+0,Japan,2022,24,Safety Car
+1,Monaco,2022,2,Yellow flag
+2,Monaco,2022,4,Safety Car
+3,Monaco,2022,1,Green flag
+4,Monaco,2022,1,Green flag
+5,Monaco,2022,1,Green flag
+6,Monaco,2022,2,Yellow flag
+7,Monaco,2022,1,Green flag
+8,Monaco,2022,1,Green flag
+9,Monaco,2022,1,Green flag
+10,Monaco,2022,2,Yellow flag
+11,Monaco,2022,2,Yellow flag
+12,Monaco,2022,1,Green flag
+13,Monaco,2022,1,Green flag
+14,Monaco,2022,1,Green flag
+15,Monaco,2022,1,Green flag
+16,Monaco,2022,1,Green flag
+17,Monaco,2022,1,Green flag
+18,Monaco,2022,2,Yellow flag
+19,Monaco,2022,1,Green flag
+20,Monaco,2022,1,Green flag
+21,Monaco,2022,2,Yellow flag
+22,Monaco,2022,1,Green flag
+23,Monaco,2022,1,Green flag
+24,Monaco,2022,1,Green flag
+25,Monaco,2022,1,Green flag
+26,Monaco,2022,26,Virtual Safety Car
+27,Monaco,2022,64,Safety Car
+28,Monaco,2022,4,Safety Car
+29,Monaco,2022,4,Safety Car
+30,Monaco,2022,45,Safety Car
+31,Monaco,2022,1,Green flag
+32,Monaco,2022,1,Green flag
+33,Monaco,2022,1,Green flag
+34,Monaco,2022,1,Green flag
+35,Monaco,2022,1,Green flag
+36,Monaco,2022,1,Green flag
+37,Monaco,2022,1,Green flag
+38,Monaco,2022,1,Green flag
+39,Monaco,2022,1,Green flag
+40,Monaco,2022,1,Green flag
+41,Monaco,2022,1,Green flag
+42,Monaco,2022,1,Green flag
+43,Monaco,2022,1,Green flag
+44,Monaco,2022,1,Green flag
+45,Monaco,2022,1,Green flag
+46,Monaco,2022,1,Green flag
+47,Monaco,2022,1,Green flag
+48,Monaco,2022,1,Green flag
+49,Monaco,2022,1,Green flag
+50,Monaco,2022,1,Green flag
+51,Monaco,2022,1,Green flag
+52,Monaco,2022,1,Green flag
+53,Monaco,2022,1,Green flag
+54,Monaco,2022,1,Green flag
+55,Monaco,2022,1,Green flag
+56,Monaco,2022,2,Yellow flag
+57,Monaco,2022,2,Yellow flag
+58,Monaco,2022,1,Green flag
+59,Monaco,2022,1,Green flag
+60,Monaco,2022,2,Yellow flag
+61,Monaco,2022,1,Green flag
+62,Monaco,2022,1,Green flag
+63,Monaco,2022,1,Green flag
+64,Monaco,2022,1,Green flag
+1,Spain,2022,2,Yellow flag
+2,Spain,2022,1,Green flag
+3,Spain,2022,1,Green flag
+4,Spain,2022,1,Green flag
+5,Spain,2022,1,Green flag
+6,Spain,2022,1,Green flag
+7,Spain,2022,2,Yellow flag
+8,Spain,2022,1,Green flag
+9,Spain,2022,2,Yellow flag
+10,Spain,2022,1,Green flag
+11,Spain,2022,1,Green flag
+12,Spain,2022,1,Green flag
+13,Spain,2022,1,Green flag
+14,Spain,2022,1,Green flag
+15,Spain,2022,1,Green flag
+16,Spain,2022,1,Green flag
+17,Spain,2022,1,Green flag
+18,Spain,2022,1,Green flag
+19,Spain,2022,1,Green flag
+20,Spain,2022,1,Green flag
+21,Spain,2022,1,Green flag
+22,Spain,2022,1,Green flag
+23,Spain,2022,1,Green flag
+24,Spain,2022,1,Green flag
+25,Spain,2022,1,Green flag
+26,Spain,2022,1,Green flag
+27,Spain,2022,1,Green flag
+28,Spain,2022,1,Green flag
+29,Spain,2022,1,Green flag
+30,Spain,2022,1,Green flag
+31,Spain,2022,1,Green flag
+32,Spain,2022,1,Green flag
+33,Spain,2022,1,Green flag
+34,Spain,2022,1,Green flag
+35,Spain,2022,1,Green flag
+36,Spain,2022,1,Green flag
+37,Spain,2022,1,Green flag
+38,Spain,2022,1,Green flag
+39,Spain,2022,1,Green flag
+40,Spain,2022,1,Green flag
+41,Spain,2022,1,Green flag
+42,Spain,2022,1,Green flag
+43,Spain,2022,1,Green flag
+44,Spain,2022,1,Green flag
+45,Spain,2022,1,Green flag
+46,Spain,2022,1,Green flag
+47,Spain,2022,1,Green flag
+48,Spain,2022,1,Green flag
+49,Spain,2022,1,Green flag
+50,Spain,2022,1,Green flag
+51,Spain,2022,1,Green flag
+52,Spain,2022,1,Green flag
+53,Spain,2022,1,Green flag
+54,Spain,2022,1,Green flag
+55,Spain,2022,1,Green flag
+56,Spain,2022,1,Green flag
+57,Spain,2022,1,Green flag
+58,Spain,2022,1,Green flag
+59,Spain,2022,1,Green flag
+60,Spain,2022,1,Green flag
+61,Spain,2022,1,Green flag
+62,Spain,2022,1,Green flag
+63,Spain,2022,1,Green flag
+64,Spain,2022,1,Green flag
+65,Spain,2022,1,Green flag
+66,Spain,2022,1,Green flag
+1,Canada,2022,1,Green flag
+2,Canada,2022,1,Green flag
+3,Canada,2022,1,Green flag
+4,Canada,2022,1,Green flag
+5,Canada,2022,1,Green flag
+6,Canada,2022,1,Green flag
+7,Canada,2022,1,Green flag
+8,Canada,2022,1,Green flag
+9,Canada,2022,26,Virtual Safety Car
+10,Canada,2022,67,Virtual Safety Car
+11,Canada,2022,1,Green flag
+12,Canada,2022,1,Green flag
+13,Canada,2022,1,Green flag
+14,Canada,2022,1,Green flag
+15,Canada,2022,1,Green flag
+16,Canada,2022,1,Green flag
+17,Canada,2022,1,Green flag
+18,Canada,2022,1,Green flag
+19,Canada,2022,2,Yellow flag
+20,Canada,2022,267,Virtual Safety Car
+21,Canada,2022,7,Unknown
+22,Canada,2022,1,Green flag
+23,Canada,2022,1,Green flag
+24,Canada,2022,1,Green flag
+25,Canada,2022,1,Green flag
+26,Canada,2022,1,Green flag
+27,Canada,2022,1,Green flag
+28,Canada,2022,1,Green flag
+29,Canada,2022,1,Green flag
+30,Canada,2022,1,Green flag
+31,Canada,2022,1,Green flag
+32,Canada,2022,1,Green flag
+33,Canada,2022,1,Green flag
+34,Canada,2022,1,Green flag
+35,Canada,2022,1,Green flag
+36,Canada,2022,1,Green flag
+37,Canada,2022,1,Green flag
+38,Canada,2022,1,Green flag
+39,Canada,2022,1,Green flag
+40,Canada,2022,1,Green flag
+41,Canada,2022,1,Green flag
+42,Canada,2022,1,Green flag
+43,Canada,2022,1,Green flag
+44,Canada,2022,1,Green flag
+45,Canada,2022,1,Green flag
+46,Canada,2022,1,Green flag
+47,Canada,2022,1,Green flag
+48,Canada,2022,1,Green flag
+49,Canada,2022,24,Safety Car
+50,Canada,2022,4,Safety Car
+51,Canada,2022,4,Safety Car
+52,Canada,2022,4,Safety Car
+53,Canada,2022,4,Safety Car
+54,Canada,2022,4,Safety Car
+55,Canada,2022,1,Green flag
+56,Canada,2022,1,Green flag
+57,Canada,2022,1,Green flag
+58,Canada,2022,1,Green flag
+59,Canada,2022,1,Green flag
+60,Canada,2022,1,Green flag
+61,Canada,2022,1,Green flag
+62,Canada,2022,1,Green flag
+63,Canada,2022,1,Green flag
+64,Canada,2022,1,Green flag
+65,Canada,2022,1,Green flag
+66,Canada,2022,1,Green flag
+67,Canada,2022,1,Green flag
+68,Canada,2022,1,Green flag
+69,Canada,2022,1,Green flag
+70,Canada,2022,1,Green flag
+1,Imola,2022,24,Safety Car
+2,Imola,2022,4,Safety Car
+3,Imola,2022,4,Safety Car
+4,Imola,2022,4,Safety Car
+5,Imola,2022,1,Green flag
+6,Imola,2022,1,Green flag
+7,Imola,2022,1,Green flag
+8,Imola,2022,1,Green flag
+9,Imola,2022,1,Green flag
+10,Imola,2022,1,Green flag
+11,Imola,2022,1,Green flag
+12,Imola,2022,1,Green flag
+13,Imola,2022,1,Green flag
+14,Imola,2022,1,Green flag
+15,Imola,2022,1,Green flag
+16,Imola,2022,1,Green flag
+17,Imola,2022,1,Green flag
+18,Imola,2022,1,Green flag
+19,Imola,2022,1,Green flag
+20,Imola,2022,1,Green flag
+21,Imola,2022,1,Green flag
+22,Imola,2022,1,Green flag
+23,Imola,2022,1,Green flag
+24,Imola,2022,1,Green flag
+25,Imola,2022,2,Yellow flag
+26,Imola,2022,1,Green flag
+27,Imola,2022,1,Green flag
+28,Imola,2022,1,Green flag
+29,Imola,2022,1,Green flag
+30,Imola,2022,1,Green flag
+31,Imola,2022,1,Green flag
+32,Imola,2022,1,Green flag
+33,Imola,2022,1,Green flag
+34,Imola,2022,1,Green flag
+35,Imola,2022,1,Green flag
+36,Imola,2022,1,Green flag
+37,Imola,2022,1,Green flag
+38,Imola,2022,1,Green flag
+39,Imola,2022,1,Green flag
+40,Imola,2022,1,Green flag
+41,Imola,2022,1,Green flag
+42,Imola,2022,1,Green flag
+43,Imola,2022,1,Green flag
+44,Imola,2022,1,Green flag
+45,Imola,2022,1,Green flag
+46,Imola,2022,1,Green flag
+47,Imola,2022,1,Green flag
+48,Imola,2022,1,Green flag
+49,Imola,2022,1,Green flag
+50,Imola,2022,1,Green flag
+51,Imola,2022,1,Green flag
+52,Imola,2022,1,Green flag
+53,Imola,2022,2,Yellow flag
+54,Imola,2022,2,Yellow flag
+55,Imola,2022,1,Green flag
+56,Imola,2022,1,Green flag
+57,Imola,2022,1,Green flag
+58,Imola,2022,1,Green flag
+59,Imola,2022,1,Green flag
+60,Imola,2022,1,Green flag
+61,Imola,2022,1,Green flag
+62,Imola,2022,1,Green flag
+63,Imola,2022,1,Green flag
+0,Imola,2022,24,Safety Car
+1,Austria,2022,1,Green flag
+2,Austria,2022,1,Green flag
+3,Austria,2022,1,Green flag
+4,Austria,2022,1,Green flag
+5,Austria,2022,1,Green flag
+6,Austria,2022,1,Green flag
+7,Austria,2022,1,Green flag
+8,Austria,2022,1,Green flag
+9,Austria,2022,1,Green flag
+10,Austria,2022,1,Green flag
+11,Austria,2022,1,Green flag
+12,Austria,2022,1,Green flag
+13,Austria,2022,1,Green flag
+14,Austria,2022,1,Green flag
+15,Austria,2022,1,Green flag
+16,Austria,2022,1,Green flag
+17,Austria,2022,1,Green flag
+18,Austria,2022,1,Green flag
+19,Austria,2022,1,Green flag
+20,Austria,2022,1,Green flag
+21,Austria,2022,1,Green flag
+22,Austria,2022,1,Green flag
+23,Austria,2022,1,Green flag
+24,Austria,2022,1,Green flag
+25,Austria,2022,1,Green flag
+26,Austria,2022,1,Green flag
+27,Austria,2022,1,Green flag
+28,Austria,2022,1,Green flag
+29,Austria,2022,1,Green flag
+30,Austria,2022,1,Green flag
+31,Austria,2022,1,Green flag
+32,Austria,2022,1,Green flag
+33,Austria,2022,1,Green flag
+34,Austria,2022,1,Green flag
+35,Austria,2022,1,Green flag
+36,Austria,2022,1,Green flag
+37,Austria,2022,1,Green flag
+38,Austria,2022,1,Green flag
+39,Austria,2022,1,Green flag
+40,Austria,2022,2,Yellow flag
+41,Austria,2022,1,Green flag
+42,Austria,2022,1,Green flag
+43,Austria,2022,1,Green flag
+44,Austria,2022,1,Green flag
+45,Austria,2022,1,Green flag
+46,Austria,2022,1,Green flag
+47,Austria,2022,1,Green flag
+48,Austria,2022,1,Green flag
+49,Austria,2022,1,Green flag
+50,Austria,2022,1,Green flag
+51,Austria,2022,1,Green flag
+52,Austria,2022,1,Green flag
+53,Austria,2022,1,Green flag
+54,Austria,2022,1,Green flag
+55,Austria,2022,1,Green flag
+56,Austria,2022,1,Green flag
+57,Austria,2022,2,Yellow flag
+58,Austria,2022,26,Virtual Safety Car
+59,Austria,2022,67,Virtual Safety Car
+60,Austria,2022,1,Green flag
+61,Austria,2022,1,Green flag
+62,Austria,2022,1,Green flag
+63,Austria,2022,1,Green flag
+64,Austria,2022,1,Green flag
+65,Austria,2022,1,Green flag
+66,Austria,2022,1,Green flag
+67,Austria,2022,1,Green flag
+68,Austria,2022,1,Green flag
+69,Austria,2022,1,Green flag
+70,Austria,2022,1,Green flag
+71,Austria,2022,1,Green flag
+1,Great Britain,2022,25,Red Flag
+2,Great Britain,2022,1,Green flag
+3,Great Britain,2022,1,Green flag
+4,Great Britain,2022,1,Green flag
+5,Great Britain,2022,1,Green flag
+6,Great Britain,2022,1,Green flag
+7,Great Britain,2022,1,Green flag
+8,Great Britain,2022,1,Green flag
+9,Great Britain,2022,1,Green flag
+10,Great Britain,2022,1,Green flag
+11,Great Britain,2022,2,Yellow flag
+12,Great Britain,2022,1,Green flag
+13,Great Britain,2022,1,Green flag
+14,Great Britain,2022,1,Green flag
+15,Great Britain,2022,1,Green flag
+16,Great Britain,2022,1,Green flag
+17,Great Britain,2022,1,Green flag
+18,Great Britain,2022,1,Green flag
+19,Great Britain,2022,1,Green flag
+20,Great Britain,2022,1,Green flag
+21,Great Britain,2022,1,Green flag
+22,Great Britain,2022,1,Green flag
+23,Great Britain,2022,1,Green flag
+24,Great Britain,2022,1,Green flag
+25,Great Britain,2022,1,Green flag
+26,Great Britain,2022,1,Green flag
+27,Great Britain,2022,1,Green flag
+28,Great Britain,2022,1,Green flag
+29,Great Britain,2022,1,Green flag
+30,Great Britain,2022,1,Green flag
+31,Great Britain,2022,1,Green flag
+32,Great Britain,2022,1,Green flag
+33,Great Britain,2022,1,Green flag
+34,Great Britain,2022,1,Green flag
+35,Great Britain,2022,1,Green flag
+36,Great Britain,2022,1,Green flag
+37,Great Britain,2022,1,Green flag
+38,Great Britain,2022,24,Safety Car
+39,Great Britain,2022,4,Safety Car
+40,Great Britain,2022,4,Safety Car
+41,Great Britain,2022,4,Safety Car
+42,Great Britain,2022,4,Safety Car
+43,Great Britain,2022,1,Green flag
+44,Great Britain,2022,1,Green flag
+45,Great Britain,2022,1,Green flag
+46,Great Britain,2022,1,Green flag
+47,Great Britain,2022,1,Green flag
+48,Great Britain,2022,1,Green flag
+49,Great Britain,2022,1,Green flag
+50,Great Britain,2022,1,Green flag
+51,Great Britain,2022,1,Green flag
+52,Great Britain,2022,1,Green flag
+0,Great Britain,2022,25,Red Flag
+1,Hungary,2022,26,Virtual Safety Car
+2,Hungary,2022,6,Virtual Safety Car
+3,Hungary,2022,67,Virtual Safety Car
+4,Hungary,2022,1,Green flag
+5,Hungary,2022,1,Green flag
+6,Hungary,2022,1,Green flag
+7,Hungary,2022,1,Green flag
+8,Hungary,2022,1,Green flag
+9,Hungary,2022,1,Green flag
+10,Hungary,2022,1,Green flag
+11,Hungary,2022,1,Green flag
+12,Hungary,2022,1,Green flag
+13,Hungary,2022,1,Green flag
+14,Hungary,2022,1,Green flag
+15,Hungary,2022,1,Green flag
+16,Hungary,2022,1,Green flag
+17,Hungary,2022,1,Green flag
+18,Hungary,2022,1,Green flag
+19,Hungary,2022,1,Green flag
+20,Hungary,2022,1,Green flag
+21,Hungary,2022,1,Green flag
+22,Hungary,2022,1,Green flag
+23,Hungary,2022,1,Green flag
+24,Hungary,2022,1,Green flag
+25,Hungary,2022,1,Green flag
+26,Hungary,2022,1,Green flag
+27,Hungary,2022,1,Green flag
+28,Hungary,2022,1,Green flag
+29,Hungary,2022,1,Green flag
+30,Hungary,2022,1,Green flag
+31,Hungary,2022,1,Green flag
+32,Hungary,2022,1,Green flag
+33,Hungary,2022,1,Green flag
+34,Hungary,2022,1,Green flag
+35,Hungary,2022,2,Yellow flag
+36,Hungary,2022,1,Green flag
+37,Hungary,2022,1,Green flag
+38,Hungary,2022,1,Green flag
+39,Hungary,2022,1,Green flag
+40,Hungary,2022,1,Green flag
+41,Hungary,2022,2,Yellow flag
+42,Hungary,2022,1,Green flag
+43,Hungary,2022,1,Green flag
+44,Hungary,2022,1,Green flag
+45,Hungary,2022,1,Green flag
+46,Hungary,2022,1,Green flag
+47,Hungary,2022,1,Green flag
+48,Hungary,2022,2,Yellow flag
+49,Hungary,2022,1,Green flag
+50,Hungary,2022,1,Green flag
+51,Hungary,2022,1,Green flag
+52,Hungary,2022,1,Green flag
+53,Hungary,2022,1,Green flag
+54,Hungary,2022,1,Green flag
+55,Hungary,2022,1,Green flag
+56,Hungary,2022,1,Green flag
+57,Hungary,2022,1,Green flag
+58,Hungary,2022,1,Green flag
+59,Hungary,2022,1,Green flag
+60,Hungary,2022,1,Green flag
+61,Hungary,2022,1,Green flag
+62,Hungary,2022,1,Green flag
+63,Hungary,2022,1,Green flag
+64,Hungary,2022,1,Green flag
+65,Hungary,2022,1,Green flag
+66,Hungary,2022,1,Green flag
+67,Hungary,2022,1,Green flag
+68,Hungary,2022,26,Virtual Safety Car
+69,Hungary,2022,67,Virtual Safety Car
+70,Hungary,2022,1,Green flag
+1,Belgium,2022,2,Yellow flag
+2,Belgium,2022,24,Safety Car
+3,Belgium,2022,4,Safety Car
+4,Belgium,2022,4,Safety Car
+5,Belgium,2022,1,Green flag
+6,Belgium,2022,1,Green flag
+7,Belgium,2022,1,Green flag
+8,Belgium,2022,1,Green flag
+9,Belgium,2022,1,Green flag
+10,Belgium,2022,1,Green flag
+11,Belgium,2022,1,Green flag
+12,Belgium,2022,1,Green flag
+13,Belgium,2022,1,Green flag
+14,Belgium,2022,1,Green flag
+15,Belgium,2022,1,Green flag
+16,Belgium,2022,1,Green flag
+17,Belgium,2022,1,Green flag
+18,Belgium,2022,1,Green flag
+19,Belgium,2022,1,Green flag
+20,Belgium,2022,1,Green flag
+21,Belgium,2022,1,Green flag
+22,Belgium,2022,1,Green flag
+23,Belgium,2022,1,Green flag
+24,Belgium,2022,1,Green flag
+25,Belgium,2022,1,Green flag
+26,Belgium,2022,1,Green flag
+27,Belgium,2022,1,Green flag
+28,Belgium,2022,1,Green flag
+29,Belgium,2022,1,Green flag
+30,Belgium,2022,1,Green flag
+31,Belgium,2022,1,Green flag
+32,Belgium,2022,1,Green flag
+33,Belgium,2022,1,Green flag
+34,Belgium,2022,1,Green flag
+35,Belgium,2022,1,Green flag
+36,Belgium,2022,1,Green flag
+37,Belgium,2022,1,Green flag
+38,Belgium,2022,1,Green flag
+39,Belgium,2022,1,Green flag
+40,Belgium,2022,1,Green flag
+41,Belgium,2022,1,Green flag
+42,Belgium,2022,1,Green flag
+43,Belgium,2022,1,Green flag
+44,Belgium,2022,1,Green flag
+0,Belgium,2022,2,Yellow flag
+1,Azerbaijan,2022,1,Green flag
+2,Azerbaijan,2022,1,Green flag
+3,Azerbaijan,2022,1,Green flag
+4,Azerbaijan,2022,1,Green flag
+5,Azerbaijan,2022,1,Green flag
+6,Azerbaijan,2022,1,Green flag
+7,Azerbaijan,2022,1,Green flag
+8,Azerbaijan,2022,1,Green flag
+9,Azerbaijan,2022,26,Virtual Safety Car
+10,Azerbaijan,2022,67,Virtual Safety Car
+11,Azerbaijan,2022,1,Green flag
+12,Azerbaijan,2022,1,Green flag
+13,Azerbaijan,2022,2,Yellow flag
+14,Azerbaijan,2022,1,Green flag
+15,Azerbaijan,2022,1,Green flag
+16,Azerbaijan,2022,1,Green flag
+17,Azerbaijan,2022,1,Green flag
+18,Azerbaijan,2022,1,Green flag
+19,Azerbaijan,2022,1,Green flag
+20,Azerbaijan,2022,1,Green flag
+21,Azerbaijan,2022,1,Green flag
+22,Azerbaijan,2022,1,Green flag
+23,Azerbaijan,2022,1,Green flag
+24,Azerbaijan,2022,1,Green flag
+25,Azerbaijan,2022,1,Green flag
+26,Azerbaijan,2022,1,Green flag
+27,Azerbaijan,2022,1,Green flag
+28,Azerbaijan,2022,1,Green flag
+29,Azerbaijan,2022,1,Green flag
+30,Azerbaijan,2022,1,Green flag
+31,Azerbaijan,2022,1,Green flag
+32,Azerbaijan,2022,1,Green flag
+33,Azerbaijan,2022,26,Virtual Safety Car
+34,Azerbaijan,2022,6,Virtual Safety Car
+35,Azerbaijan,2022,67,Virtual Safety Car
+36,Azerbaijan,2022,1,Green flag
+37,Azerbaijan,2022,1,Green flag
+38,Azerbaijan,2022,1,Green flag
+39,Azerbaijan,2022,1,Green flag
+40,Azerbaijan,2022,1,Green flag
+41,Azerbaijan,2022,1,Green flag
+42,Azerbaijan,2022,1,Green flag
+43,Azerbaijan,2022,1,Green flag
+44,Azerbaijan,2022,1,Green flag
+45,Azerbaijan,2022,1,Green flag
+46,Azerbaijan,2022,1,Green flag
+47,Azerbaijan,2022,1,Green flag
+48,Azerbaijan,2022,1,Green flag
+49,Azerbaijan,2022,1,Green flag
+50,Azerbaijan,2022,1,Green flag
+51,Azerbaijan,2022,1,Green flag
+1,Singapore,2022,2,Yellow flag
+2,Singapore,2022,1,Green flag
+3,Singapore,2022,1,Green flag
+4,Singapore,2022,1,Green flag
+5,Singapore,2022,1,Green flag
+6,Singapore,2022,1,Green flag
+7,Singapore,2022,2,Yellow flag
+8,Singapore,2022,24,Safety Car
+9,Singapore,2022,4,Safety Car
+10,Singapore,2022,4,Safety Car
+11,Singapore,2022,1,Green flag
+12,Singapore,2022,1,Green flag
+13,Singapore,2022,1,Green flag
+14,Singapore,2022,1,Green flag
+15,Singapore,2022,1,Green flag
+16,Singapore,2022,1,Green flag
+17,Singapore,2022,1,Green flag
+18,Singapore,2022,1,Green flag
+19,Singapore,2022,1,Green flag
+20,Singapore,2022,1,Green flag
+21,Singapore,2022,26,Virtual Safety Car
+22,Singapore,2022,67,Virtual Safety Car
+23,Singapore,2022,1,Green flag
+24,Singapore,2022,1,Green flag
+25,Singapore,2022,2,Yellow flag
+26,Singapore,2022,267,Virtual Safety Car
+27,Singapore,2022,72,Unknown
+28,Singapore,2022,26,Virtual Safety Car
+29,Singapore,2022,6,Virtual Safety Car
+30,Singapore,2022,67,Virtual Safety Car
+31,Singapore,2022,1,Green flag
+32,Singapore,2022,1,Green flag
+33,Singapore,2022,2,Yellow flag
+34,Singapore,2022,1,Green flag
+35,Singapore,2022,1,Green flag
+36,Singapore,2022,24,Safety Car
+37,Singapore,2022,4,Safety Car
+38,Singapore,2022,4,Safety Car
+39,Singapore,2022,4,Safety Car
+40,Singapore,2022,1,Green flag
+41,Singapore,2022,1,Green flag
+42,Singapore,2022,1,Green flag
+43,Singapore,2022,1,Green flag
+44,Singapore,2022,1,Green flag
+45,Singapore,2022,1,Green flag
+46,Singapore,2022,1,Green flag
+47,Singapore,2022,1,Green flag
+48,Singapore,2022,1,Green flag
+49,Singapore,2022,1,Green flag
+50,Singapore,2022,1,Green flag
+51,Singapore,2022,1,Green flag
+52,Singapore,2022,1,Green flag
+53,Singapore,2022,1,Green flag
+54,Singapore,2022,1,Green flag
+55,Singapore,2022,1,Green flag
+56,Singapore,2022,1,Green flag
+57,Singapore,2022,1,Green flag
+58,Singapore,2022,1,Green flag
+59,Singapore,2022,1,Green flag
+1,Austin,2022,2,Yellow flag
+2,Austin,2022,1,Green flag
+3,Austin,2022,1,Green flag
+4,Austin,2022,1,Green flag
+5,Austin,2022,1,Green flag
+6,Austin,2022,1,Green flag
+7,Austin,2022,1,Green flag
+8,Austin,2022,1,Green flag
+9,Austin,2022,1,Green flag
+10,Austin,2022,1,Green flag
+11,Austin,2022,1,Green flag
+12,Austin,2022,1,Green flag
+13,Austin,2022,1,Green flag
+14,Austin,2022,1,Green flag
+15,Austin,2022,1,Green flag
+16,Austin,2022,1,Green flag
+17,Austin,2022,1,Green flag
+18,Austin,2022,24,Safety Car
+19,Austin,2022,4,Safety Car
+20,Austin,2022,4,Safety Car
+21,Austin,2022,4,Safety Car
+22,Austin,2022,24,Safety Car
+23,Austin,2022,4,Safety Car
+24,Austin,2022,4,Safety Car
+25,Austin,2022,4,Safety Car
+26,Austin,2022,1,Green flag
+27,Austin,2022,1,Green flag
+28,Austin,2022,1,Green flag
+29,Austin,2022,1,Green flag
+30,Austin,2022,1,Green flag
+31,Austin,2022,1,Green flag
+32,Austin,2022,1,Green flag
+33,Austin,2022,1,Green flag
+34,Austin,2022,1,Green flag
+35,Austin,2022,1,Green flag
+36,Austin,2022,1,Green flag
+37,Austin,2022,1,Green flag
+38,Austin,2022,1,Green flag
+39,Austin,2022,1,Green flag
+40,Austin,2022,1,Green flag
+41,Austin,2022,1,Green flag
+42,Austin,2022,1,Green flag
+43,Austin,2022,1,Green flag
+44,Austin,2022,1,Green flag
+45,Austin,2022,1,Green flag
+46,Austin,2022,1,Green flag
+47,Austin,2022,1,Green flag
+48,Austin,2022,1,Green flag
+49,Austin,2022,1,Green flag
+50,Austin,2022,1,Green flag
+51,Austin,2022,1,Green flag
+52,Austin,2022,1,Green flag
+53,Austin,2022,1,Green flag
+54,Austin,2022,1,Green flag
+55,Austin,2022,1,Green flag
+56,Austin,2022,1,Green flag
+1,Mexico,2022,1,Green flag
+2,Mexico,2022,1,Green flag
+3,Mexico,2022,1,Green flag
+4,Mexico,2022,1,Green flag
+5,Mexico,2022,1,Green flag
+6,Mexico,2022,1,Green flag
+7,Mexico,2022,1,Green flag
+8,Mexico,2022,1,Green flag
+9,Mexico,2022,1,Green flag
+10,Mexico,2022,1,Green flag
+11,Mexico,2022,1,Green flag
+12,Mexico,2022,1,Green flag
+13,Mexico,2022,1,Green flag
+14,Mexico,2022,1,Green flag
+15,Mexico,2022,1,Green flag
+16,Mexico,2022,1,Green flag
+17,Mexico,2022,1,Green flag
+18,Mexico,2022,1,Green flag
+19,Mexico,2022,1,Green flag
+20,Mexico,2022,1,Green flag
+21,Mexico,2022,1,Green flag
+22,Mexico,2022,1,Green flag
+23,Mexico,2022,1,Green flag
+24,Mexico,2022,1,Green flag
+25,Mexico,2022,1,Green flag
+26,Mexico,2022,1,Green flag
+27,Mexico,2022,1,Green flag
+28,Mexico,2022,1,Green flag
+29,Mexico,2022,1,Green flag
+30,Mexico,2022,1,Green flag
+31,Mexico,2022,1,Green flag
+32,Mexico,2022,1,Green flag
+33,Mexico,2022,1,Green flag
+34,Mexico,2022,1,Green flag
+35,Mexico,2022,1,Green flag
+36,Mexico,2022,1,Green flag
+37,Mexico,2022,1,Green flag
+38,Mexico,2022,1,Green flag
+39,Mexico,2022,1,Green flag
+40,Mexico,2022,1,Green flag
+41,Mexico,2022,1,Green flag
+42,Mexico,2022,1,Green flag
+43,Mexico,2022,1,Green flag
+44,Mexico,2022,1,Green flag
+45,Mexico,2022,1,Green flag
+46,Mexico,2022,1,Green flag
+47,Mexico,2022,1,Green flag
+48,Mexico,2022,1,Green flag
+49,Mexico,2022,1,Green flag
+50,Mexico,2022,1,Green flag
+51,Mexico,2022,1,Green flag
+52,Mexico,2022,1,Green flag
+53,Mexico,2022,1,Green flag
+54,Mexico,2022,1,Green flag
+55,Mexico,2022,1,Green flag
+56,Mexico,2022,1,Green flag
+57,Mexico,2022,1,Green flag
+58,Mexico,2022,1,Green flag
+59,Mexico,2022,1,Green flag
+60,Mexico,2022,1,Green flag
+61,Mexico,2022,1,Green flag
+62,Mexico,2022,1,Green flag
+63,Mexico,2022,1,Green flag
+64,Mexico,2022,1,Green flag
+65,Mexico,2022,26,Virtual Safety Car
+66,Mexico,2022,67,Virtual Safety Car
+67,Mexico,2022,1,Green flag
+68,Mexico,2022,1,Green flag
+69,Mexico,2022,1,Green flag
+70,Mexico,2022,1,Green flag
+71,Mexico,2022,1,Green flag
+1,Brazil,2022,24,Safety Car
+2,Brazil,2022,4,Safety Car
+3,Brazil,2022,4,Safety Car
+4,Brazil,2022,4,Safety Car
+5,Brazil,2022,4,Safety Car
+6,Brazil,2022,4,Safety Car
+7,Brazil,2022,2,Yellow flag
+8,Brazil,2022,1,Green flag
+9,Brazil,2022,1,Green flag
+10,Brazil,2022,1,Green flag
+11,Brazil,2022,1,Green flag
+12,Brazil,2022,1,Green flag
+13,Brazil,2022,1,Green flag
+14,Brazil,2022,1,Green flag
+15,Brazil,2022,1,Green flag
+16,Brazil,2022,1,Green flag
+17,Brazil,2022,1,Green flag
+18,Brazil,2022,1,Green flag
+19,Brazil,2022,1,Green flag
+20,Brazil,2022,1,Green flag
+21,Brazil,2022,1,Green flag
+22,Brazil,2022,1,Green flag
+23,Brazil,2022,1,Green flag
+24,Brazil,2022,1,Green flag
+25,Brazil,2022,1,Green flag
+26,Brazil,2022,1,Green flag
+27,Brazil,2022,1,Green flag
+28,Brazil,2022,1,Green flag
+29,Brazil,2022,1,Green flag
+30,Brazil,2022,1,Green flag
+31,Brazil,2022,1,Green flag
+32,Brazil,2022,1,Green flag
+33,Brazil,2022,1,Green flag
+34,Brazil,2022,1,Green flag
+35,Brazil,2022,1,Green flag
+36,Brazil,2022,1,Green flag
+37,Brazil,2022,1,Green flag
+38,Brazil,2022,1,Green flag
+39,Brazil,2022,1,Green flag
+40,Brazil,2022,1,Green flag
+41,Brazil,2022,1,Green flag
+42,Brazil,2022,1,Green flag
+43,Brazil,2022,1,Green flag
+44,Brazil,2022,1,Green flag
+45,Brazil,2022,1,Green flag
+46,Brazil,2022,1,Green flag
+47,Brazil,2022,1,Green flag
+48,Brazil,2022,1,Green flag
+49,Brazil,2022,1,Green flag
+50,Brazil,2022,1,Green flag
+51,Brazil,2022,2,Yellow flag
+52,Brazil,2022,26,Virtual Safety Car
+53,Brazil,2022,6,Virtual Safety Car
+54,Brazil,2022,64,Safety Car
+55,Brazil,2022,4,Safety Car
+56,Brazil,2022,4,Safety Car
+57,Brazil,2022,4,Safety Car
+58,Brazil,2022,4,Safety Car
+59,Brazil,2022,4,Safety Car
+60,Brazil,2022,1,Green flag
+61,Brazil,2022,1,Green flag
+62,Brazil,2022,1,Green flag
+63,Brazil,2022,1,Green flag
+64,Brazil,2022,1,Green flag
+65,Brazil,2022,1,Green flag
+66,Brazil,2022,1,Green flag
+67,Brazil,2022,1,Green flag
+68,Brazil,2022,1,Green flag
+69,Brazil,2022,1,Green flag
+70,Brazil,2022,1,Green flag
+71,Brazil,2022,1,Green flag
+0,Brazil,2022,24,Safety Car
+1,Abu Dhabi,2022,1,Green flag
+2,Abu Dhabi,2022,1,Green flag
+3,Abu Dhabi,2022,1,Green flag
+4,Abu Dhabi,2022,1,Green flag
+5,Abu Dhabi,2022,1,Green flag
+6,Abu Dhabi,2022,1,Green flag
+7,Abu Dhabi,2022,1,Green flag
+8,Abu Dhabi,2022,1,Green flag
+9,Abu Dhabi,2022,1,Green flag
+10,Abu Dhabi,2022,1,Green flag
+11,Abu Dhabi,2022,1,Green flag
+12,Abu Dhabi,2022,1,Green flag
+13,Abu Dhabi,2022,1,Green flag
+14,Abu Dhabi,2022,1,Green flag
+15,Abu Dhabi,2022,1,Green flag
+16,Abu Dhabi,2022,1,Green flag
+17,Abu Dhabi,2022,1,Green flag
+18,Abu Dhabi,2022,1,Green flag
+19,Abu Dhabi,2022,1,Green flag
+20,Abu Dhabi,2022,1,Green flag
+21,Abu Dhabi,2022,1,Green flag
+22,Abu Dhabi,2022,1,Green flag
+23,Abu Dhabi,2022,1,Green flag
+24,Abu Dhabi,2022,1,Green flag
+25,Abu Dhabi,2022,1,Green flag
+26,Abu Dhabi,2022,1,Green flag
+27,Abu Dhabi,2022,1,Green flag
+28,Abu Dhabi,2022,1,Green flag
+29,Abu Dhabi,2022,1,Green flag
+30,Abu Dhabi,2022,1,Green flag
+31,Abu Dhabi,2022,1,Green flag
+32,Abu Dhabi,2022,1,Green flag
+33,Abu Dhabi,2022,1,Green flag
+34,Abu Dhabi,2022,1,Green flag
+35,Abu Dhabi,2022,1,Green flag
+36,Abu Dhabi,2022,1,Green flag
+37,Abu Dhabi,2022,1,Green flag
+38,Abu Dhabi,2022,1,Green flag
+39,Abu Dhabi,2022,2,Yellow flag
+40,Abu Dhabi,2022,1,Green flag
+41,Abu Dhabi,2022,1,Green flag
+42,Abu Dhabi,2022,1,Green flag
+43,Abu Dhabi,2022,1,Green flag
+44,Abu Dhabi,2022,1,Green flag
+45,Abu Dhabi,2022,1,Green flag
+46,Abu Dhabi,2022,1,Green flag
+47,Abu Dhabi,2022,1,Green flag
+48,Abu Dhabi,2022,1,Green flag
+49,Abu Dhabi,2022,1,Green flag
+50,Abu Dhabi,2022,1,Green flag
+51,Abu Dhabi,2022,1,Green flag
+52,Abu Dhabi,2022,1,Green flag
+53,Abu Dhabi,2022,1,Green flag
+54,Abu Dhabi,2022,1,Green flag
+55,Abu Dhabi,2022,1,Green flag
+56,Abu Dhabi,2022,1,Green flag
+57,Abu Dhabi,2022,1,Green flag
+58,Abu Dhabi,2022,1,Green flag
+1,Monza,2022,1,Green flag
+2,Monza,2022,1,Green flag
+3,Monza,2022,1,Green flag
+4,Monza,2022,1,Green flag
+5,Monza,2022,1,Green flag
+6,Monza,2022,1,Green flag
+7,Monza,2022,1,Green flag
+8,Monza,2022,1,Green flag
+9,Monza,2022,1,Green flag
+10,Monza,2022,1,Green flag
+11,Monza,2022,1,Green flag
+12,Monza,2022,267,Virtual Safety Car
+13,Monza,2022,7,Unknown
+14,Monza,2022,1,Green flag
+15,Monza,2022,1,Green flag
+16,Monza,2022,1,Green flag
+17,Monza,2022,1,Green flag
+18,Monza,2022,1,Green flag
+19,Monza,2022,1,Green flag
+20,Monza,2022,1,Green flag
+21,Monza,2022,1,Green flag
+22,Monza,2022,1,Green flag
+23,Monza,2022,1,Green flag
+24,Monza,2022,1,Green flag
+25,Monza,2022,1,Green flag
+26,Monza,2022,1,Green flag
+27,Monza,2022,1,Green flag
+28,Monza,2022,1,Green flag
+29,Monza,2022,1,Green flag
+30,Monza,2022,1,Green flag
+31,Monza,2022,1,Green flag
+32,Monza,2022,1,Green flag
+33,Monza,2022,1,Green flag
+34,Monza,2022,1,Green flag
+35,Monza,2022,1,Green flag
+36,Monza,2022,1,Green flag
+37,Monza,2022,1,Green flag
+38,Monza,2022,1,Green flag
+39,Monza,2022,1,Green flag
+40,Monza,2022,1,Green flag
+41,Monza,2022,1,Green flag
+42,Monza,2022,1,Green flag
+43,Monza,2022,1,Green flag
+44,Monza,2022,1,Green flag
+45,Monza,2022,1,Green flag
+46,Monza,2022,1,Green flag
+47,Monza,2022,2,Yellow flag
+48,Monza,2022,2,Yellow flag
+49,Monza,2022,4,Safety Car
+50,Monza,2022,4,Safety Car
+51,Monza,2022,4,Safety Car
+52,Monza,2022,4,Safety Car
+53,Monza,2022,4,Safety Car
+1,Qatar,2022,1,Green flag
+2,Qatar,2022,1,Green flag
+3,Qatar,2022,1,Green flag
+4,Qatar,2022,1,Green flag
+5,Qatar,2022,1,Green flag
+6,Qatar,2022,1,Green flag
+7,Qatar,2022,1,Green flag
+8,Qatar,2022,1,Green flag
+9,Qatar,2022,1,Green flag
+10,Qatar,2022,1,Green flag
+11,Qatar,2022,1,Green flag
+12,Qatar,2022,1,Green flag
+13,Qatar,2022,1,Green flag
+14,Qatar,2022,1,Green flag
+15,Qatar,2022,1,Green flag
+16,Qatar,2022,1,Green flag
+17,Qatar,2022,1,Green flag
+18,Qatar,2022,1,Green flag
+19,Qatar,2022,1,Green flag
+20,Qatar,2022,1,Green flag
+21,Qatar,2022,1,Green flag
+22,Qatar,2022,1,Green flag
+23,Qatar,2022,1,Green flag
+24,Qatar,2022,1,Green flag
+25,Qatar,2022,1,Green flag
+26,Qatar,2022,1,Green flag
+27,Qatar,2022,1,Green flag
+28,Qatar,2022,1,Green flag
+29,Qatar,2022,1,Green flag
+30,Qatar,2022,1,Green flag
+31,Qatar,2022,1,Green flag
+32,Qatar,2022,1,Green flag
+33,Qatar,2022,1,Green flag
+34,Qatar,2022,1,Green flag
+35,Qatar,2022,1,Green flag
+36,Qatar,2022,1,Green flag
+37,Qatar,2022,1,Green flag
+38,Qatar,2022,1,Green flag
+39,Qatar,2022,1,Green flag
+40,Qatar,2022,2,Yellow flag
+41,Qatar,2022,1,Green flag
+42,Qatar,2022,1,Green flag
+43,Qatar,2022,1,Green flag
+44,Qatar,2022,1,Green flag
+45,Qatar,2022,1,Green flag
+46,Qatar,2022,1,Green flag
+47,Qatar,2022,1,Green flag
+48,Qatar,2022,1,Green flag
+49,Qatar,2022,1,Green flag
+50,Qatar,2022,1,Green flag
+51,Qatar,2022,1,Green flag
+52,Qatar,2022,1,Green flag
+53,Qatar,2022,1,Green flag
+54,Qatar,2022,1,Green flag
+55,Qatar,2022,1,Green flag
+56,Qatar,2022,1,Green flag
+57,Qatar,2022,2,Yellow flag
+58,Qatar,2022,26,Virtual Safety Car
+59,Qatar,2022,67,Virtual Safety Car
+60,Qatar,2022,1,Green flag
+61,Qatar,2022,1,Green flag
+62,Qatar,2022,1,Green flag
+63,Qatar,2022,1,Green flag
+64,Qatar,2022,1,Green flag
+65,Qatar,2022,1,Green flag
+66,Qatar,2022,1,Green flag
+67,Qatar,2022,1,Green flag
+68,Qatar,2022,1,Green flag
+69,Qatar,2022,1,Green flag
+70,Qatar,2022,1,Green flag
+71,Qatar,2022,1,Green flag
+1,Miami,2022,1,Green flag
+2,Miami,2022,1,Green flag
+3,Miami,2022,1,Green flag
+4,Miami,2022,1,Green flag
+5,Miami,2022,1,Green flag
+6,Miami,2022,1,Green flag
+7,Miami,2022,1,Green flag
+8,Miami,2022,1,Green flag
+9,Miami,2022,1,Green flag
+10,Miami,2022,1,Green flag
+11,Miami,2022,1,Green flag
+12,Miami,2022,1,Green flag
+13,Miami,2022,1,Green flag
+14,Miami,2022,1,Green flag
+15,Miami,2022,1,Green flag
+16,Miami,2022,1,Green flag
+17,Miami,2022,1,Green flag
+18,Miami,2022,1,Green flag
+19,Miami,2022,1,Green flag
+20,Miami,2022,2,Yellow flag
+21,Miami,2022,1,Green flag
+22,Miami,2022,1,Green flag
+23,Miami,2022,1,Green flag
+24,Miami,2022,1,Green flag
+25,Miami,2022,1,Green flag
+26,Miami,2022,1,Green flag
+27,Miami,2022,1,Green flag
+28,Miami,2022,1,Green flag
+29,Miami,2022,1,Green flag
+30,Miami,2022,1,Green flag
+31,Miami,2022,1,Green flag
+32,Miami,2022,1,Green flag
+33,Miami,2022,1,Green flag
+34,Miami,2022,1,Green flag
+35,Miami,2022,1,Green flag
+36,Miami,2022,1,Green flag
+37,Miami,2022,1,Green flag
+38,Miami,2022,1,Green flag
+39,Miami,2022,1,Green flag
+40,Miami,2022,1,Green flag
+41,Miami,2022,264,Safety Car
+42,Miami,2022,4,Safety Car
+43,Miami,2022,4,Safety Car
+44,Miami,2022,4,Safety Car
+45,Miami,2022,4,Safety Car
+46,Miami,2022,4,Safety Car
+47,Miami,2022,2,Yellow flag
+48,Miami,2022,1,Green flag
+49,Miami,2022,1,Green flag
+50,Miami,2022,1,Green flag
+51,Miami,2022,1,Green flag
+52,Miami,2022,1,Green flag
+53,Miami,2022,1,Green flag
+54,Miami,2022,2,Yellow flag
+55,Miami,2022,1,Green flag
+56,Miami,2022,2,Yellow flag
+57,Miami,2022,1,Green flag
+1,Saudi Arabia,2022,1,Green flag
+2,Saudi Arabia,2022,1,Green flag
+3,Saudi Arabia,2022,1,Green flag
+4,Saudi Arabia,2022,1,Green flag
+5,Saudi Arabia,2022,1,Green flag
+6,Saudi Arabia,2022,1,Green flag
+7,Saudi Arabia,2022,1,Green flag
+8,Saudi Arabia,2022,1,Green flag
+9,Saudi Arabia,2022,1,Green flag
+10,Saudi Arabia,2022,1,Green flag
+11,Saudi Arabia,2022,1,Green flag
+12,Saudi Arabia,2022,1,Green flag
+13,Saudi Arabia,2022,1,Green flag
+14,Saudi Arabia,2022,1,Green flag
+15,Saudi Arabia,2022,1,Green flag
+16,Saudi Arabia,2022,264,Safety Car
+17,Saudi Arabia,2022,4,Safety Car
+18,Saudi Arabia,2022,4,Safety Car
+19,Saudi Arabia,2022,4,Safety Car
+20,Saudi Arabia,2022,4,Safety Car
+21,Saudi Arabia,2022,1,Green flag
+22,Saudi Arabia,2022,1,Green flag
+23,Saudi Arabia,2022,1,Green flag
+24,Saudi Arabia,2022,1,Green flag
+25,Saudi Arabia,2022,1,Green flag
+26,Saudi Arabia,2022,1,Green flag
+27,Saudi Arabia,2022,1,Green flag
+28,Saudi Arabia,2022,1,Green flag
+29,Saudi Arabia,2022,1,Green flag
+30,Saudi Arabia,2022,1,Green flag
+31,Saudi Arabia,2022,1,Green flag
+32,Saudi Arabia,2022,1,Green flag
+33,Saudi Arabia,2022,1,Green flag
+34,Saudi Arabia,2022,1,Green flag
+35,Saudi Arabia,2022,1,Green flag
+36,Saudi Arabia,2022,1,Green flag
+37,Saudi Arabia,2022,2,Yellow flag
+38,Saudi Arabia,2022,26,Virtual Safety Car
+39,Saudi Arabia,2022,6,Virtual Safety Car
+40,Saudi Arabia,2022,6,Virtual Safety Car
+41,Saudi Arabia,2022,67,Virtual Safety Car
+42,Saudi Arabia,2022,1,Green flag
+43,Saudi Arabia,2022,1,Green flag
+44,Saudi Arabia,2022,1,Green flag
+45,Saudi Arabia,2022,1,Green flag
+46,Saudi Arabia,2022,1,Green flag
+47,Saudi Arabia,2022,1,Green flag
+48,Saudi Arabia,2022,2,Yellow flag
+49,Saudi Arabia,2022,2,Yellow flag
+50,Saudi Arabia,2022,2,Yellow flag
+1,Bahrain,2023,2,Yellow flag
+2,Bahrain,2023,2,Yellow flag
+3,Bahrain,2023,1,Green flag
+4,Bahrain,2023,1,Green flag
+5,Bahrain,2023,1,Green flag
+6,Bahrain,2023,1,Green flag
+7,Bahrain,2023,1,Green flag
+8,Bahrain,2023,1,Green flag
+9,Bahrain,2023,1,Green flag
+10,Bahrain,2023,1,Green flag
+11,Bahrain,2023,1,Green flag
+12,Bahrain,2023,1,Green flag
+13,Bahrain,2023,1,Green flag
+14,Bahrain,2023,1,Green flag
+15,Bahrain,2023,1,Green flag
+16,Bahrain,2023,1,Green flag
+17,Bahrain,2023,1,Green flag
+18,Bahrain,2023,1,Green flag
+19,Bahrain,2023,1,Green flag
+20,Bahrain,2023,1,Green flag
+21,Bahrain,2023,1,Green flag
+22,Bahrain,2023,1,Green flag
+23,Bahrain,2023,1,Green flag
+24,Bahrain,2023,1,Green flag
+25,Bahrain,2023,1,Green flag
+26,Bahrain,2023,1,Green flag
+27,Bahrain,2023,1,Green flag
+28,Bahrain,2023,1,Green flag
+29,Bahrain,2023,1,Green flag
+30,Bahrain,2023,1,Green flag
+31,Bahrain,2023,1,Green flag
+32,Bahrain,2023,1,Green flag
+33,Bahrain,2023,1,Green flag
+34,Bahrain,2023,1,Green flag
+35,Bahrain,2023,1,Green flag
+36,Bahrain,2023,1,Green flag
+37,Bahrain,2023,1,Green flag
+38,Bahrain,2023,1,Green flag
+39,Bahrain,2023,1,Green flag
+40,Bahrain,2023,1,Green flag
+41,Bahrain,2023,26,Virtual Safety Car
+42,Bahrain,2023,67,Virtual Safety Car
+43,Bahrain,2023,1,Green flag
+44,Bahrain,2023,1,Green flag
+45,Bahrain,2023,1,Green flag
+46,Bahrain,2023,1,Green flag
+47,Bahrain,2023,1,Green flag
+48,Bahrain,2023,1,Green flag
+49,Bahrain,2023,1,Green flag
+50,Bahrain,2023,1,Green flag
+51,Bahrain,2023,1,Green flag
+52,Bahrain,2023,1,Green flag
+53,Bahrain,2023,1,Green flag
+54,Bahrain,2023,1,Green flag
+55,Bahrain,2023,1,Green flag
+56,Bahrain,2023,1,Green flag
+57,Bahrain,2023,1,Green flag
+1,Saudi Arabia,2023,1,Green flag
+2,Saudi Arabia,2023,1,Green flag
+3,Saudi Arabia,2023,1,Green flag
+4,Saudi Arabia,2023,1,Green flag
+5,Saudi Arabia,2023,1,Green flag
+6,Saudi Arabia,2023,1,Green flag
+7,Saudi Arabia,2023,1,Green flag
+8,Saudi Arabia,2023,1,Green flag
+9,Saudi Arabia,2023,1,Green flag
+10,Saudi Arabia,2023,1,Green flag
+11,Saudi Arabia,2023,1,Green flag
+12,Saudi Arabia,2023,1,Green flag
+13,Saudi Arabia,2023,1,Green flag
+14,Saudi Arabia,2023,1,Green flag
+15,Saudi Arabia,2023,1,Green flag
+16,Saudi Arabia,2023,1,Green flag
+17,Saudi Arabia,2023,2,Yellow flag
+18,Saudi Arabia,2023,24,Safety Car
+19,Saudi Arabia,2023,4,Safety Car
+20,Saudi Arabia,2023,4,Safety Car
+21,Saudi Arabia,2023,1,Green flag
+22,Saudi Arabia,2023,1,Green flag
+23,Saudi Arabia,2023,1,Green flag
+24,Saudi Arabia,2023,1,Green flag
+25,Saudi Arabia,2023,1,Green flag
+26,Saudi Arabia,2023,1,Green flag
+27,Saudi Arabia,2023,1,Green flag
+28,Saudi Arabia,2023,1,Green flag
+29,Saudi Arabia,2023,1,Green flag
+30,Saudi Arabia,2023,1,Green flag
+31,Saudi Arabia,2023,1,Green flag
+32,Saudi Arabia,2023,1,Green flag
+33,Saudi Arabia,2023,1,Green flag
+34,Saudi Arabia,2023,1,Green flag
+35,Saudi Arabia,2023,1,Green flag
+36,Saudi Arabia,2023,1,Green flag
+37,Saudi Arabia,2023,1,Green flag
+38,Saudi Arabia,2023,1,Green flag
+39,Saudi Arabia,2023,1,Green flag
+40,Saudi Arabia,2023,1,Green flag
+41,Saudi Arabia,2023,1,Green flag
+42,Saudi Arabia,2023,1,Green flag
+43,Saudi Arabia,2023,1,Green flag
+44,Saudi Arabia,2023,1,Green flag
+45,Saudi Arabia,2023,1,Green flag
+46,Saudi Arabia,2023,1,Green flag
+47,Saudi Arabia,2023,1,Green flag
+48,Saudi Arabia,2023,1,Green flag
+49,Saudi Arabia,2023,1,Green flag
+50,Saudi Arabia,2023,1,Green flag
+1,Australia,2023,24,Safety Car
+2,Australia,2023,4,Safety Car
+3,Australia,2023,4,Safety Car
+4,Australia,2023,1,Green flag
+5,Australia,2023,1,Green flag
+6,Australia,2023,1,Green flag
+7,Australia,2023,24,Safety Car
+8,Australia,2023,45,Safety Car
+9,Australia,2023,1,Green flag
+10,Australia,2023,1,Green flag
+11,Australia,2023,1,Green flag
+12,Australia,2023,1,Green flag
+13,Australia,2023,1,Green flag
+14,Australia,2023,1,Green flag
+15,Australia,2023,1,Green flag
+16,Australia,2023,1,Green flag
+17,Australia,2023,1,Green flag
+18,Australia,2023,6,Virtual Safety Car
+19,Australia,2023,67,Virtual Safety Car
+20,Australia,2023,1,Green flag
+21,Australia,2023,1,Green flag
+22,Australia,2023,1,Green flag
+23,Australia,2023,1,Green flag
+24,Australia,2023,1,Green flag
+25,Australia,2023,1,Green flag
+26,Australia,2023,1,Green flag
+27,Australia,2023,1,Green flag
+28,Australia,2023,1,Green flag
+29,Australia,2023,1,Green flag
+30,Australia,2023,1,Green flag
+31,Australia,2023,1,Green flag
+32,Australia,2023,1,Green flag
+33,Australia,2023,1,Green flag
+34,Australia,2023,1,Green flag
+35,Australia,2023,1,Green flag
+36,Australia,2023,1,Green flag
+37,Australia,2023,1,Green flag
+38,Australia,2023,1,Green flag
+39,Australia,2023,1,Green flag
+40,Australia,2023,1,Green flag
+41,Australia,2023,1,Green flag
+42,Australia,2023,1,Green flag
+43,Australia,2023,1,Green flag
+44,Australia,2023,1,Green flag
+45,Australia,2023,1,Green flag
+46,Australia,2023,1,Green flag
+47,Australia,2023,1,Green flag
+48,Australia,2023,1,Green flag
+49,Australia,2023,1,Green flag
+50,Australia,2023,1,Green flag
+51,Australia,2023,1,Green flag
+52,Australia,2023,1,Green flag
+53,Australia,2023,2,Yellow flag
+54,Australia,2023,24,Safety Car
+55,Australia,2023,45,Safety Car
+56,Australia,2023,1,Green flag
+57,Australia,2023,25,Red Flag
+58,Australia,2023,1,Green flag
+0,Australia,2023,24,Safety Car
+1,Japan,2023,24,Safety Car
+2,Japan,2023,4,Safety Car
+3,Japan,2023,4,Safety Car
+4,Japan,2023,4,Safety Car
+5,Japan,2023,1,Green flag
+6,Japan,2023,1,Green flag
+7,Japan,2023,1,Green flag
+8,Japan,2023,1,Green flag
+9,Japan,2023,1,Green flag
+10,Japan,2023,1,Green flag
+11,Japan,2023,1,Green flag
+12,Japan,2023,2,Yellow flag
+13,Japan,2023,1,Green flag
+14,Japan,2023,67,Virtual Safety Car
+15,Japan,2023,1,Green flag
+16,Japan,2023,1,Green flag
+17,Japan,2023,1,Green flag
+18,Japan,2023,1,Green flag
+19,Japan,2023,1,Green flag
+20,Japan,2023,1,Green flag
+21,Japan,2023,1,Green flag
+22,Japan,2023,1,Green flag
+23,Japan,2023,1,Green flag
+24,Japan,2023,1,Green flag
+25,Japan,2023,1,Green flag
+26,Japan,2023,1,Green flag
+27,Japan,2023,1,Green flag
+28,Japan,2023,1,Green flag
+29,Japan,2023,1,Green flag
+30,Japan,2023,1,Green flag
+31,Japan,2023,1,Green flag
+32,Japan,2023,1,Green flag
+33,Japan,2023,1,Green flag
+34,Japan,2023,1,Green flag
+35,Japan,2023,1,Green flag
+36,Japan,2023,1,Green flag
+37,Japan,2023,1,Green flag
+38,Japan,2023,1,Green flag
+39,Japan,2023,1,Green flag
+40,Japan,2023,1,Green flag
+41,Japan,2023,1,Green flag
+42,Japan,2023,1,Green flag
+43,Japan,2023,1,Green flag
+44,Japan,2023,1,Green flag
+45,Japan,2023,1,Green flag
+46,Japan,2023,1,Green flag
+47,Japan,2023,1,Green flag
+48,Japan,2023,1,Green flag
+49,Japan,2023,1,Green flag
+50,Japan,2023,1,Green flag
+51,Japan,2023,1,Green flag
+52,Japan,2023,1,Green flag
+53,Japan,2023,1,Green flag
+1,China,2023,1,Green flag
+2,China,2023,1,Green flag
+3,China,2023,1,Green flag
+4,China,2023,1,Green flag
+5,China,2023,1,Green flag
+6,China,2023,1,Green flag
+7,China,2023,2,Yellow flag
+8,China,2023,267,Virtual Safety Car
+9,China,2023,1,Green flag
+10,China,2023,1,Green flag
+11,China,2023,1,Green flag
+12,China,2023,24,Safety Car
+13,China,2023,4,Safety Car
+14,China,2023,4,Safety Car
+15,China,2023,4,Safety Car
+16,China,2023,4,Safety Car
+17,China,2023,1,Green flag
+18,China,2023,1,Green flag
+19,China,2023,1,Green flag
+20,China,2023,1,Green flag
+21,China,2023,1,Green flag
+22,China,2023,1,Green flag
+23,China,2023,1,Green flag
+24,China,2023,1,Green flag
+25,China,2023,1,Green flag
+26,China,2023,1,Green flag
+27,China,2023,1,Green flag
+28,China,2023,1,Green flag
+29,China,2023,2,Yellow flag
+30,China,2023,1,Green flag
+31,China,2023,1,Green flag
+32,China,2023,1,Green flag
+33,China,2023,1,Green flag
+34,China,2023,1,Green flag
+35,China,2023,2,Yellow flag
+36,China,2023,2,Yellow flag
+37,China,2023,1,Green flag
+38,China,2023,1,Green flag
+39,China,2023,1,Green flag
+40,China,2023,1,Green flag
+41,China,2023,1,Green flag
+42,China,2023,1,Green flag
+43,China,2023,1,Green flag
+44,China,2023,1,Green flag
+45,China,2023,1,Green flag
+46,China,2023,1,Green flag
+47,China,2023,1,Green flag
+48,China,2023,1,Green flag
+49,China,2023,1,Green flag
+50,China,2023,1,Green flag
+51,China,2023,1,Green flag
+52,China,2023,1,Green flag
+53,China,2023,1,Green flag
+54,China,2023,1,Green flag
+55,China,2023,1,Green flag
+56,China,2023,1,Green flag
+57,China,2023,1,Green flag
+58,China,2023,1,Green flag
+59,China,2023,1,Green flag
+60,China,2023,1,Green flag
+61,China,2023,1,Green flag
+62,China,2023,1,Green flag
+63,China,2023,1,Green flag
+64,China,2023,1,Green flag
+65,China,2023,1,Green flag
+66,China,2023,1,Green flag
+67,China,2023,1,Green flag
+68,China,2023,1,Green flag
+69,China,2023,1,Green flag
+70,China,2023,1,Green flag
+1,Miami,2023,1,Green flag
+2,Miami,2023,1,Green flag
+3,Miami,2023,1,Green flag
+4,Miami,2023,1,Green flag
+5,Miami,2023,1,Green flag
+6,Miami,2023,1,Green flag
+7,Miami,2023,1,Green flag
+8,Miami,2023,1,Green flag
+9,Miami,2023,1,Green flag
+10,Miami,2023,1,Green flag
+11,Miami,2023,1,Green flag
+12,Miami,2023,1,Green flag
+13,Miami,2023,1,Green flag
+14,Miami,2023,1,Green flag
+15,Miami,2023,1,Green flag
+16,Miami,2023,1,Green flag
+17,Miami,2023,1,Green flag
+18,Miami,2023,1,Green flag
+19,Miami,2023,1,Green flag
+20,Miami,2023,1,Green flag
+21,Miami,2023,1,Green flag
+22,Miami,2023,1,Green flag
+23,Miami,2023,1,Green flag
+24,Miami,2023,1,Green flag
+25,Miami,2023,1,Green flag
+26,Miami,2023,1,Green flag
+27,Miami,2023,1,Green flag
+28,Miami,2023,1,Green flag
+29,Miami,2023,1,Green flag
+30,Miami,2023,1,Green flag
+31,Miami,2023,1,Green flag
+32,Miami,2023,1,Green flag
+33,Miami,2023,1,Green flag
+34,Miami,2023,1,Green flag
+35,Miami,2023,1,Green flag
+36,Miami,2023,1,Green flag
+37,Miami,2023,1,Green flag
+38,Miami,2023,1,Green flag
+39,Miami,2023,1,Green flag
+40,Miami,2023,1,Green flag
+41,Miami,2023,1,Green flag
+42,Miami,2023,1,Green flag
+43,Miami,2023,1,Green flag
+44,Miami,2023,1,Green flag
+45,Miami,2023,1,Green flag
+46,Miami,2023,1,Green flag
+47,Miami,2023,1,Green flag
+48,Miami,2023,1,Green flag
+49,Miami,2023,1,Green flag
+50,Miami,2023,1,Green flag
+51,Miami,2023,1,Green flag
+52,Miami,2023,1,Green flag
+53,Miami,2023,1,Green flag
+54,Miami,2023,1,Green flag
+55,Miami,2023,1,Green flag
+56,Miami,2023,1,Green flag
+57,Miami,2023,1,Green flag
+1,Imola,2023,1,Green flag
+2,Imola,2023,1,Green flag
+3,Imola,2023,1,Green flag
+4,Imola,2023,1,Green flag
+5,Imola,2023,1,Green flag
+6,Imola,2023,1,Green flag
+7,Imola,2023,1,Green flag
+8,Imola,2023,1,Green flag
+9,Imola,2023,1,Green flag
+10,Imola,2023,1,Green flag
+11,Imola,2023,1,Green flag
+12,Imola,2023,1,Green flag
+13,Imola,2023,1,Green flag
+14,Imola,2023,1,Green flag
+15,Imola,2023,1,Green flag
+16,Imola,2023,1,Green flag
+17,Imola,2023,1,Green flag
+18,Imola,2023,1,Green flag
+19,Imola,2023,1,Green flag
+20,Imola,2023,1,Green flag
+21,Imola,2023,1,Green flag
+22,Imola,2023,1,Green flag
+23,Imola,2023,1,Green flag
+24,Imola,2023,1,Green flag
+25,Imola,2023,1,Green flag
+26,Imola,2023,1,Green flag
+27,Imola,2023,1,Green flag
+28,Imola,2023,1,Green flag
+29,Imola,2023,1,Green flag
+30,Imola,2023,1,Green flag
+31,Imola,2023,1,Green flag
+32,Imola,2023,1,Green flag
+33,Imola,2023,1,Green flag
+34,Imola,2023,1,Green flag
+35,Imola,2023,1,Green flag
+36,Imola,2023,1,Green flag
+37,Imola,2023,1,Green flag
+38,Imola,2023,1,Green flag
+39,Imola,2023,1,Green flag
+40,Imola,2023,1,Green flag
+41,Imola,2023,1,Green flag
+42,Imola,2023,1,Green flag
+43,Imola,2023,1,Green flag
+44,Imola,2023,1,Green flag
+45,Imola,2023,1,Green flag
+46,Imola,2023,1,Green flag
+47,Imola,2023,1,Green flag
+48,Imola,2023,1,Green flag
+49,Imola,2023,1,Green flag
+50,Imola,2023,1,Green flag
+51,Imola,2023,1,Green flag
+52,Imola,2023,,Unknown
+0,Imola,2023,1,Green flag
+1,Monaco,2023,2,Yellow flag
+2,Monaco,2023,1,Green flag
+3,Monaco,2023,1,Green flag
+4,Monaco,2023,1,Green flag
+5,Monaco,2023,1,Green flag
+6,Monaco,2023,1,Green flag
+7,Monaco,2023,1,Green flag
+8,Monaco,2023,1,Green flag
+9,Monaco,2023,1,Green flag
+10,Monaco,2023,1,Green flag
+11,Monaco,2023,1,Green flag
+12,Monaco,2023,2,Yellow flag
+13,Monaco,2023,2,Yellow flag
+14,Monaco,2023,2,Yellow flag
+15,Monaco,2023,2,Yellow flag
+16,Monaco,2023,1,Green flag
+17,Monaco,2023,1,Green flag
+18,Monaco,2023,1,Green flag
+19,Monaco,2023,1,Green flag
+20,Monaco,2023,1,Green flag
+21,Monaco,2023,1,Green flag
+22,Monaco,2023,1,Green flag
+23,Monaco,2023,1,Green flag
+24,Monaco,2023,1,Green flag
+25,Monaco,2023,1,Green flag
+26,Monaco,2023,1,Green flag
+27,Monaco,2023,1,Green flag
+28,Monaco,2023,1,Green flag
+29,Monaco,2023,1,Green flag
+30,Monaco,2023,1,Green flag
+31,Monaco,2023,1,Green flag
+32,Monaco,2023,1,Green flag
+33,Monaco,2023,1,Green flag
+34,Monaco,2023,1,Green flag
+35,Monaco,2023,1,Green flag
+36,Monaco,2023,1,Green flag
+37,Monaco,2023,1,Green flag
+38,Monaco,2023,1,Green flag
+39,Monaco,2023,1,Green flag
+40,Monaco,2023,1,Green flag
+41,Monaco,2023,1,Green flag
+42,Monaco,2023,1,Green flag
+43,Monaco,2023,1,Green flag
+44,Monaco,2023,1,Green flag
+45,Monaco,2023,1,Green flag
+46,Monaco,2023,1,Green flag
+47,Monaco,2023,1,Green flag
+48,Monaco,2023,1,Green flag
+49,Monaco,2023,1,Green flag
+50,Monaco,2023,1,Green flag
+51,Monaco,2023,1,Green flag
+52,Monaco,2023,1,Green flag
+53,Monaco,2023,1,Green flag
+54,Monaco,2023,1,Green flag
+55,Monaco,2023,2,Yellow flag
+56,Monaco,2023,2,Yellow flag
+57,Monaco,2023,1,Green flag
+58,Monaco,2023,2,Yellow flag
+59,Monaco,2023,2,Yellow flag
+60,Monaco,2023,2,Yellow flag
+61,Monaco,2023,2,Yellow flag
+62,Monaco,2023,1,Green flag
+63,Monaco,2023,1,Green flag
+64,Monaco,2023,1,Green flag
+65,Monaco,2023,1,Green flag
+66,Monaco,2023,1,Green flag
+67,Monaco,2023,1,Green flag
+68,Monaco,2023,1,Green flag
+69,Monaco,2023,2,Yellow flag
+70,Monaco,2023,1,Green flag
+71,Monaco,2023,1,Green flag
+72,Monaco,2023,1,Green flag
+73,Monaco,2023,1,Green flag
+74,Monaco,2023,1,Green flag
+75,Monaco,2023,1,Green flag
+76,Monaco,2023,1,Green flag
+77,Monaco,2023,1,Green flag
+78,Monaco,2023,1,Green flag
+1,Spain,2023,1,Green flag
+2,Spain,2023,1,Green flag
+3,Spain,2023,1,Green flag
+4,Spain,2023,1,Green flag
+5,Spain,2023,1,Green flag
+6,Spain,2023,1,Green flag
+7,Spain,2023,1,Green flag
+8,Spain,2023,1,Green flag
+9,Spain,2023,1,Green flag
+10,Spain,2023,1,Green flag
+11,Spain,2023,1,Green flag
+12,Spain,2023,1,Green flag
+13,Spain,2023,1,Green flag
+14,Spain,2023,1,Green flag
+15,Spain,2023,1,Green flag
+16,Spain,2023,1,Green flag
+17,Spain,2023,1,Green flag
+18,Spain,2023,1,Green flag
+19,Spain,2023,1,Green flag
+20,Spain,2023,1,Green flag
+21,Spain,2023,1,Green flag
+22,Spain,2023,1,Green flag
+23,Spain,2023,1,Green flag
+24,Spain,2023,1,Green flag
+25,Spain,2023,1,Green flag
+26,Spain,2023,1,Green flag
+27,Spain,2023,1,Green flag
+28,Spain,2023,1,Green flag
+29,Spain,2023,1,Green flag
+30,Spain,2023,1,Green flag
+31,Spain,2023,1,Green flag
+32,Spain,2023,1,Green flag
+33,Spain,2023,1,Green flag
+34,Spain,2023,1,Green flag
+35,Spain,2023,1,Green flag
+36,Spain,2023,1,Green flag
+37,Spain,2023,1,Green flag
+38,Spain,2023,1,Green flag
+39,Spain,2023,1,Green flag
+40,Spain,2023,1,Green flag
+41,Spain,2023,1,Green flag
+42,Spain,2023,1,Green flag
+43,Spain,2023,1,Green flag
+44,Spain,2023,1,Green flag
+45,Spain,2023,1,Green flag
+46,Spain,2023,1,Green flag
+47,Spain,2023,1,Green flag
+48,Spain,2023,1,Green flag
+49,Spain,2023,1,Green flag
+50,Spain,2023,1,Green flag
+51,Spain,2023,1,Green flag
+52,Spain,2023,1,Green flag
+53,Spain,2023,1,Green flag
+54,Spain,2023,1,Green flag
+55,Spain,2023,1,Green flag
+56,Spain,2023,1,Green flag
+57,Spain,2023,1,Green flag
+58,Spain,2023,1,Green flag
+59,Spain,2023,1,Green flag
+60,Spain,2023,1,Green flag
+61,Spain,2023,1,Green flag
+62,Spain,2023,1,Green flag
+63,Spain,2023,1,Green flag
+64,Spain,2023,1,Green flag
+65,Spain,2023,1,Green flag
+66,Spain,2023,1,Green flag
+1,Canada,2023,1,Green flag
+2,Canada,2023,1,Green flag
+3,Canada,2023,1,Green flag
+4,Canada,2023,1,Green flag
+5,Canada,2023,1,Green flag
+6,Canada,2023,1,Green flag
+7,Canada,2023,2,Yellow flag
+8,Canada,2023,267,Virtual Safety Car
+9,Canada,2023,1,Green flag
+10,Canada,2023,1,Green flag
+11,Canada,2023,1,Green flag
+12,Canada,2023,24,Safety Car
+13,Canada,2023,4,Safety Car
+14,Canada,2023,4,Safety Car
+15,Canada,2023,4,Safety Car
+16,Canada,2023,4,Safety Car
+17,Canada,2023,1,Green flag
+18,Canada,2023,1,Green flag
+19,Canada,2023,1,Green flag
+20,Canada,2023,1,Green flag
+21,Canada,2023,1,Green flag
+22,Canada,2023,1,Green flag
+23,Canada,2023,1,Green flag
+24,Canada,2023,1,Green flag
+25,Canada,2023,1,Green flag
+26,Canada,2023,1,Green flag
+27,Canada,2023,1,Green flag
+28,Canada,2023,1,Green flag
+29,Canada,2023,2,Yellow flag
+30,Canada,2023,1,Green flag
+31,Canada,2023,1,Green flag
+32,Canada,2023,1,Green flag
+33,Canada,2023,1,Green flag
+34,Canada,2023,1,Green flag
+35,Canada,2023,2,Yellow flag
+36,Canada,2023,2,Yellow flag
+37,Canada,2023,1,Green flag
+38,Canada,2023,1,Green flag
+39,Canada,2023,1,Green flag
+40,Canada,2023,1,Green flag
+41,Canada,2023,1,Green flag
+42,Canada,2023,1,Green flag
+43,Canada,2023,1,Green flag
+44,Canada,2023,1,Green flag
+45,Canada,2023,1,Green flag
+46,Canada,2023,1,Green flag
+47,Canada,2023,1,Green flag
+48,Canada,2023,1,Green flag
+49,Canada,2023,1,Green flag
+50,Canada,2023,1,Green flag
+51,Canada,2023,1,Green flag
+52,Canada,2023,1,Green flag
+53,Canada,2023,1,Green flag
+54,Canada,2023,1,Green flag
+55,Canada,2023,1,Green flag
+56,Canada,2023,1,Green flag
+57,Canada,2023,1,Green flag
+58,Canada,2023,1,Green flag
+59,Canada,2023,1,Green flag
+60,Canada,2023,1,Green flag
+61,Canada,2023,1,Green flag
+62,Canada,2023,1,Green flag
+63,Canada,2023,1,Green flag
+64,Canada,2023,1,Green flag
+65,Canada,2023,1,Green flag
+66,Canada,2023,1,Green flag
+67,Canada,2023,1,Green flag
+68,Canada,2023,1,Green flag
+69,Canada,2023,1,Green flag
+70,Canada,2023,1,Green flag
+1,Austria,2023,24,Safety Car
+2,Austria,2023,4,Safety Car
+3,Austria,2023,4,Safety Car
+4,Austria,2023,1,Green flag
+5,Austria,2023,1,Green flag
+6,Austria,2023,1,Green flag
+7,Austria,2023,1,Green flag
+8,Austria,2023,1,Green flag
+9,Austria,2023,1,Green flag
+10,Austria,2023,1,Green flag
+11,Austria,2023,1,Green flag
+12,Austria,2023,1,Green flag
+13,Austria,2023,2,Yellow flag
+14,Austria,2023,26,Virtual Safety Car
+15,Austria,2023,6,Virtual Safety Car
+16,Austria,2023,67,Virtual Safety Car
+17,Austria,2023,1,Green flag
+18,Austria,2023,1,Green flag
+19,Austria,2023,1,Green flag
+20,Austria,2023,1,Green flag
+21,Austria,2023,1,Green flag
+22,Austria,2023,1,Green flag
+23,Austria,2023,1,Green flag
+24,Austria,2023,1,Green flag
+25,Austria,2023,1,Green flag
+26,Austria,2023,1,Green flag
+27,Austria,2023,1,Green flag
+28,Austria,2023,1,Green flag
+29,Austria,2023,1,Green flag
+30,Austria,2023,1,Green flag
+31,Austria,2023,1,Green flag
+32,Austria,2023,1,Green flag
+33,Austria,2023,1,Green flag
+34,Austria,2023,1,Green flag
+35,Austria,2023,1,Green flag
+36,Austria,2023,1,Green flag
+37,Austria,2023,1,Green flag
+38,Austria,2023,1,Green flag
+39,Austria,2023,1,Green flag
+40,Austria,2023,1,Green flag
+41,Austria,2023,1,Green flag
+42,Austria,2023,1,Green flag
+43,Austria,2023,1,Green flag
+44,Austria,2023,1,Green flag
+45,Austria,2023,1,Green flag
+46,Austria,2023,1,Green flag
+47,Austria,2023,1,Green flag
+48,Austria,2023,1,Green flag
+49,Austria,2023,1,Green flag
+50,Austria,2023,1,Green flag
+51,Austria,2023,1,Green flag
+52,Austria,2023,1,Green flag
+53,Austria,2023,1,Green flag
+54,Austria,2023,1,Green flag
+55,Austria,2023,1,Green flag
+56,Austria,2023,1,Green flag
+57,Austria,2023,1,Green flag
+58,Austria,2023,1,Green flag
+59,Austria,2023,1,Green flag
+60,Austria,2023,1,Green flag
+61,Austria,2023,1,Green flag
+62,Austria,2023,1,Green flag
+63,Austria,2023,1,Green flag
+64,Austria,2023,1,Green flag
+65,Austria,2023,1,Green flag
+66,Austria,2023,1,Green flag
+67,Austria,2023,1,Green flag
+68,Austria,2023,1,Green flag
+69,Austria,2023,1,Green flag
+70,Austria,2023,1,Green flag
+71,Austria,2023,1,Green flag
+1,Great Britain,2023,1,Green flag
+2,Great Britain,2023,1,Green flag
+3,Great Britain,2023,1,Green flag
+4,Great Britain,2023,1,Green flag
+5,Great Britain,2023,1,Green flag
+6,Great Britain,2023,1,Green flag
+7,Great Britain,2023,1,Green flag
+8,Great Britain,2023,1,Green flag
+9,Great Britain,2023,1,Green flag
+10,Great Britain,2023,1,Green flag
+11,Great Britain,2023,1,Green flag
+12,Great Britain,2023,1,Green flag
+13,Great Britain,2023,1,Green flag
+14,Great Britain,2023,1,Green flag
+15,Great Britain,2023,1,Green flag
+16,Great Britain,2023,1,Green flag
+17,Great Britain,2023,1,Green flag
+18,Great Britain,2023,1,Green flag
+19,Great Britain,2023,1,Green flag
+20,Great Britain,2023,1,Green flag
+21,Great Britain,2023,1,Green flag
+22,Great Britain,2023,1,Green flag
+23,Great Britain,2023,1,Green flag
+24,Great Britain,2023,1,Green flag
+25,Great Britain,2023,1,Green flag
+26,Great Britain,2023,1,Green flag
+27,Great Britain,2023,1,Green flag
+28,Great Britain,2023,1,Green flag
+29,Great Britain,2023,1,Green flag
+30,Great Britain,2023,1,Green flag
+31,Great Britain,2023,1,Green flag
+32,Great Britain,2023,1,Green flag
+33,Great Britain,2023,264,Safety Car
+34,Great Britain,2023,4,Safety Car
+35,Great Britain,2023,4,Safety Car
+36,Great Britain,2023,4,Safety Car
+37,Great Britain,2023,4,Safety Car
+38,Great Britain,2023,4,Safety Car
+39,Great Britain,2023,1,Green flag
+40,Great Britain,2023,1,Green flag
+41,Great Britain,2023,1,Green flag
+42,Great Britain,2023,1,Green flag
+43,Great Britain,2023,1,Green flag
+44,Great Britain,2023,1,Green flag
+45,Great Britain,2023,1,Green flag
+46,Great Britain,2023,1,Green flag
+47,Great Britain,2023,1,Green flag
+48,Great Britain,2023,1,Green flag
+49,Great Britain,2023,1,Green flag
+50,Great Britain,2023,1,Green flag
+51,Great Britain,2023,1,Green flag
+52,Great Britain,2023,1,Green flag
+1,Hungary,2023,2,Yellow flag
+2,Hungary,2023,1,Green flag
+3,Hungary,2023,1,Green flag
+4,Hungary,2023,1,Green flag
+5,Hungary,2023,1,Green flag
+6,Hungary,2023,1,Green flag
+7,Hungary,2023,1,Green flag
+8,Hungary,2023,1,Green flag
+9,Hungary,2023,1,Green flag
+10,Hungary,2023,1,Green flag
+11,Hungary,2023,1,Green flag
+12,Hungary,2023,1,Green flag
+13,Hungary,2023,1,Green flag
+14,Hungary,2023,1,Green flag
+15,Hungary,2023,1,Green flag
+16,Hungary,2023,1,Green flag
+17,Hungary,2023,1,Green flag
+18,Hungary,2023,1,Green flag
+19,Hungary,2023,1,Green flag
+20,Hungary,2023,1,Green flag
+21,Hungary,2023,1,Green flag
+22,Hungary,2023,1,Green flag
+23,Hungary,2023,1,Green flag
+24,Hungary,2023,1,Green flag
+25,Hungary,2023,1,Green flag
+26,Hungary,2023,1,Green flag
+27,Hungary,2023,1,Green flag
+28,Hungary,2023,1,Green flag
+29,Hungary,2023,1,Green flag
+30,Hungary,2023,1,Green flag
+31,Hungary,2023,1,Green flag
+32,Hungary,2023,1,Green flag
+33,Hungary,2023,1,Green flag
+34,Hungary,2023,1,Green flag
+35,Hungary,2023,1,Green flag
+36,Hungary,2023,1,Green flag
+37,Hungary,2023,1,Green flag
+38,Hungary,2023,1,Green flag
+39,Hungary,2023,1,Green flag
+40,Hungary,2023,1,Green flag
+41,Hungary,2023,1,Green flag
+42,Hungary,2023,1,Green flag
+43,Hungary,2023,1,Green flag
+44,Hungary,2023,1,Green flag
+45,Hungary,2023,1,Green flag
+46,Hungary,2023,1,Green flag
+47,Hungary,2023,1,Green flag
+48,Hungary,2023,1,Green flag
+49,Hungary,2023,1,Green flag
+50,Hungary,2023,1,Green flag
+51,Hungary,2023,1,Green flag
+52,Hungary,2023,1,Green flag
+53,Hungary,2023,1,Green flag
+54,Hungary,2023,1,Green flag
+55,Hungary,2023,1,Green flag
+56,Hungary,2023,1,Green flag
+57,Hungary,2023,1,Green flag
+58,Hungary,2023,1,Green flag
+59,Hungary,2023,1,Green flag
+60,Hungary,2023,1,Green flag
+61,Hungary,2023,1,Green flag
+62,Hungary,2023,1,Green flag
+63,Hungary,2023,1,Green flag
+64,Hungary,2023,1,Green flag
+65,Hungary,2023,1,Green flag
+66,Hungary,2023,1,Green flag
+67,Hungary,2023,1,Green flag
+68,Hungary,2023,1,Green flag
+69,Hungary,2023,2,Yellow flag
+70,Hungary,2023,1,Green flag
+1,Belgium,2023,1,Green flag
+2,Belgium,2023,2,Yellow flag
+3,Belgium,2023,2,Yellow flag
+4,Belgium,2023,1,Green flag
+5,Belgium,2023,1,Green flag
+6,Belgium,2023,1,Green flag
+7,Belgium,2023,1,Green flag
+8,Belgium,2023,1,Green flag
+9,Belgium,2023,1,Green flag
+10,Belgium,2023,1,Green flag
+11,Belgium,2023,1,Green flag
+12,Belgium,2023,1,Green flag
+13,Belgium,2023,1,Green flag
+14,Belgium,2023,1,Green flag
+15,Belgium,2023,1,Green flag
+16,Belgium,2023,1,Green flag
+17,Belgium,2023,1,Green flag
+18,Belgium,2023,1,Green flag
+19,Belgium,2023,1,Green flag
+20,Belgium,2023,1,Green flag
+21,Belgium,2023,1,Green flag
+22,Belgium,2023,1,Green flag
+23,Belgium,2023,1,Green flag
+24,Belgium,2023,1,Green flag
+25,Belgium,2023,1,Green flag
+26,Belgium,2023,1,Green flag
+27,Belgium,2023,1,Green flag
+28,Belgium,2023,1,Green flag
+29,Belgium,2023,1,Green flag
+30,Belgium,2023,1,Green flag
+31,Belgium,2023,1,Green flag
+32,Belgium,2023,1,Green flag
+33,Belgium,2023,1,Green flag
+34,Belgium,2023,1,Green flag
+35,Belgium,2023,1,Green flag
+36,Belgium,2023,1,Green flag
+37,Belgium,2023,1,Green flag
+38,Belgium,2023,1,Green flag
+39,Belgium,2023,1,Green flag
+40,Belgium,2023,1,Green flag
+41,Belgium,2023,1,Green flag
+42,Belgium,2023,1,Green flag
+43,Belgium,2023,1,Green flag
+44,Belgium,2023,1,Green flag
+0,Belgium,2023,1,Green flag
+1,Netherlands,2023,1,Green flag
+2,Netherlands,2023,1,Green flag
+3,Netherlands,2023,1,Green flag
+4,Netherlands,2023,1,Green flag
+5,Netherlands,2023,1,Green flag
+6,Netherlands,2023,1,Green flag
+7,Netherlands,2023,1,Green flag
+8,Netherlands,2023,1,Green flag
+9,Netherlands,2023,1,Green flag
+10,Netherlands,2023,1,Green flag
+11,Netherlands,2023,1,Green flag
+12,Netherlands,2023,1,Green flag
+13,Netherlands,2023,1,Green flag
+14,Netherlands,2023,1,Green flag
+15,Netherlands,2023,1,Green flag
+16,Netherlands,2023,24,Safety Car
+17,Netherlands,2023,4,Safety Car
+18,Netherlands,2023,4,Safety Car
+19,Netherlands,2023,4,Safety Car
+20,Netherlands,2023,4,Safety Car
+21,Netherlands,2023,4,Safety Car
+22,Netherlands,2023,1,Green flag
+23,Netherlands,2023,1,Green flag
+24,Netherlands,2023,1,Green flag
+25,Netherlands,2023,1,Green flag
+26,Netherlands,2023,1,Green flag
+27,Netherlands,2023,1,Green flag
+28,Netherlands,2023,1,Green flag
+29,Netherlands,2023,1,Green flag
+30,Netherlands,2023,1,Green flag
+31,Netherlands,2023,1,Green flag
+32,Netherlands,2023,1,Green flag
+33,Netherlands,2023,1,Green flag
+34,Netherlands,2023,1,Green flag
+35,Netherlands,2023,1,Green flag
+36,Netherlands,2023,1,Green flag
+37,Netherlands,2023,1,Green flag
+38,Netherlands,2023,1,Green flag
+39,Netherlands,2023,1,Green flag
+40,Netherlands,2023,1,Green flag
+41,Netherlands,2023,1,Green flag
+42,Netherlands,2023,1,Green flag
+43,Netherlands,2023,1,Green flag
+44,Netherlands,2023,1,Green flag
+45,Netherlands,2023,1,Green flag
+46,Netherlands,2023,1,Green flag
+47,Netherlands,2023,1,Green flag
+48,Netherlands,2023,1,Green flag
+49,Netherlands,2023,1,Green flag
+50,Netherlands,2023,1,Green flag
+51,Netherlands,2023,1,Green flag
+52,Netherlands,2023,1,Green flag
+53,Netherlands,2023,1,Green flag
+54,Netherlands,2023,1,Green flag
+55,Netherlands,2023,1,Green flag
+56,Netherlands,2023,1,Green flag
+57,Netherlands,2023,1,Green flag
+58,Netherlands,2023,1,Green flag
+59,Netherlands,2023,1,Green flag
+60,Netherlands,2023,1,Green flag
+61,Netherlands,2023,1,Green flag
+62,Netherlands,2023,1,Green flag
+63,Netherlands,2023,2,Yellow flag
+64,Netherlands,2023,265,Virtual Safety Car
+65,Netherlands,2023,4,Safety Car
+66,Netherlands,2023,4,Safety Car
+67,Netherlands,2023,1,Green flag
+68,Netherlands,2023,1,Green flag
+69,Netherlands,2023,1,Green flag
+70,Netherlands,2023,1,Green flag
+71,Netherlands,2023,1,Green flag
+72,Netherlands,2023,1,Green flag
+1,Azerbaijan,2023,2,Yellow flag
+2,Azerbaijan,2023,1,Green flag
+3,Azerbaijan,2023,1,Green flag
+4,Azerbaijan,2023,1,Green flag
+5,Azerbaijan,2023,1,Green flag
+6,Azerbaijan,2023,1,Green flag
+7,Azerbaijan,2023,1,Green flag
+8,Azerbaijan,2023,1,Green flag
+9,Azerbaijan,2023,1,Green flag
+10,Azerbaijan,2023,2,Yellow flag
+11,Azerbaijan,2023,24,Safety Car
+12,Azerbaijan,2023,4,Safety Car
+13,Azerbaijan,2023,4,Safety Car
+14,Azerbaijan,2023,1,Green flag
+15,Azerbaijan,2023,1,Green flag
+16,Azerbaijan,2023,1,Green flag
+17,Azerbaijan,2023,2,Yellow flag
+18,Azerbaijan,2023,1,Green flag
+19,Azerbaijan,2023,1,Green flag
+20,Azerbaijan,2023,1,Green flag
+21,Azerbaijan,2023,1,Green flag
+22,Azerbaijan,2023,1,Green flag
+23,Azerbaijan,2023,1,Green flag
+24,Azerbaijan,2023,1,Green flag
+25,Azerbaijan,2023,1,Green flag
+26,Azerbaijan,2023,1,Green flag
+27,Azerbaijan,2023,1,Green flag
+28,Azerbaijan,2023,1,Green flag
+29,Azerbaijan,2023,1,Green flag
+30,Azerbaijan,2023,1,Green flag
+31,Azerbaijan,2023,1,Green flag
+32,Azerbaijan,2023,1,Green flag
+33,Azerbaijan,2023,1,Green flag
+34,Azerbaijan,2023,1,Green flag
+35,Azerbaijan,2023,1,Green flag
+36,Azerbaijan,2023,1,Green flag
+37,Azerbaijan,2023,1,Green flag
+38,Azerbaijan,2023,1,Green flag
+39,Azerbaijan,2023,1,Green flag
+40,Azerbaijan,2023,1,Green flag
+41,Azerbaijan,2023,1,Green flag
+42,Azerbaijan,2023,1,Green flag
+43,Azerbaijan,2023,1,Green flag
+44,Azerbaijan,2023,1,Green flag
+45,Azerbaijan,2023,1,Green flag
+46,Azerbaijan,2023,1,Green flag
+47,Azerbaijan,2023,1,Green flag
+48,Azerbaijan,2023,1,Green flag
+49,Azerbaijan,2023,2,Yellow flag
+50,Azerbaijan,2023,1,Green flag
+51,Azerbaijan,2023,1,Green flag
+1,Singapore,2023,2,Yellow flag
+2,Singapore,2023,2,Yellow flag
+3,Singapore,2023,1,Green flag
+4,Singapore,2023,1,Green flag
+5,Singapore,2023,1,Green flag
+6,Singapore,2023,1,Green flag
+7,Singapore,2023,1,Green flag
+8,Singapore,2023,1,Green flag
+9,Singapore,2023,1,Green flag
+10,Singapore,2023,1,Green flag
+11,Singapore,2023,1,Green flag
+12,Singapore,2023,1,Green flag
+13,Singapore,2023,1,Green flag
+14,Singapore,2023,1,Green flag
+15,Singapore,2023,1,Green flag
+16,Singapore,2023,1,Green flag
+17,Singapore,2023,1,Green flag
+18,Singapore,2023,1,Green flag
+19,Singapore,2023,2,Yellow flag
+20,Singapore,2023,4,Safety Car
+21,Singapore,2023,4,Safety Car
+22,Singapore,2023,4,Safety Car
+23,Singapore,2023,1,Green flag
+24,Singapore,2023,1,Green flag
+25,Singapore,2023,1,Green flag
+26,Singapore,2023,1,Green flag
+27,Singapore,2023,1,Green flag
+28,Singapore,2023,1,Green flag
+29,Singapore,2023,1,Green flag
+30,Singapore,2023,1,Green flag
+31,Singapore,2023,1,Green flag
+32,Singapore,2023,1,Green flag
+33,Singapore,2023,1,Green flag
+34,Singapore,2023,1,Green flag
+35,Singapore,2023,1,Green flag
+36,Singapore,2023,1,Green flag
+37,Singapore,2023,1,Green flag
+38,Singapore,2023,1,Green flag
+39,Singapore,2023,1,Green flag
+40,Singapore,2023,1,Green flag
+41,Singapore,2023,1,Green flag
+42,Singapore,2023,1,Green flag
+43,Singapore,2023,26,Virtual Safety Car
+44,Singapore,2023,6,Virtual Safety Car
+45,Singapore,2023,67,Virtual Safety Car
+46,Singapore,2023,1,Green flag
+47,Singapore,2023,2,Yellow flag
+48,Singapore,2023,1,Green flag
+49,Singapore,2023,1,Green flag
+50,Singapore,2023,1,Green flag
+51,Singapore,2023,1,Green flag
+52,Singapore,2023,1,Green flag
+53,Singapore,2023,2,Yellow flag
+54,Singapore,2023,1,Green flag
+55,Singapore,2023,1,Green flag
+56,Singapore,2023,1,Green flag
+57,Singapore,2023,1,Green flag
+58,Singapore,2023,2,Yellow flag
+59,Singapore,2023,2,Yellow flag
+60,Singapore,2023,1,Green flag
+61,Singapore,2023,1,Green flag
+62,Singapore,2023,1,Green flag
+0,Singapore,2023,2,Yellow flag
+1,Austin,2023,1,Green flag
+2,Austin,2023,1,Green flag
+3,Austin,2023,1,Green flag
+4,Austin,2023,1,Green flag
+5,Austin,2023,1,Green flag
+6,Austin,2023,1,Green flag
+7,Austin,2023,1,Green flag
+8,Austin,2023,1,Green flag
+9,Austin,2023,1,Green flag
+10,Austin,2023,1,Green flag
+11,Austin,2023,1,Green flag
+12,Austin,2023,1,Green flag
+13,Austin,2023,1,Green flag
+14,Austin,2023,1,Green flag
+15,Austin,2023,1,Green flag
+16,Austin,2023,1,Green flag
+17,Austin,2023,1,Green flag
+18,Austin,2023,1,Green flag
+19,Austin,2023,1,Green flag
+20,Austin,2023,1,Green flag
+21,Austin,2023,1,Green flag
+22,Austin,2023,1,Green flag
+23,Austin,2023,1,Green flag
+24,Austin,2023,1,Green flag
+25,Austin,2023,1,Green flag
+26,Austin,2023,1,Green flag
+27,Austin,2023,1,Green flag
+28,Austin,2023,1,Green flag
+29,Austin,2023,1,Green flag
+30,Austin,2023,1,Green flag
+31,Austin,2023,1,Green flag
+32,Austin,2023,1,Green flag
+33,Austin,2023,1,Green flag
+34,Austin,2023,1,Green flag
+35,Austin,2023,1,Green flag
+36,Austin,2023,1,Green flag
+37,Austin,2023,1,Green flag
+38,Austin,2023,1,Green flag
+39,Austin,2023,1,Green flag
+40,Austin,2023,1,Green flag
+41,Austin,2023,1,Green flag
+42,Austin,2023,1,Green flag
+43,Austin,2023,1,Green flag
+44,Austin,2023,1,Green flag
+45,Austin,2023,1,Green flag
+46,Austin,2023,1,Green flag
+47,Austin,2023,1,Green flag
+48,Austin,2023,1,Green flag
+49,Austin,2023,1,Green flag
+50,Austin,2023,1,Green flag
+51,Austin,2023,1,Green flag
+52,Austin,2023,1,Green flag
+53,Austin,2023,1,Green flag
+54,Austin,2023,1,Green flag
+55,Austin,2023,1,Green flag
+56,Austin,2023,1,Green flag
+1,Mexico,2023,2,Yellow flag
+2,Mexico,2023,1,Green flag
+3,Mexico,2023,1,Green flag
+4,Mexico,2023,1,Green flag
+5,Mexico,2023,67,Virtual Safety Car
+6,Mexico,2023,1,Green flag
+7,Mexico,2023,1,Green flag
+8,Mexico,2023,2,Yellow flag
+9,Mexico,2023,1,Green flag
+10,Mexico,2023,1,Green flag
+11,Mexico,2023,1,Green flag
+12,Mexico,2023,1,Green flag
+13,Mexico,2023,1,Green flag
+14,Mexico,2023,1,Green flag
+15,Mexico,2023,1,Green flag
+16,Mexico,2023,1,Green flag
+17,Mexico,2023,1,Green flag
+18,Mexico,2023,1,Green flag
+19,Mexico,2023,1,Green flag
+20,Mexico,2023,1,Green flag
+21,Mexico,2023,1,Green flag
+22,Mexico,2023,1,Green flag
+23,Mexico,2023,1,Green flag
+24,Mexico,2023,1,Green flag
+25,Mexico,2023,1,Green flag
+26,Mexico,2023,1,Green flag
+27,Mexico,2023,1,Green flag
+28,Mexico,2023,1,Green flag
+29,Mexico,2023,1,Green flag
+30,Mexico,2023,1,Green flag
+31,Mexico,2023,1,Green flag
+32,Mexico,2023,1,Green flag
+33,Mexico,2023,24,Safety Car
+34,Mexico,2023,45,Safety Car
+35,Mexico,2023,4,Safety Car
+36,Mexico,2023,1,Green flag
+37,Mexico,2023,1,Green flag
+38,Mexico,2023,1,Green flag
+39,Mexico,2023,1,Green flag
+40,Mexico,2023,1,Green flag
+41,Mexico,2023,1,Green flag
+42,Mexico,2023,1,Green flag
+43,Mexico,2023,1,Green flag
+44,Mexico,2023,1,Green flag
+45,Mexico,2023,1,Green flag
+46,Mexico,2023,1,Green flag
+47,Mexico,2023,1,Green flag
+48,Mexico,2023,1,Green flag
+49,Mexico,2023,2,Yellow flag
+50,Mexico,2023,1,Green flag
+51,Mexico,2023,1,Green flag
+52,Mexico,2023,1,Green flag
+53,Mexico,2023,1,Green flag
+54,Mexico,2023,1,Green flag
+55,Mexico,2023,1,Green flag
+56,Mexico,2023,1,Green flag
+57,Mexico,2023,1,Green flag
+58,Mexico,2023,1,Green flag
+59,Mexico,2023,1,Green flag
+60,Mexico,2023,1,Green flag
+61,Mexico,2023,1,Green flag
+62,Mexico,2023,1,Green flag
+63,Mexico,2023,1,Green flag
+64,Mexico,2023,1,Green flag
+65,Mexico,2023,1,Green flag
+66,Mexico,2023,1,Green flag
+67,Mexico,2023,2,Yellow flag
+68,Mexico,2023,1,Green flag
+69,Mexico,2023,1,Green flag
+70,Mexico,2023,1,Green flag
+71,Mexico,2023,1,Green flag
+1,Brazil,2023,24,Safety Car
+2,Brazil,2023,45,Safety Car
+3,Brazil,2023,1,Green flag
+4,Brazil,2023,1,Green flag
+5,Brazil,2023,1,Green flag
+6,Brazil,2023,1,Green flag
+7,Brazil,2023,1,Green flag
+8,Brazil,2023,1,Green flag
+9,Brazil,2023,1,Green flag
+10,Brazil,2023,1,Green flag
+11,Brazil,2023,1,Green flag
+12,Brazil,2023,1,Green flag
+13,Brazil,2023,1,Green flag
+14,Brazil,2023,1,Green flag
+15,Brazil,2023,1,Green flag
+16,Brazil,2023,1,Green flag
+17,Brazil,2023,1,Green flag
+18,Brazil,2023,1,Green flag
+19,Brazil,2023,1,Green flag
+20,Brazil,2023,1,Green flag
+21,Brazil,2023,1,Green flag
+22,Brazil,2023,1,Green flag
+23,Brazil,2023,1,Green flag
+24,Brazil,2023,1,Green flag
+25,Brazil,2023,1,Green flag
+26,Brazil,2023,1,Green flag
+27,Brazil,2023,1,Green flag
+28,Brazil,2023,1,Green flag
+29,Brazil,2023,1,Green flag
+30,Brazil,2023,1,Green flag
+31,Brazil,2023,1,Green flag
+32,Brazil,2023,1,Green flag
+33,Brazil,2023,1,Green flag
+34,Brazil,2023,1,Green flag
+35,Brazil,2023,1,Green flag
+36,Brazil,2023,1,Green flag
+37,Brazil,2023,1,Green flag
+38,Brazil,2023,1,Green flag
+39,Brazil,2023,1,Green flag
+40,Brazil,2023,1,Green flag
+41,Brazil,2023,1,Green flag
+42,Brazil,2023,1,Green flag
+43,Brazil,2023,1,Green flag
+44,Brazil,2023,1,Green flag
+45,Brazil,2023,1,Green flag
+46,Brazil,2023,1,Green flag
+47,Brazil,2023,1,Green flag
+48,Brazil,2023,1,Green flag
+49,Brazil,2023,1,Green flag
+50,Brazil,2023,1,Green flag
+51,Brazil,2023,1,Green flag
+52,Brazil,2023,1,Green flag
+53,Brazil,2023,1,Green flag
+54,Brazil,2023,1,Green flag
+55,Brazil,2023,1,Green flag
+56,Brazil,2023,1,Green flag
+57,Brazil,2023,1,Green flag
+58,Brazil,2023,1,Green flag
+59,Brazil,2023,1,Green flag
+60,Brazil,2023,1,Green flag
+61,Brazil,2023,1,Green flag
+62,Brazil,2023,1,Green flag
+63,Brazil,2023,1,Green flag
+64,Brazil,2023,1,Green flag
+65,Brazil,2023,1,Green flag
+66,Brazil,2023,1,Green flag
+67,Brazil,2023,1,Green flag
+68,Brazil,2023,1,Green flag
+69,Brazil,2023,1,Green flag
+70,Brazil,2023,1,Green flag
+71,Brazil,2023,1,Green flag
+0,Brazil,2023,24,Safety Car
+1,Qatar,2023,24,Safety Car
+2,Qatar,2023,4,Safety Car
+3,Qatar,2023,4,Safety Car
+4,Qatar,2023,4,Safety Car
+5,Qatar,2023,1,Green flag
+6,Qatar,2023,1,Green flag
+7,Qatar,2023,1,Green flag
+8,Qatar,2023,1,Green flag
+9,Qatar,2023,1,Green flag
+10,Qatar,2023,1,Green flag
+11,Qatar,2023,1,Green flag
+12,Qatar,2023,1,Green flag
+13,Qatar,2023,1,Green flag
+14,Qatar,2023,1,Green flag
+15,Qatar,2023,1,Green flag
+16,Qatar,2023,1,Green flag
+17,Qatar,2023,1,Green flag
+18,Qatar,2023,1,Green flag
+19,Qatar,2023,1,Green flag
+20,Qatar,2023,1,Green flag
+21,Qatar,2023,1,Green flag
+22,Qatar,2023,1,Green flag
+23,Qatar,2023,1,Green flag
+24,Qatar,2023,1,Green flag
+25,Qatar,2023,1,Green flag
+26,Qatar,2023,1,Green flag
+27,Qatar,2023,1,Green flag
+28,Qatar,2023,1,Green flag
+29,Qatar,2023,1,Green flag
+30,Qatar,2023,1,Green flag
+31,Qatar,2023,1,Green flag
+32,Qatar,2023,1,Green flag
+33,Qatar,2023,2,Yellow flag
+34,Qatar,2023,1,Green flag
+35,Qatar,2023,1,Green flag
+36,Qatar,2023,1,Green flag
+37,Qatar,2023,1,Green flag
+38,Qatar,2023,1,Green flag
+39,Qatar,2023,1,Green flag
+40,Qatar,2023,1,Green flag
+41,Qatar,2023,2,Yellow flag
+42,Qatar,2023,1,Green flag
+43,Qatar,2023,1,Green flag
+44,Qatar,2023,1,Green flag
+45,Qatar,2023,1,Green flag
+46,Qatar,2023,1,Green flag
+47,Qatar,2023,1,Green flag
+48,Qatar,2023,1,Green flag
+49,Qatar,2023,1,Green flag
+50,Qatar,2023,1,Green flag
+51,Qatar,2023,1,Green flag
+52,Qatar,2023,1,Green flag
+53,Qatar,2023,1,Green flag
+54,Qatar,2023,1,Green flag
+55,Qatar,2023,1,Green flag
+56,Qatar,2023,1,Green flag
+57,Qatar,2023,1,Green flag
+0,Qatar,2023,24,Safety Car
+1,Abu Dhabi,2023,1,Green flag
+2,Abu Dhabi,2023,1,Green flag
+3,Abu Dhabi,2023,1,Green flag
+4,Abu Dhabi,2023,1,Green flag
+5,Abu Dhabi,2023,1,Green flag
+6,Abu Dhabi,2023,1,Green flag
+7,Abu Dhabi,2023,1,Green flag
+8,Abu Dhabi,2023,1,Green flag
+9,Abu Dhabi,2023,1,Green flag
+10,Abu Dhabi,2023,1,Green flag
+11,Abu Dhabi,2023,1,Green flag
+12,Abu Dhabi,2023,1,Green flag
+13,Abu Dhabi,2023,1,Green flag
+14,Abu Dhabi,2023,1,Green flag
+15,Abu Dhabi,2023,1,Green flag
+16,Abu Dhabi,2023,1,Green flag
+17,Abu Dhabi,2023,1,Green flag
+18,Abu Dhabi,2023,1,Green flag
+19,Abu Dhabi,2023,1,Green flag
+20,Abu Dhabi,2023,1,Green flag
+21,Abu Dhabi,2023,1,Green flag
+22,Abu Dhabi,2023,1,Green flag
+23,Abu Dhabi,2023,1,Green flag
+24,Abu Dhabi,2023,1,Green flag
+25,Abu Dhabi,2023,1,Green flag
+26,Abu Dhabi,2023,1,Green flag
+27,Abu Dhabi,2023,1,Green flag
+28,Abu Dhabi,2023,1,Green flag
+29,Abu Dhabi,2023,1,Green flag
+30,Abu Dhabi,2023,1,Green flag
+31,Abu Dhabi,2023,1,Green flag
+32,Abu Dhabi,2023,1,Green flag
+33,Abu Dhabi,2023,1,Green flag
+34,Abu Dhabi,2023,1,Green flag
+35,Abu Dhabi,2023,1,Green flag
+36,Abu Dhabi,2023,1,Green flag
+37,Abu Dhabi,2023,1,Green flag
+38,Abu Dhabi,2023,1,Green flag
+39,Abu Dhabi,2023,1,Green flag
+40,Abu Dhabi,2023,1,Green flag
+41,Abu Dhabi,2023,1,Green flag
+42,Abu Dhabi,2023,1,Green flag
+43,Abu Dhabi,2023,1,Green flag
+44,Abu Dhabi,2023,1,Green flag
+45,Abu Dhabi,2023,1,Green flag
+46,Abu Dhabi,2023,1,Green flag
+47,Abu Dhabi,2023,1,Green flag
+48,Abu Dhabi,2023,1,Green flag
+49,Abu Dhabi,2023,1,Green flag
+50,Abu Dhabi,2023,1,Green flag
+51,Abu Dhabi,2023,1,Green flag
+52,Abu Dhabi,2023,1,Green flag
+53,Abu Dhabi,2023,1,Green flag
+54,Abu Dhabi,2023,1,Green flag
+55,Abu Dhabi,2023,1,Green flag
+56,Abu Dhabi,2023,1,Green flag
+57,Abu Dhabi,2023,1,Green flag
+58,Abu Dhabi,2023,1,Green flag
+1,Monza,2023,1,Green flag
+2,Monza,2023,1,Green flag
+3,Monza,2023,1,Green flag
+4,Monza,2023,1,Green flag
+5,Monza,2023,1,Green flag
+6,Monza,2023,1,Green flag
+7,Monza,2023,1,Green flag
+8,Monza,2023,1,Green flag
+9,Monza,2023,1,Green flag
+10,Monza,2023,1,Green flag
+11,Monza,2023,1,Green flag
+12,Monza,2023,1,Green flag
+13,Monza,2023,1,Green flag
+14,Monza,2023,1,Green flag
+15,Monza,2023,1,Green flag
+16,Monza,2023,1,Green flag
+17,Monza,2023,1,Green flag
+18,Monza,2023,1,Green flag
+19,Monza,2023,1,Green flag
+20,Monza,2023,1,Green flag
+21,Monza,2023,1,Green flag
+22,Monza,2023,1,Green flag
+23,Monza,2023,1,Green flag
+24,Monza,2023,1,Green flag
+25,Monza,2023,1,Green flag
+26,Monza,2023,1,Green flag
+27,Monza,2023,1,Green flag
+28,Monza,2023,1,Green flag
+29,Monza,2023,1,Green flag
+30,Monza,2023,1,Green flag
+31,Monza,2023,1,Green flag
+32,Monza,2023,1,Green flag
+33,Monza,2023,1,Green flag
+34,Monza,2023,1,Green flag
+35,Monza,2023,1,Green flag
+36,Monza,2023,1,Green flag
+37,Monza,2023,1,Green flag
+38,Monza,2023,1,Green flag
+39,Monza,2023,1,Green flag
+40,Monza,2023,1,Green flag
+41,Monza,2023,1,Green flag
+42,Monza,2023,1,Green flag
+43,Monza,2023,1,Green flag
+44,Monza,2023,1,Green flag
+45,Monza,2023,1,Green flag
+46,Monza,2023,1,Green flag
+47,Monza,2023,1,Green flag
+48,Monza,2023,1,Green flag
+49,Monza,2023,1,Green flag
+50,Monza,2023,1,Green flag
+51,Monza,2023,1,Green flag
+52,Monza,2023,,Unknown
+0,Monza,2023,1,Green flag

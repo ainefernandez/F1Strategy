@@ -1,17 +1,315 @@
 library(ggplot2)
 library(gtools)
-data<-read.csv("TesisDryQuickLaps.csv")
+library(stargazer)
+library(car)
+library(dplyr)
+library(bestglm)
+data<-read.csv("TesisDryQuickLaps2.csv")
+dataWithWet<- read.csv("TesisDataWithWet.csv")
+
+data$Year <- as.integer(as.character(data$Year))  # Convert factor to character first, then to integer
+wet_laps$Year <- as.integer(wet_laps$Year)  # Convert Year to integer
+
+# Merge the data frames after ensuring Year is of the same type
+datawithwet <- data %>%
+  left_join(wet_laps, by = c("GP", "Year"))
+
+# Create the WetTrack variable: 1 if Compound is 'WET' or 'INTER', otherwise 0
+datawithwet <- datawithwet %>%
+  mutate(WetTrack = ifelse(Compound %in% c("WET", "INTER"), 1, 0))
+
+# View the updated DataFrame
+print(datawithwet)
+names(data)
+str(data)
+# Convert the appropriate variables to factors
+data$Driver <- as.factor(data$Driver)
+data$Team <- as.factor(data$Team)
+data$Compound <- as.factor(data$Compound)
+data$Year <- as.factor(data$Year)
+data$GP <- as.factor(data$GP)
+data$Abrasion <- as.factor(data$Abrasion)
+data$Traction <- as.factor(data$Traction)
+data$Braking <- as.factor(data$Braking)
+data$TrackEvo <- as.factor(data$TrackEvo)
+data$Grip <- as.factor(data$Grip)
+data$Lateral <- as.factor(data$Lateral)
+data$Downforce <- as.factor(data$Downforce)
+data$TyreStress <- as.factor(data$TyreStress)
+
+# Remove the "X" column if it exists
+data <- data[ , !names(data) %in% "X"]
+
+data
 circuitInfo<-read.csv("TesisCircuitInfo.csv")
-stints<-read.csv("TesisStints.csv")
+stints<-read.csv("TesisStints2.csv")
+nlaps<-read.csv("TesisNLaps.csv")
+
+# Define the year you are interested in
+year_of_interest <- 2019
+
+# Subset the data for the specific year and select the GP column
+gps_for_year <- data[data$Year == year_of_interest, "GP"]
+
+unique_gps_for_year <- unique(gps_for_year)
+
+# Print unique GP names
+print(unique_gps_for_year)
+
+
+
+
+
+
+
+#LaptimePerKM (modelo final)
 data$Team<-as.factor(data$Team)
 data$Compound<-as.factor(data$Compound)
 data$Year<-as.factor(data$Year)
 data<-within(data,Team<-relevel(Team,ref="Red Bull Racing"))
 data<-within(data,Compound<-relevel(Compound,ref="SOFT"))
 data<-within(data,Year<-relevel(Year,ref="2023"))
+
+
 model<-lm(LapTimePerKM~TyreLife+RacePercentage+factor(Compound)+factor(Team)+factor(GP)+factor(Stint)
             ,data=data)
 summary(model)
+modelsinStint<-lm(LapTimePerKM~TyreLife+RacePercentage+factor(Compound)+factor(Team)+factor(GP)
+          ,data=data)
+modelLN<-lm(log(LapTimePerKM)~TyreLife+RacePercentage+factor(Compound)+factor(Team)+factor(GP)
+                  ,data=data)
+summary(modelLN)
+
+gamma_model <- glm(LapTimePerKM ~ TyreLife + RacePercentage + factor(Compound) + 
+                     factor(Team) + factor(GP), data = data, family = Gamma())
+
+# View the summary of the model
+summary(gamma_model)
+
+normal <- glm(LapTimePerKM ~ TyreLife + RacePercentage + factor(Compound) + 
+                     factor(Team) + factor(GP), family=gaussian(link="log"), data = data)
+
+# View the summary of the model
+summary(normal)
+
+invgauss <- glm(LapTimePerKM ~ TyreLife + RacePercentage + factor(Compound) + 
+                factor(Team) + factor(GP), data = data,family=inverse.gaussian)
+
+# View the summary of the model
+summary(invgauss)
+
+data1<-select(data,-LapTimePerKM,-Abrasion,-Traction,-Braking,-TrackEvo,-Grip,-Lateral,-Downforce,-TyreStress,-Length,-Year,-LapTime,-LapNumber,-Laps)
+data1
+LapTimePerKM<-data$LapTimePerKM
+data1<-cbind(data1,LapTimePerKM)
+
+bestgamma<-bestglm(data1,family=Gamma())
+
+gamma_model2 <- glm(LapTimePerKM ~Driver+LapNumber+LapTime+Stint+Compound+ TyreLife+Position+Year+GP + RacePercentage, data = data, family = Gamma())
+
+# View the summary of the model
+summary(gamma_model2)
+
+gamma_model3 <- glm(LapTimePerKM ~Team+Stint+Compound+ TyreLife+Position+Year+GP + RacePercentage, data = data, family = Gamma())
+summary(gamma_model3)
+gamma_model4 <- glm(LapTimePerKM ~Team+Compound+ TyreLife+Position+Year+GP + RacePercentage, data = data, family = Gamma())
+summary(gamma_model4)
+gamma_model5 <- glm(LapTimePerKM ~Team+Compound+Stint+ TyreLife+Position+GP + RacePercentage, data = data, family = Gamma())
+summary(gamma_model5)
+
+minmodel<-glm(LapTimePerKM~1,data = data1, family = Gamma())
+maxmodel<-glm(LapTimePerKM~.,data = data1, family = Gamma())
+step(maxmodel,scope=list(lower=minmodel,upper=maxmodel),direction = "backward")
+step(minmodel,scope=list(lower=minmodel,upper=maxmodel),direction = "forward")
+
+m1<-glm(LapTimePerKM ~GP+RacePercentage+Driver+Team+TyreLife+Compound+Position+Stint, data = data, family = Gamma())
+m2<-glm(LapTimePerKM ~GP+RacePercentage+Driver+Team+TyreLife+Compound+Position, data = data, family = Gamma())
+m3<-glm(LapTimePerKM ~GP+RacePercentage+Driver+Team+TyreLife+Compound, data = data, family = Gamma())
+m4<-glm(LapTimePerKM ~GP+RacePercentage+Driver+Team+TyreLife, data = data, family = Gamma())
+m5<-glm(LapTimePerKM ~GP+RacePercentage+Driver+Team, data = data, family = Gamma())
+m6<-glm(LapTimePerKM ~GP+RacePercentage+Driver, data = data, family = Gamma())
+m7<-glm(LapTimePerKM ~GP+RacePercentage, data = data, family = Gamma())
+m8<-glm(LapTimePerKM ~GP, data = data, family = Gamma())
+
+anova(m1,m2,m3,m4,m5,m6,m7,m8,test="Chisq")
+
+m1gamma<-glm(LapTimePerKM ~GP+RacePercentage+Driver+Team+TyreLife+Compound+Position+Stint, data = data, family = Gamma())
+m1normal<-glm(LapTimePerKM ~GP+RacePercentage+Driver+Team+TyreLife+Compound+Position+Stint, data = data, family = gaussian(link="log"))
+m1inv<-glm(LapTimePerKM ~GP+RacePercentage+Driver+Team+TyreLife+Compound+Position+Stint, data = data, family = inverse.gaussian)
+
+summary(m1gamma)
+summary(m1normal)
+summary(m1inv)
+
+stargazer(m1inv, type = "latex", title = "LapTimePerKM", 
+          dep.var.labels = "Dependent Variable", 
+          covariate.labels = c(),
+          model.names = FALSE)
+stargazer(m1gamma,
+          title = "LapTimePerKM",
+          header = FALSE,
+          model.names = FALSE,
+          dep.var.labels.include = TRUE,
+          omit.stat = c("LL", "ser", "f"),
+          digits = 2,
+          single.row = T)
+
+
+vif_values_glm <- vif(m1)
+print(vif_values_glm)
+
+
+
+m9<-glm(LapTimePerKM ~GP+RacePercentage+Team+TyreLife+Compound+Position+Stint, data = data, family = Gamma())
+m10<-glm(LapTimePerKM ~GP+RacePercentage+Driver+TyreLife+Compound+Position+Stint, data = data, family = Gamma())
+m11<-glm(LapTimePerKM ~GP+RacePercentage+TyreLife+Compound+Position+Stint, data = data, family = Gamma())
+
+summary(m1)
+pchisq(43.041,63659)
+pchisq(2.3748,63659)
+pchisq(41.654,63626)
+
+#Pitstops
+datapitstops<-read.csv("TesisPitstopsWithTeams.csv")
+datapitstops$Driver<-factor(datapitstops$Driver)
+datapitstops$Team<-factor(datapitstops$Team)
+datapitstops$Circuit<-factor(datapitstops$Circuit)
+
+data2<-select(datapitstops,-PitstopT,-Unnamed..0,-GP,-Year)
+data2
+PitstopT<-datapitstops$PitstopT
+data2<-cbind(data2,PitstopT)
+
+bestgammapit<-bestglm(data2,family=Gamma())
+
+pitstopgamma<-glm(PitstopT~Circuit, data=datapitstops,family=Gamma())
+pitstopnormal<-glm(PitstopT~Circuit, data=datapitstops,family = gaussian(link="log"))
+pitstopinv<-glm(PitstopT~Circuit, data=datapitstops,family = inverse.gaussian)
+
+summary(pitstopgamma)
+summary(pitstopnormal)
+summary(pitstopinv)
+
+stargazer(pitstopgamma,
+          title = "PitstopT",
+          header = FALSE,
+          model.names = FALSE,
+          dep.var.labels.include = TRUE,
+          omit.stat = c("LL", "ser", "f"),
+          digits = 2,
+          single.row = T)
+
+#Outlaps
+dataoutlaps<-read.csv("TesisOutlaps2.csv")
+dataoutlaps1 <- dataoutlaps %>%
+  select(-c(Unnamed..0_x, Length_x, Abrasion_x, Traction_x, Braking_x, TrackEvo_x, Grip_x, Lateral_x, Downforce_x, TyreStress_x,
+            IsAccurate, Unnamed..0_y, Length_y, Abrasion_y, Traction_y, Braking_y, TrackEvo_y, Grip_y, Lateral_y, Downforce_y, TyreStress_y,
+            Unnamed..0, Length, Abrasion, Traction, Braking, TrackEvo, Grip, Lateral, Downforce, TyreStress,LapNumber, LapTime,Year))
+dataoutlaps1$Driver<-factor(dataoutlaps1$Driver)
+dataoutlaps1$Team<-factor(dataoutlaps1$Team)
+dataoutlaps1$Compound<-factor(dataoutlaps1$Compound)
+dataoutlaps1$GP<-factor(dataoutlaps1$GP)
+bestgammaout<-bestglm(dataoutlaps1,family=Gamma())
+
+outgamma<-glm(LapTimePerKM~GP+Compound, data=dataoutlaps,family=Gamma())
+summary(outgamma)
+
+stargazer(outgamma,
+          title = "PitstopT",
+          header = FALSE,
+          model.names = FALSE,
+          dep.var.labels.include = TRUE,
+          omit.stat = c("LL", "ser", "f"),
+          digits = 2,
+          single.row = T)
+
+stargazer(ingamma,
+          title = "Inlaps",
+          header = FALSE,
+          model.names = FALSE,
+          dep.var.labels.include = TRUE,
+          omit.stat = c("LL", "ser", "f"),
+          digits = 2,
+          single.row = T)
+
+#Inlaps
+datainlaps<-read.csv("TesisInlaps2.csv")
+datainlaps$Driver<-factor(datainlaps$Driver)
+datainlaps$Team<-factor(datainlaps$Team)
+datainlaps$Compound<-factor(datainlaps$Compound)
+datainlaps$GP<-factor(datainlaps$GP)
+datainlaps1 <- datainlaps %>%
+  select(-c(IsAccurate, Year,Unnamed..0, Length, Abrasion, Traction, Braking, TrackEvo, Grip, Lateral, Downforce, TyreStress,LapNumber, LapTime,Year,LapNumber))
+
+bestgammain<-bestglm(datainlaps1,family=Gamma())
+
+ingamma<-glm(LapTimePerKM~GP+Compound+TyreLife+Stint, data=datainlaps,family=Gamma())
+summary(ingamma)
+# safetycars 
+safetycars<-read.csv("TesisSafetyCars.csv")
+safetycars$SafetyCar <- ifelse(safetycars$Label == "Safety Car", 1, 0)
+safetycars1 <- safetycars %>%
+  select(-c(TrackStatus,Year,Label))
+library(bestglm)
+safetycars1$GP<-factor(safetycars1$GP)
+bestbinary<-bestglm(safetycars1,family=binomial())
+
+safetycarsmodel<-glm(SafetyCar~GP+LapNumber, data=safetycars,family=binomial())
+summary(safetycarsmodel)
+safetycarsmodel2<-glm(SafetyCar~LapNumber, data=safetycars,family=binomial())
+summary(safetycarsmodel2)
+
+pchisq(2387.4 ,5329,lower.tail = F)
+
+
+#lluvia
+dataWithWet<- read.csv("TesisDataWithWet.csv")
+dataWithWet1 <- dataWithWet %>%
+  select(-c(X,Compound,LapTimePerKM,LapTime,Year,Laps, Length, Abrasion, Traction, Braking, TrackEvo, Grip, Lateral, Downforce, TyreStress,LapNumber, LapTime,Year))
+dataWithWet1$Driver<-factor(dataWithWet1$Driver)
+dataWithWet1$Team<-factor(dataWithWet1$Team)
+dataWithWet1$GP<-factor(dataWithWet1$GP)
+bestlluvia<-bestglm(dataWithWet1,family=binomial())
+
+
+lluvia<-glm(WetTrack~RacePercentage+GP+Team,data=dataWithWet,family=binomial())
+summary(lluvia)
+
+library(tseries)
+residuos <- resid(modelsinStint)
+jarque.bera.test(residuos)
+
+qqnorm(residuos)
+qqline(residuos, col = "red")
+
+library(MASS)
+boxcox(modelsinStint, plotit = TRUE)
+
+library(lmtest)
+bptest(modelsinStint)
+
+fit <- fitdistr(data$LapTimePerKM, "gamma")
+
+# Plot the histogram
+hist(data$LapTimePerKM, probability = TRUE, main = "Histogram with Gamma Curve", 
+     xlab = "LapTimePerKM", col = "lightblue", border = "black")
+
+# Overlay the Gamma distribution curve
+curve(dgamma(x, shape = fit$estimate["shape"], rate = fit$estimate["rate"]), 
+      col = "red", lwd = 2, add = TRUE)
+
+dwtest(modelsinStint)
+
+stargazer(model)
+vif_values <- vif(modelsinStint)
+
+
+
+
+# Print VIF values
+print(vif_values)
+
+
 
 class(data$RacePercentage)
 TyreLife<-15
@@ -23,7 +321,7 @@ Stint<-1
 newdata<-as.data.frame(cbind(Tyrelife,as.numeric(RacePercentage),Compound,Team,GP,Stint))
 predict(model,newdata=newdata,type="response")
 
-
+#otra opción 
 model2<-lm(LapTimePerKM~TyreLife+factor(Compound)+factor(Team)+factor(Year)+factor(GP),data=data)
 summary(model2)
 
@@ -47,20 +345,29 @@ Year<-2023
 newdata<-cbind(TyreLife,Compound,Team,circuitInfo[19,3:11],Year)
 predict(model,newdata=newdata,type="response")*circuitInfo$Length[19]
 
+#otra opción multicolinealidad con los circuitos 
 model2<-lm(LapTimePerKM~TyreLife+factor(Compound)+factor(Team)+factor(Abrasion)+
             factor(Traction)+factor(Braking)+factor(TrackEvo)+factor(Grip)+
             factor(Lateral)+factor(Downforce),data=data)
 
 summary(model2)
-datapitstops<-read.csv("TesisPitstops.csv")
-modelpit<-lm(as.numeric(PitstopT)~factor(Circuit),data=datapitstops)
+
+
+
+
+#Modelo pitstops 
+
+datapitstops<-read.csv("TesisPitstopsWithTeams.csv")
+modelpit<-lm(as.numeric(PitstopT)~factor(Circuit)+factor(Team),data=datapitstops)
 summary(modelpit)
 
-dataoutlaps<-read.csv("TesisOutlaps.csv")
+#Modelo outlaps 
+dataoutlaps<-read.csv("TesisOutlaps2.csv")
 modelout<-lm(LapTimePerKM~factor(GP)+factor(Compound),data=dataoutlaps)
 summary(modelout)
 
-datainlaps<-read.csv("TesisInlaps.csv")
+#Modelo inlaps 
+datainlaps<-read.csv("TesisInlaps2.csv")
 modelin<-lm(LapTimePerKM~factor(GP),data=datainlaps)
 summary(modelin)
 
@@ -69,6 +376,17 @@ predict(modelin,newdata=newdatain,type="response")
 
 nlaps<-read.csv("TesisNLaps.csv")
 
+# safetycars 
+safetycars<-read.csv("TesisSafetyCars.csv")
+safetycars$SafetyCar <- ifelse(safetycars$Label == "Safety Car", 1, 0)
+safety_car_model <- glm(SafetyCar ~ LapNumber + factor(GP), data = safetycars, family = binomial)
+
+
+summary(safety_car_model)
+predict(safety_car_model, newdata = data.frame(LapNumber = 40, GP = "Australia"), type = "response")
+
+#lluvia
+dataWithWet<- read.csv("TesisDataWithWet.csv")
 
 vidapromedio<-function(Circuito,stints){
   datastints<-subset(stints,GP==Circuito)
