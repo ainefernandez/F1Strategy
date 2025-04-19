@@ -56,10 +56,15 @@ The [CircuitInfo.csv](CircuitInfo.csv) file contains track characteristics, incl
 
 This data was obtained from Pirelli, the official and only current tyre supplier for Formula 1.
 
+### 🏁 NLaps
+
+The [NLaps.csv](NLaps.csv) file contains the **total number of race laps** for each circuit.  
+
+This information is essential for calculating variables like **RacePercentage**. 
 
 ### 🏎️ Dry Quick Laps
 
-The [DryQuickLaps.csv](DryQuickLaps.csv) file contains information from laps driven in **dry conditions** only. Races affected by rain were excluded to maintain consistency in tyre performance and strategy evaluation. Additionally, only **competitive laps** were kept, filtered according to Formula 1’s 107% rule — meaning each lap had to be within 107% of the fastest lap.
+The [DryQuickLaps.csv](DryQuickLaps.csv) file contains data from laps driven in **dry conditions** only. Races affected by rain were excluded to maintain consistency in tyre performance and strategy evaluation. Additionally, only **competitive laps** were kept, filtered according to Formula 1’s 107% rule — meaning each lap had to be within 107% of the fastest lap.
 
 This dataset includes the following variables:
 
@@ -86,3 +91,23 @@ This dataset includes the following variables:
 - **Laps** – Total number of laps in the race  
 - **RacePercentage** – Percentage of the race distance completed when the lap was recorded
 
+### 🔁 Stints
+
+The [Stints.csv](Stints.csv) file contains data on **stints**, which refer to the continuous number of laps a driver completes on the same set of tyres before making a pit stop.
+
+It includes:
+
+- **Driver**: Name of the driver  
+- **Stint**: Stint number (e.g., 1st, 2nd, etc.) during the race  
+- **Compound**: Tyre compound used in the stint (SOFT, MEDIUM, HARD)  
+- **GP**: Grand Prix name  
+- **Year**: Year of the event  
+- **StintLength**: Number of laps in the stint
+
+### 🛞 Inlaps
+
+The [Inlaps.csv](Inlaps.csv) file contains data on **inlaps**, which are the laps when a driver enters the pits. These are identified by a **positive PitInTime** value in the dataset.
+
+This file shares the same structure and variables as the DryQuickLaps.csv dataset. 
+
+### Outlaps
