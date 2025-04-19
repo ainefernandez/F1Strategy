@@ -139,18 +139,18 @@ This file has the same structure and variables as the **DryQuickLaps** dataset.
 
 ### 🛞 Pitstops
 
-The [PitstopsWithTeams.csv](PitstopsWithTeams.csv) file contains detailed data on all the pitstops made during a Grand Prix weekend.
+The [`PitstopsWithTeams.csv`](PitstopsWithTeams.csv) file contains detailed data on all pitstops made during a Grand Prix weekend.
 
-The file includes the following variables:
+It includes the following variables:
 
-- **GP**: The name of the Grand Prix (race).
-- **Circuit**: The name of the circuit where the race took place.
-- **PitstopT**: The total time taken for the pitstop, measured from the moment the driver enters the pit lane until they exit the pit lane.
-- **Driver**: The abbreviation of the driver's name (e.g., "VER" for Max Verstappen).
-- **Year**: The year of the Grand Prix.
-- **Team**: The name of the team the driver was racing for.
+- **GP** – Name of the Grand Prix (race).  
+- **Circuit** – Circuit where the race took place.  
+- **PitstopT** – Total time of the pitstop, measured from when the driver enters the **pit lane** to when they **exit** it.  
+- **Driver** – Abbreviation of the driver's name (e.g., `VER` for Max Verstappen).  
+- **Year** – Year in which the Grand Prix occurred.  
+- **Team** – Name of the team the driver was racing for.
 
-This dataset allows for the analysis of pitstop times across various races, circuits, and teams, providing insight into the efficiency of pit crews and race strategies.
+The [`Pitstops.csv`](Pitstops.csv) file contains the same data **before** the team variable was added.
 
 ### 🚨 Safety Cars
 
