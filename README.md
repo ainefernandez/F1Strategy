@@ -37,7 +37,10 @@ The [Jupyter Notebook](0.DataExtraction.ipynb) handles the extraction of all the
 
 Once the data was collected, it was saved into CSV files for further statistical analysis — most of which was done in R.
 
-Next, I explain which variables are contained in each of these datasets
+The data spans from 2019 to 2024, up until the 2024 Singapore GP. I used 2019-2023 data for training models, and 2024 data for testing.
+
+Next, I’ll explain the variables included in each of these datasets.
+
 
 ### 🏁 Circuit Info
 
@@ -68,7 +71,7 @@ The [DryQuickLaps.csv](DryQuickLaps.csv) file contains data from laps driven in 
 
 This dataset includes the following variables:
 
-- **Driver** – Name of the driver who set the lap  
+- **Driver** – Name of the driver who set the lap (abbreviation of the driver's name)
 - **Team** – Team the driver was racing for  
 - **LapNumber** – Number of the lap in which the time was set  
 - **LapTime** – Time the driver took to complete the lap  
@@ -104,6 +107,24 @@ It includes:
 - **Year**: Year of the event  
 - **StintLength**: Number of laps in the stint
 
+### 🏎️ Strategy
+
+The [Strategyfull.csv](Strategyfull.csv) contains detailed data about the tyre strategies used by drivers during a Grand Prix main race.
+
+The file includes the following variables:
+
+- **Year**: The year in which the Grand Prix took place.
+- **GP**: The name of the Grand Prix.
+- **Driver**: The abbreviation of the driver's name (e.g., "VER" for Max Verstappen, "HAM" for Lewis Hamilton).
+- **Strategy**: The sequence of tyre compounds used by the driver throughout the race (e.g., "MEDIUM-MEDIUM-HARD").
+- **PitStops**: The total number of pit stops made by the driver during the race.
+- **Stint**: The continuous laps driven on a single set of tyres.
+- **Compound**: The type of tyre used during the stint (e.g., Soft, Medium, Hard).
+- **StintLength**: The number of laps completed in a particular stint.
+- **StintNumber**: The specific number assigned to the stint (e.g., Stint 1, Stint 2).
+
+The **Strategy** column provides an overview of the tyre strategy used by a driver in a given race. For instance, "MEDIUM-MEDIUM-HARD" would indicate that the driver used Medium tyres at the start, switched to Medium again, and ended with Hard tyres.
+
 ### 🛞 Inlaps
 
 The [Inlaps.csv](Inlaps.csv) file contains data on **inlaps**, which are the laps when a driver enters the pits. These are identified by a **positive PitInTime** value in the API.
@@ -116,4 +137,32 @@ The [Outlaps.csv](Outlaps.csv) file contains data on **outlaps**, which are the 
 
 This file has the same structure and variables as the **DryQuickLaps** dataset.
 
+### 🛞 Pitstops
+
+The [PitstopsWithTeams.csv](PitstopsWithTeams.csv) file contains detailed data on all the pitstops made during a Grand Prix weekend.
+
+The file includes the following variables:
+
+- **GP**: The name of the Grand Prix (race).
+- **Circuit**: The name of the circuit where the race took place.
+- **PitstopT**: The total time taken for the pitstop, measured from the moment the driver enters the pit lane until they exit the pit lane.
+- **Driver**: The abbreviation of the driver's name (e.g., "VER" for Max Verstappen).
+- **Year**: The year of the Grand Prix.
+- **Team**: The name of the team the driver was racing for.
+
+This dataset allows for the analysis of pitstop times across various races, circuits, and teams, providing insight into the efficiency of pit crews and race strategies.
+
+### 🚨 Safety Cars
+
+The [SafetyCars.csv](SafetyCars.csv) file contains information on **track status** for each lap of a Grand Prix. This includes the deployment of Safety Cars, Virtual Safety Cars, and other race interruptions.
+
+It includes the following variables:
+
+- **LapNumber**: The lap on which the track status was recorded.  
+- **GP**: The name of the Grand Prix.  
+- **Year**: The year of the race.  
+- **TrackStatus**: A code indicating the status of the track (e.g., Safety Car, Virtual Safety Car).  
+- **Label**: A human-readable label for the track status.
+
+The [SafetyCars2024.csv](SafetyCars2024.csv) contains the same type of data, but specifically for the **2024 season**, and is used for model testing purposes.
 
