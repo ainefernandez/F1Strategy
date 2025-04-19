@@ -190,7 +190,7 @@ And how do we estimate all these times?
 
 With **Generalized Linear Models (GLMs)**, of course! 🔧📉
 
-### 🧠 What are Generalized Linear Models (GLMs)?
+### 🤔 What are Generalized Linear Models (GLMs)?
 
 If you’re already familiar with classic linear models, then GLMs are like their more flexible, modern cousin. They serve the same basic purpose: to model the relationship between a **dependent variable (Y)** and one or more **explanatory variables (X)**.
 
@@ -203,7 +203,7 @@ GLMs also relax some of the classic assumptions — like linearity, normality, a
 - **Error Distribution (Family):**  
   This is the distribution of the dependent variable (Y). It must belong to the exponential family — which includes Normal, Poisson, Gamma, and others — chosen based on the nature of the data.
 
-- **Link Function (`g()`):**  
+- **Link Function (g()):**  
   This function connects the **mean of the dependent variable** to the **linear predictor** (the linear combination of the independent variables). It must be **monotonic** and **differentiable**, which ensures a unique relationship between the predictor and the expected value of Y.
 
 #### The general form of a GLM:
@@ -232,7 +232,7 @@ Where:
 - `k` is the number of estimated parameters  
 - `n` is the sample size
 
-While **AIC** emphasizes *predictive performance*, **BIC** favors models that strike a balance between *simplicity and fit*. In this thesis, we focus on **AIC** for model selection.
+While **AIC** emphasizes *predictive performance*, **BIC** favors models that strike a balance between *simplicity and fit*. In this thesis, I focus on **AIC** for model selection.
 
 
 
