@@ -67,32 +67,32 @@ This information is essential for calculating variables like **RacePercentage**.
 
 ### 🏎️ Dry Quick Laps
 
-The [DryQuickLaps.csv](DryQuickLaps.csv) file contains data from laps driven in **dry conditions** only. Races affected by rain were excluded to maintain consistency in tyre performance and strategy evaluation. Additionally, only **competitive laps** were kept, filtered according to Formula 1’s 107% rule — meaning each lap had to be within 107% of the fastest lap.
+The [DryQuickLaps.csv](DryQuickLaps.csv) file contains data from laps driven in **dry conditions** only. Races affected by rain were excluded to maintain consistency in tyre performance and strategy evaluation. Additionally, only **competitive laps** were kept, filtered according to Formula 1’s 107% rule — meaning each lap had to be within 107% of the fastest lap. This dataset contains **64,516 lap records**.
 
-This dataset includes the following variables:
+It includes the following variables:
 
-- **Driver** – Name of the driver who set the lap (abbreviation of the driver's name)
+- **Driver** – Abbreviation of the driver’s name (e.g., "VER", "HAM")  
 - **Team** – Team the driver was racing for  
-- **LapNumber** – Number of the lap in which the time was set  
-- **LapTime** – Time the driver took to complete the lap  
+- **LapNumber** – Lap in which the time was set  
+- **LapTime** – Total time to complete the lap  
 - **Stint** – The stint number (i.e., which tyre set this lap belongs to)  
 - **Compound** – Tyre compound used (Soft, Medium, Hard)  
-- **TyreLife** – Number of laps the tyre set had completed when the lap was recorded  
-- **Position** – Driver's track position at the moment of the lap  
+- **TyreLife** – Number of laps the tyres had been used at the time of the lap  
+- **Position** – Driver’s position on track during the lap  
 - **Year** – Season in which the lap was recorded  
-- **GP** – Grand Prix in which the lap was recorded  
-- **Length** – Track length in kilometers  
+- **GP** – Grand Prix where the lap occurred  
+- **Length** – Length of the circuit (in km)  
 - **Abrasion** – Level of track abrasion  
-- **Traction** – Level of traction required by the circuit  
-- **Braking** – Intensity of braking on the circuit  
-- **TrackEvo** – Level of track evolution (how much grip improves over the weekend)  
-- **Grip** – General grip level of the track  
-- **Lateral** – Amount of lateral force experienced (high in circuits with many corners)  
-- **Downforce** – Aerodynamic downforce needed at the circuit  
-- **TyreStress** – Overall stress the track puts on the tyres  
+- **Traction** – Amount of traction required by the circuit  
+- **Braking** – Braking demand of the circuit  
+- **TrackEvo** – Track evolution across the weekend  
+- **Grip** – General grip level of the surface  
+- **Lateral** – Lateral forces experienced in the circuit  
+- **Downforce** – Level of aerodynamic downforce required  
+- **TyreStress** – Tyre stress caused by the circuit layout  
 - **LapTimePerKM** – Standardized lap time (lap time divided by circuit length)  
-- **Laps** – Total number of laps in the race  
-- **RacePercentage** – Percentage of the race distance completed when the lap was recorded
+- **Laps** – Total number of race laps for that GP  
+- **RacePercentage** – Percentage of the race completed when the lap occurred
 
 ### 🔁 Stints
 
