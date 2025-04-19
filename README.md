@@ -20,3 +20,6 @@ Of course, F1 teams already use sophisticated models for this (and many other) c
 
 And that’s how the idea for this thesis came to life 🚀
 
+## Data 
+
+First things first it wouldnt be a Data Science thesis without data, so the first thing i did is extract data from the F1 API using [FastF1](https://docs.fastf1.dev/)
