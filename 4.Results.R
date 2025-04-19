@@ -8,9 +8,9 @@
 library(dplyr)
 library(ggplot2)
 
-grid_data <- read.csv("TesisGrid.csv")
-strategy_data <- read.csv("TesisStrategyfull.csv")
-stints <- read.csv("TesisStints.csv")
+grid_data <- read.csv("Grid.csv")
+strategy_data <- read.csv("Strategyfull.csv")
+stints <- read.csv("Stints.csv")
 
 merged_data <- merge(grid_data, strategy_data, by = c("Driver", "GP", "Year"))
 merged_data <- merged_data[, !colnames(merged_data) %in% c("X.x", "X.y")]
@@ -258,7 +258,7 @@ WindowMonza<-Ventana(Monza2024, stints, nlaps, circuitInfo, model, modelin, mode
 WindowChina<-Ventana(China2024, stints, nlaps, circuitInfo, model, modelin, modelpit, modelout)
 
 #RESULTS (Safety Cars)
-safetycars<-read.csv("TesisSafetyCars.csv")
+safetycars<-read.csv("SafetyCars.csv")
 risk<-as.data.frame(cbind(SafetyCarByCircuit$RiskCategory,SafetyCarByCircuit$GP))
 names(risk)<-c("Risk","GP")
 safetycars$SafetyCar <- ifelse(safetycars$Label == "Safety Car", 1, 0)
@@ -278,7 +278,7 @@ highRisk <- safetycars %>%
   filter(Risk == "High Risk")
 
 #Test data 
-safetycars2024<-read.csv("TesisSafetyCars2024.csv")
+safetycars2024<-read.csv("SafetyCars2024.csv")
 safetycars2024<- merge(safetycars2024,risk, by = "GP", all = TRUE)
 
 lowRisk2024 <- safetycars2024 %>%

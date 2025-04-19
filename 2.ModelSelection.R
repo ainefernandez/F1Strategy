@@ -14,18 +14,18 @@ library(car)
 library(bestglm)
 
 # Data
-data<-read.csv("TesisDryQuickLaps3.csv")
-circuitInfo<-read.csv("TesisCircuitInfo.csv")
-stints<-read.csv("TesisStints.csv")
-nlaps<-read.csv("TesisNLaps.csv")
+data<-read.csv("DryQuickLaps.csv")
+circuitInfo<-read.csv("CircuitInfo.csv")
+stints<-read.csv("Stints.csv")
+nlaps<-read.csv("NLaps.csv")
 #Pitstops
-datapitstops<-read.csv("TesisPitstopsWithTeams.csv")
+datapitstops<-read.csv("PitstopsWithTeams.csv")
 #Outlaps
-dataoutlaps<-read.csv("TesisOutlaps.csv")
+dataoutlaps<-read.csv("Outlaps.csv")
 #Inlaps
-datainlaps<-read.csv("TesisInlaps.csv")
+datainlaps<-read.csv("Inlaps.csv")
 #SafetyCars
-safetycars<-read.csv("TesisSafetyCars2.csv")
+safetycars<-read.csv("SafetyCars.csv")
 safetycars$SafetyCar <- ifelse(safetycars$Label == "Safety Car", 1, 0)
 
 # Convert the appropriate variables to factors
