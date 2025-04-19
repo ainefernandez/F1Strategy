@@ -4,7 +4,7 @@ Hi there! 👋
 
 Welcome to the repo for my undergraduate thesis in Data Science — a deep dive into Formula 1 race strategies using Generalized Linear Models (GLMs) and Decision Trees.  
 
-📘 If you speak Spanish, you can check out my full thesis here: [Tesis](Tesis.pdf)  
+📘 If you speak Spanish, you can check out my full thesis here: [Más allá de la recta: estrategias de Fórmula 1 con modelos lineales generalizados y árboles de decisión](Tesis.pdf)  
 
 Otherwise, stick around! This README will walk you through all the details of the project.
 
@@ -190,7 +190,50 @@ And how do we estimate all these times?
 
 With **Generalized Linear Models (GLMs)**, of course! 🔧📉
 
-### What are Generalized Linear Models (GLMs)?
+### 🧠 What are Generalized Linear Models (GLMs)?
+
+If you’re already familiar with classic linear models, then GLMs are like their more flexible, modern cousin. They serve the same basic purpose: to model the relationship between a **dependent variable (Y)** and one or more **explanatory variables (X)**.
+
+The major advantage of GLMs over traditional linear models? **They don’t require the dependent variable to follow a normal distribution.** Instead, GLMs allow the response variable to follow any distribution from the **exponential family** (like Poisson, Gamma, Binomial, etc.), making them a much more versatile tool in real-world data analysis.
+
+GLMs also relax some of the classic assumptions — like linearity, normality, and homoscedasticity — making them ideal for situations where those assumptions don't hold.
+
+#### GLMs have two main components:
+
+- **Error Distribution (Family):**  
+  This is the distribution of the dependent variable (Y). It must belong to the exponential family — which includes Normal, Poisson, Gamma, and others — chosen based on the nature of the data.
+
+- **Link Function (`g()`):**  
+  This function connects the **mean of the dependent variable** to the **linear predictor** (the linear combination of the independent variables). It must be **monotonic** and **differentiable**, which ensures a unique relationship between the predictor and the expected value of Y.
+
+#### The general form of a GLM:
+
+`Y = g⁻¹(Xβ) + ε`
+
+Where:  
+- `g⁻¹` is the inverse of the link function  
+- `Xβ` is the linear predictor  
+- `ε` is the error term
+
+#### Model Comparison
+
+To compare different GLMs, we rely on model selection criteria like:
+
+- **Akaike Information Criterion (AIC):**
+
+  `AIC = -2 * log(L) + 2k`
+
+- **Bayesian Information Criterion (BIC):**
+
+  `BIC = -2 * log(L) + k * log(n)`
+
+Where:  
+- `L` is the likelihood of the model  
+- `k` is the number of estimated parameters  
+- `n` is the sample size
+
+While **AIC** emphasizes *predictive performance*, **BIC** favors models that strike a balance between *simplicity and fit*. In this thesis, we focus on **AIC** for model selection.
+
 
 
 
