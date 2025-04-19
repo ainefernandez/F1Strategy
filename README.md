@@ -3,7 +3,7 @@
 Hi there! 👋  
 Welcome to the repo for my undergraduate thesis in Data Science — a deep dive into Formula 1 race strategies using Generalized Linear Models (GLMs) and Decision Trees.  
 
-📘 If you speak Spanish, you can check out my full thesis here: [Tesis.pdf](Tesis.pdf)  
+📘 If you speak Spanish, you can check out my full thesis here: [Tesis](Tesis.pdf)  
 
 Otherwise, stick around! This README will walk you through all the juicy details of the project.
 
