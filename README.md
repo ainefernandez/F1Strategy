@@ -106,8 +106,14 @@ It includes:
 
 ### 🛞 Inlaps
 
-The [Inlaps.csv](Inlaps.csv) file contains data on **inlaps**, which are the laps when a driver enters the pits. These are identified by a **positive PitInTime** value in the dataset.
+The [Inlaps.csv](Inlaps.csv) file contains data on **inlaps**, which are the laps when a driver enters the pits. These are identified by a **positive PitInTime** value in the API.
 
-This file shares the same structure and variables as the DryQuickLaps.csv dataset. 
+This file shares the same structure and variables as the **DryQuickLaps** dataset. 
 
-### Outlaps
+### 🛞 Outlaps
+
+The [Outlaps.csv](Outlaps.csv) file contains data on **outlaps**, which are the first lap a driver completes after exiting the pits. These laps are identified by a **positive PitOutTime** value in the API.
+
+This file has the same structure and variables as the **DryQuickLaps** dataset.
+
+
