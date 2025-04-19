@@ -166,3 +166,5 @@ It includes the following variables:
 
 The [SafetyCars2024.csv](SafetyCars2024.csv) contains the same type of data, but specifically for the **2024 season**, and is used for model testing purposes.
 
+## Exploratory Data Analysis
+
