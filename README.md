@@ -172,7 +172,7 @@ The [SafetyCars2024.csv](SafetyCars2024.csv) contains the same type of data, but
 
 In Formula 1, speed isn’t just about raw pace — it’s about strategy. The faster a driver completes the race distance, the better their finishing position and the more championship points they score. 
 
-Now, imagine you're the only car on track — no overtakes, no traffic, just a clean run to the checkered flag. In that idealized scenario, the **optimal race strategy** is the one that minimizes **total race time**. Simple, right?
+Now, imagine you're the only car on track — no overtakes, no traffic, just a clean run to the checkered flag. In that **single car race**, the **optimal race strategy** is the one that minimizes **total race time**. Simple, right?
 
 We can break down that total race time like this:
 
@@ -189,6 +189,9 @@ We calculate this **Pitstop Cost** for every stop in a strategy. Once we’ve es
 And how do we estimate all these times?
 
 With **Generalized Linear Models (GLMs)**, of course! 🔧📉
+
+### What are Generalized Linear Models (GLMs)?
+
 
 
 ## 🌳 Decision Trees 
