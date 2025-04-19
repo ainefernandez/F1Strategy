@@ -170,6 +170,27 @@ The [SafetyCars2024.csv](SafetyCars2024.csv) contains the same type of data, but
 
 ## 📈 Generalized Linear Models and Model Selection
 
+In Formula 1, speed isn’t just about raw pace — it’s about strategy. The faster a driver completes the race distance, the better their finishing position and the more championship points they score. 
+
+Now, imagine you're the only car on track — no overtakes, no traffic, just a clean run to the checkered flag. In that idealized scenario, the **optimal race strategy** is the one that minimizes **total race time**. Simple, right?
+
+We can break down that total race time like this:
+
+**Race Time** = **Time on Stints** + **Pitstop Cost**
+
+Each **stint** is a continuous stretch of laps on the same set of tyres. To get the total stint time, we need to estimate the lap time for each of those laps and add them up.
+
+But don’t forget the pitstops! They’re more than just a flashy 2.5-second tyre change — they come with a hidden time penalty:
+
+**Pitstop Cost** = **Inlap LapTime** + **Pitstop Time** + **Outlap LapTime**
+
+We calculate this **Pitstop Cost** for every stop in a strategy. Once we’ve estimated the full stint times and added the pitstop costs, we can compare total estimated race times across different strategies — and find the fastest one. 🏁
+
+And how do we estimate all these times?
+
+With **Generalized Linear Models (GLMs)**, of course! 🔧📉
+
+
 ## 🌳 Decision Trees 
 
 ## 🏁 Results 
