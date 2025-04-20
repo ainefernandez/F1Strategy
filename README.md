@@ -441,11 +441,9 @@ These are the strategies used by the drivers in the 2024 Bahrain Grand Prix:
   <img width="500" alt="2024 Bahrain GP Strategies" src="https://github.com/user-attachments/assets/ef2fef3c-e752-4e29-a7e1-5d7b8bc3b4eb" />
 </div>
 
-🔴 **Soft** | ⚫ **Hard** | 🟡 **Medium**
+🔴 **Soft** | ⚪ (gray) **Hard** | 🟡 **Medium**
 
 In this race, only **Soft** and **Hard** compounds were used. The Bahrain GP consists of **57 laps**, so any bar reaching lap 57 represents a full race distance. Drivers like Zhou (ZHO), Magnussen (MAG), Ricciardo (RIC), Tsunoda (TSU), Albon (ALB), Hulkenberg (HUL), Ocon (OCO), Gasly (GAS), and Bottas (BOT) were **lapped once**, and Sargeant (SAR) finished **two laps down**.
-
-
 
 #### 🔧 Deterministic Model
 
@@ -463,8 +461,6 @@ This strategy was also the **most popular** among the grid. However, drivers lik
 
 Meanwhile, other Top 10 drivers had **two sets of new Hard tyres**, giving them more flexibility to follow the model's optimal plan. This example highlights how tyre allocation can play a decisive role in strategic decisions.
 
-
-
 #### 🪟 Window Model
 
 According to the **Window Model**, the best strategy involved stopping **3 laps earlier** than the expected tyre lifespan.  
@@ -472,5 +468,41 @@ The optimal tyre sequence proposed by this model was:
 **Medium–Medium–Hard**
 
 However, in this specific race, no driver started on **Medium** tyres, so the strategy was not applicable. This demonstrates that even when a model suggests a faster plan, it may not always be implementable due to constraints in tyre availability or allocation.
+
+### 🇸🇬 2024 Singapore GP
+
+These are the strategies used by the drivers in the 2024 Singapore Grand Prix:
+
+<div align="center">
+  <img width="500" alt="2024 Singapore GP Strategies" src="https://github.com/user-attachments/assets/2f8f83ba-746c-4dae-b0be-8dd5be9ba114" />
+</div>
+
+🔴 **Soft** | ⚫ **Hard** | 🟡 **Medium**
+
+In this race, **Soft** and **Hard** compounds were used. The Singapore GP consists of **62 laps**, so any bar reaching lap 62 represents a full race distance. Drivers from positions 8 to 18 finished **one lap down**, while **Albon (ALB)** retired on lap 15, and **Magnussen (MAG)** retired on lap 57.
+
+#### 🔧 Deterministic Model
+
+The **optimal strategy** identified by the model was the same for everyone:  
+**Medium–Hard–Hard**.
+
+Out of the 20 strategies used by drivers, **15 matched the optimal strategy**, giving us a **75% precision rate**. The **Medium-Hard** strategy was the most common, and some drivers also chose to start with **Hard** tyres.
+
+##### Accuracy by Initial Compound:
+- **Hard**: 15% precision (Hard-Medium strategy)
+- **Medium**: 60% precision (Medium-Hard strategy)
+- **Soft**: 0% precision (Soft-Hard-Hard strategy)
+
+Interestingly, Mercedes made a bold move with **Lewis Hamilton**, who started on **Softs** in 3rd position. The strategy aimed to take advantage of a potential Safety Car period, which was a reasonable gamble considering that a **Safety Car had occurred 100% of the time** in previous years at Singapore. Unfortunately, the **Safety Car never came**, and this gamble cost Hamilton **3 positions** by the end of the race.
+
+
+
+#### 🪟 Window Model
+
+The **Window Model** suggested a strategy that involved stopping **3 laps earlier** than the expected tyre life, recommending the sequence:  
+**Soft–Hard–Hard**.
+
+
+
 
 ## 🧠 Debrief
