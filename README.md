@@ -445,7 +445,7 @@ These are the strategies used by the drivers in the 2024 Bahrain Grand Prix:
 
 In this race, only **Soft** and **Hard** compounds were used. The Bahrain GP consists of **57 laps**, so any bar reaching lap 57 represents a full race distance. Drivers like Zhou (ZHO), Magnussen (MAG), Ricciardo (RIC), Tsunoda (TSU), Albon (ALB), Hulkenberg (HUL), Ocon (OCO), Gasly (GAS), and Bottas (BOT) were **lapped once**, and Sargeant (SAR) finished **two laps down**.
 
----
+
 
 #### 🔧 Deterministic Model
 
@@ -463,7 +463,7 @@ This strategy was also the **most popular** among the grid. However, drivers lik
 
 Meanwhile, other Top 10 drivers had **two sets of new Hard tyres**, giving them more flexibility to follow the model's optimal plan. This example highlights how tyre allocation can play a decisive role in strategic decisions.
 
----
+
 
 #### 🪟 Window Model
 
