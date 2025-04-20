@@ -477,7 +477,7 @@ These are the strategies used by the drivers in the 2024 Singapore Grand Prix:
   <img width="500" alt="2024 Singapore GP Strategies" src="https://github.com/user-attachments/assets/2f8f83ba-746c-4dae-b0be-8dd5be9ba114" />
 </div>
 
-🔴 **Soft** | ⚫ **Hard** | 🟡 **Medium**
+🔴 **Soft** | ⚪ (gray) **Hard** | 🟡 **Medium**
 
 In this race, **Soft** and **Hard** compounds were used. The Singapore GP consists of **62 laps**, so any bar reaching lap 62 represents a full race distance. Drivers from positions 8 to 18 finished **one lap down**, while **Albon (ALB)** retired on lap 15, and **Magnussen (MAG)** retired on lap 57.
 
@@ -493,16 +493,145 @@ Out of the 20 strategies used by drivers, **15 matched the optimal strategy**, g
 - **Medium**: 60% precision (Medium-Hard strategy)
 - **Soft**: 0% precision (Soft-Hard-Hard strategy)
 
-Interestingly, Mercedes made a bold move with **Lewis Hamilton**, who started on **Softs** in 3rd position. The strategy aimed to take advantage of a potential Safety Car period, which was a reasonable gamble considering that a **Safety Car had occurred 100% of the time** in previous years at Singapore. Unfortunately, the **Safety Car never came**, and this gamble cost Hamilton **3 positions** by the end of the race.
-
-
+Interestingly, Mercedes made a bold move with Lewis Hamilton, who started on Softs in 3rd position. The strategy aimed to take advantage of a potential Safety Car period, which was a reasonable gamble considering that a Safety Car had occurred 100% of the time** in previous years at Singapore. Unfortunately, the Safety Car never came, and this gamble cost Hamilton 3 positions by the end of the race.
 
 #### 🪟 Window Model
 
 The **Window Model** suggested a strategy that involved stopping **3 laps earlier** than the expected tyre life, recommending the sequence:  
 **Soft–Hard–Hard**.
 
+### 🇮🇹 2024 Monza GP
 
+These are the strategies used by the drivers in the 2024 Monza Grand Prix:
 
+<div align="center">
+  <img width="500" alt="2024 Monza GP Strategies" src="https://github.com/user-attachments/assets/97e4c967-39b7-4c74-b9e1-12121f92f079" />
+</div>
+
+🔴 **Soft** | ⚪ (gray) **Hard** | 🟡 **Medium**
+
+The **Monza GP** consists of 53 laps. Drivers from P1 to P13 completed the full race distance, while the rest finished **one lap down**. The only retirement of the race was **Yuki Tsunoda (TSU)**, who pulled out on lap 7.
+
+#### 🔧 Deterministic Model
+
+Monza is known as the "Temple of Speed" but in 2024, it also became a playground for strategy games. 
+
+According to the deterministic model:
+
+- **9 out of 20** real-life strategies matched the model’s optimal picks.
+  - **7** drivers used the recommended **Medium–Hard** strategy.
+  - **2** drivers used the **Hard–Medium** variant.
+- This results in a **45% overall precision rate** — lower than other races, likely due to the split between **one-stop** and **two-stop** strategies.
+
+##### Accuracy by Initial Compound:
+- **Hard**: 10% (Hard–Medium)
+- **Medium**: 35% (Medium–Hard)
+- **Soft**: 0% (Soft–Hard–Hard)
+- **Overall**: **45% precision**
+
+🏁 **Charles Leclerc** thrilled the Tifosi by winning the race after starting P3, executing the optimal Medium–Hard strategy to perfection — textbook Ferrari at home!
+
+On the flip side, **McLaren** rolled the dice with **Lando Norris** and **Oscar Piastri**, who locked out the front row but went for a **two-stop strategy**. While bold, it might’ve cost them the win in a race where less was more.
+
+#### 🪟 Window Model
+
+The **Window Model**, which advises pitting **3 laps earlier** than the expected tire lifespan, proposed a slightly different take:
+
+- Optimal strategy: **Medium–Medium–Hard**
+
+### 🇨🇳 2024 China GP
+
+These are the strategies used by the drivers in the 2024 China Grand Prix:
+
+<div align="center">
+  <img width="500" alt="2024 China GP Strategies" src="https://github.com/user-attachments/assets/d640ea4b-a131-4970-981f-8cef6ff0d636" />
+</div>
+
+🔴 **Soft** | ⚪ (gray) **Hard** | 🟡 **Medium**
+
+The **Chinese Grand Prix** consists of 56 laps. All drivers completed the race distance except for **Ricciardo (RIC)**, **Tsunoda (TSU)**, and **Bottas (BOT)**, who retired on laps 33, 27, and 20, respectively.
+
+---
+
+#### 🔧 Deterministic Model
+
+According to the model:
+
+- Only **4 out of 20** real-life strategies matched the optimal predictions, all using **Medium** as the initial compound.
+- This results in a **20% precision rate**, reflecting the challenge of forecasting under unpredictable conditions.
+
+##### Accuracy by Initial Compound:
+- **Hard**: 0% (Hard–Medium)
+- **Medium**: 20% (Medium–Hard)
+- **Soft**: 0% (Soft–Hard–Hard)
+- **Overall**: **20% precision**
+
+Although **Medium** was the most popular starting compound, a few drivers went with **Hard** or **Soft**. However, the race took an unexpected turn due to **external interventions**.
+
+This GP was specifically chosen to test the model’s robustness under chaotic conditions. The **2024 Chinese GP featured two Safety Car periods** that drastically influenced race strategies:
+
+🟡 **Example**:  
+**Verstappen** and **Pérez** (Red Bull Racing) had just pitted for fresh tyres before the first Safety Car came out. Despite this, both pitted again under the Safety Car, showing how rapidly plans can change.  
+A second Safety Car followed shortly after the restart, reshuffling strategies further.
+
+These interventions allowed some drivers to turn their race into a one-stop, while others adapted with multiple stops. As a result, the model’s predicted strategies were less frequently followed — not due to inaccuracy, but because reality deviated from the plan in ways the model could not foresee. The model does not account for the occurrence of Safety Cars, which significantly alter tyre strategy and race dynamics.
+
+#### 🪟 Window Model
+
+The **Window Model**, which recommends stopping **3 laps earlier** than the estimated tyre lifespan, suggested an **aggressive strategy** for this race:
+
+- Optimal sequence: **Soft–Hard–Hard**
+
+However, given the **disruptions from two Safety Cars**, many drivers couldn’t stick to a fixed stint plan. This highlights the limitations of both models in unpredictable race conditions — and the need for adaptability in real-time strategy calls.
+
+### Safety Cars
+
+To test the **Safety Car model**, all circuits from the 2024 calendar (up to Singapore) were categorized into three groups based on their risk levels:
+
+| Percentage Range (%) | Risk Category |
+|----------------------|----------------|
+| 0 - 30               | Low Risk       |
+| 30 - 70              | Medium Risk    |
+| 70 - 100             | High Risk      |
+
+The model was run separately for each risk group to estimate the probability of a Safety Car as a function of race completion percentage.
+
+---
+
+#### Low Risk Circuits
+
+![Low Risk](https://github.com/user-attachments/assets/d88afc4b-58c0-4837-a3d7-df1492193416)
+
+For low-risk circuits (e.g., **China** and **Hungary**), the model estimates a consistently low probability of Safety Car deployment throughout the race. Hungary shows very low probabilities across all segments, while China — which had only one Grand Prix in 2019 before returning in 2024 — displays a decreasing trend in Safety Car probability toward the end of the race.
+
+---
+
+#### Medium Risk Circuits
+
+![Medium Risk](https://github.com/user-attachments/assets/1301fc72-710c-42c9-adf6-4dad254c4ef1)
+
+These circuits follow a similar shape to low-risk tracks, with a **peak at the start of the race** and a **gradual decline**. However, the **overall Safety Car probabilities are higher** than those in the low-risk group.
+
+---
+
+#### High Risk Circuits
+
+![High Risk](https://github.com/user-attachments/assets/5057e591-f6c1-420e-bf31-d09b41d1c82e)
+
+High-risk circuits show **elevated probabilities of Safety Car deployment throughout the race**. These tracks are more volatile and have higher chances of incidents even in later stages of the race.
+
+---
+
+#### Average Probability by Risk Group
+
+![Avg Probability](https://github.com/user-attachments/assets/b55c7e35-8fd7-46ef-b2f3-0bebc4dbafca)
+
+Following the trends observed in the previous graphs, the **average probability of a Safety Car** by risk category is:
+
+- **High-risk circuits**: Highest average probability.
+- **Medium-risk circuits**: Moderate average probability.
+- **Low-risk circuits**: Lowest overall probability.
+
+In all three categories, the **highest probability occurs at the beginning of the race**, gradually decreasing as the race progresses.
 
 ## 🧠 Debrief
