@@ -168,6 +168,30 @@ The [SafetyCars2024.csv](SafetyCars2024.csv) contains the same type of data, but
 
 ## 🔍 Exploratory Data Analysis
 
+Exploratory Data Analysis (EDA) is like the reconnaissance laps before the big race. It helps me get to know the data, spot patterns, and understand its structure before diving into model building. Just as drivers prepare for the race, EDA lays the foundation for solid analysis.
+
+All the visualizations in this EDA are generated using this [R script](1.EDA.R).
+
+### Fast Laps and Tyres
+In my analysis, only fast laps on dry tyres are included—64,516 laps in total. The goal is to estimate the expected lap time for different strategies, so I can pick the optimal one. To do this, I calculate lap time per kilometre and estimate the time for each stint, aiming to find the best predictors.
+
+There’s a noticeable variation in lap times between teams and drivers. Nico Rosberg, F1 champion in 2016, often talked about his "80-20 rule"—80% of success is down to the car and team, while 20% comes from the driver's skill. Whether or not the numbers are accurate, it's clear that both the team and driver play a huge role in lap times.
+
+Tyre compounds also make a big difference. The Medium tyre is the fastest on average, even though the Soft should be quicker in theory. The reason? The Soft wears out faster, making it the second-fastest option. The Hard tyre, being the most durable, is used the most, which makes sense. So, tyre choice can heavily impact lap times.
+
+### Correlations and Insights
+Most predictor correlations are low, except between *TyreLife* & *RacePercentage* and *Stint* & *RacePercentage*, which makes sense as the race progresses. These correlations suggest that each predictor brings unique info for estimating lap time.
+
+Each circuit is different—some are long, others fast. Circuit characteristics influence lap times and tyre wear. Monaco is the shortest circuit, while Belgium is the longest. Monaco also has the slowest lap times, while Monza, known as the "Temple of Speed," boasts the fastest lap times on average.
+
+Pit stops also vary across circuits. For example, Australia has the least time lost in the pits, while Imola has the most. Pit lane characteristics can significantly affect overall strategy and race outcomes.
+
+### Safety Car Considerations
+Race strategies must adapt to unexpected events, like the Safety Car. It's crucial to estimate the likelihood of a Safety Car deployment during the race and find the best predictors for that.
+
+Safety Cars typically occur in the early and late stages of a race, when drivers are more tightly packed. In the middle of the race, things settle down, leading to fewer Safety Cars.
+
+
 ## 📈 Generalized Linear Models (GLMs)
 
 In Formula 1, speed isn’t just about raw pace — it’s about strategy. The faster a driver completes the race distance, the better their finishing position and the more championship points they score. 
@@ -246,6 +270,13 @@ But first, let’s talk families. Since I'm modeling **continuous** and **strict
 
 Once I had the top model from each family, I brought out the **Akaike Information Criterion (AIC)** — because **lower AIC = better model** 📉. This way, I picked the one that has the best predictive performance.
 
+### 🧮 Estimation
+
+The [R script](2.ModelSelection.R) handles the heavy lifting for estimation and model selection 🧠📊
+
+You can check out the full results in [Chapter 4](Tesis.pdf) of my thesis *“El plan perfecto para la victoria: Modelos”* — specifically, Tables 4.2 to 4.17.
+
+
 ### 🏁 LapTimePerKM: How Fast Can You Go?
 
 To estimate how lap times evolve across a stint, I modeled the variable `LapTimePerKM`. The champion here? 🥇 The model using the **Inverse Gaussian** family.
@@ -311,13 +342,6 @@ The final model looks like this:
 **SafetyCar** = *g⁻¹*(β₀ + β₁·LapNumber + β₂·Circuit) + ε
 
 This allows us to estimate the probability of a Safety Car being deployed based on the lap number and the circuit. After all, Jeddah is not Monza... 😉
-
-### 🧮 Estimation
-
-The [R script](2.ModelSelection.R) handles the heavy lifting for estimation and model selection 🧠📊
-
-You can check out the full results in [Chapter 4](Tesis.pdf) of my thesis *“El plan perfecto para la victoria: Modelos”* — specifically, Tables 4.2 to 4.17.
-
 
 ## 🌳 Choosing the Winning Strategy: Decision Trees
 
@@ -432,6 +456,8 @@ Factors such as:
 can lead teams to diverge from the theoretically optimal plan.
 
 Thus, when reviewing the results in the upcoming examples, keep in mind: the strategy a team used may not have been the best possible — but it was chosen within the context of that specific race.
+
+This [R script](4.Results.R) produces all the results. 
 
 ### 🇧🇭 2024 Bahrain GP
 
@@ -648,7 +674,7 @@ This thesis set out to design a race strategy model to help Formula 1 teams make
   - Model results were compared with actual team strategies — though, let’s be honest, even teams make strategic errors (**Singapore 2024**, anyone?).
 
 - **Window Model:**  
-  - Suggested undercutting about **3 laps before** tire life expires — a pattern that aligns with real-world decisions when drivers are stuck in DRS trains or struggling with worn tires.
+  - Suggested undercutting about **3 laps before** the expected tyre life — a pattern that aligns with real-world decisions when drivers are stuck in DRS trains or struggling with worn tyres.
 
 ### 🔮 What’s Next?
 
@@ -658,7 +684,7 @@ This is just the starting line. Future models could:
 - Adapt to **wet track conditions** for better tire choices.
 - Get more **dynamic**, updating strategies when drivers suddenly gain or lose positions.
 
-One early attempt at this is the **Rival Model**, which starts considering time gaps between drivers — a small but exciting step toward real-time adaptability.
+One early attempt at this is the **Direct Rival Model**, which starts considering time gaps between drivers — a small but exciting step toward real-time adaptability.
 
 ### 🧩 Final Thoughts
 
