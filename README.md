@@ -184,7 +184,7 @@ But don’t forget the pitstops! They’re more than just a flashy 2.5-second ty
 
 **Pitstop Cost** = **Inlap LapTime** + **Pitstop Time** + **Outlap LapTime**
 
-We calculate this **Pitstop Cost** for every stop in a strategy. Once we’ve estimated the full stint times and added the pitstop costs, we can compare total estimated race times across different strategies — and find the fastest one. 🏁
+I calculate this **Pitstop Cost** for every stop in a strategy. Once I’ve estimated the full stint times and added the pitstop costs, I can compare total estimated race times across different strategies — and find the fastest one. 🏁
 
 And how do we estimate all these times?
 
@@ -208,7 +208,7 @@ GLMs also relax some of the classic assumptions — like linearity, normality, a
 
 ### The general form of a GLM
 
-`Y = g⁻¹(Xβ) + ε`
+`Y =  g⁻¹(Xβ) + ε`
 
 Where:  
 - `g⁻¹` is the inverse of the link function  
@@ -236,21 +236,19 @@ While **AIC** emphasizes *predictive performance*, **BIC** favors models that st
 
 ## 🧠 Model Selection
 
-After diving into the data through Exploratory Data Analysis, we had a pretty good idea 💡 of which variables could impact lap times and pit stop costs. To lock in the best model, we used the `bestglm` function from the **bestglm** R package — a powerful tool that compares models using the **Bayesian Information Criterion (BIC)**.
+After diving into the data through Exploratory Data Analysis, I had a pretty good idea 💡 of which variables could impact lap times and pit stop costs. To lock in the best model, I used the `bestglm` function from the **bestglm** R package — a powerful tool that compares models using the **Bayesian Information Criterion (BIC)**.
 
-But first, let’s talk families. Since we're modeling **continuous** and **strictly positive** variables (lap times and pit stop costs), we explored three distribution families — each with their own twist:
+But first, let’s talk families. Since I'm modeling **continuous** and **strictly positive** variables (lap times and pit stop costs), I explored three distribution families:
 
-- 📊 **Normal** (with a logarithmic link function)  
-- 🔁 **Gamma** (with an inverse link function)  
-- 🌀 **Inverse Gaussian** (with a quadratic inverse link function)
+- **Normal** (with a logarithmic link function)  
+- **Gamma** (with an inverse link function)  
+- **Inverse Gaussian** (with a quadratic inverse link function)
 
-Once we had the top model from each family, we brought out the **Akaike Information Criterion (AIC)** — because **lower AIC = better model** 📉. This way, we picked the one that has the best predictive performance.
-
-
+Once I had the top model from each family, I brought out the **Akaike Information Criterion (AIC)** — because **lower AIC = better model** 📉. This way, I picked the one that has the best predictive performance.
 
 ### 🏁 LapTimePerKM: How Fast Can You Go?
 
-To estimate how lap times evolve across a stint, we modeled the variable `LapTimePerKM`. The champion here? 🥇 The model using the **Inverse Gaussian** family.
+To estimate how lap times evolve across a stint, I modeled the variable `LapTimePerKM`. The champion here? 🥇 The model using the **Inverse Gaussian** family.
 
 Here’s how the model looks:
 
@@ -258,13 +256,67 @@ Here’s how the model looks:
 
 This means lap time per kilometer depends on:
 
-- 🏟️ **Circuit** – because every track is unique  
+- 🏎️ **Circuit** – because every track is unique  
 - 📈 **RacePercentage** – lap times change as the race progresses  
 - 🧑‍💼 **Driver** & **Team** – skill and performance matter  
 - 🛞 **TyreLife** & **Compound** – fresh softs ≠ worn hards  
 - 🏁 **Position** – cleaner air vs battling in traffic  
 - 🔁 **Stint number** – drivers push differently across stints
 
+### 🛞 Pitstop Time 
+
+Pit stops might look quick on TV, but they're complex beasts in data! To estimate how long a driver actually spends going through the pit lane — from entry to exit — I modeled the variable `PitstopT`.
+
+And the winner is... 🥇 **Inverse Gaussian** family.
+
+The model is nice and simple:
+
+**PitstopT** = *g⁻¹*(β₀ + β₁·Circuit) + ε
+
+In other words, the only factor that significantly impacts pit stop time is the **Circuit** itself — which makes sense! Some pit lanes are longer or slower. 
+
+### 🛞 Inlaps
+
+Inlaps — the lap where a driver dives into the pits — are often overlooked, but they're crucial for calculating the full cost of a pit stop. I modeled them using the variable `LapTimePerKM` (standardized lap time), focusing specifically on inlap data.
+
+🏁 **And the winner is...** once again, the **Inverse Gaussian** family 🥇
+
+The best-fitting model looks like this:
+
+**LapTimePerKM** = *g⁻¹*(β₀ + β₁·Circuit + β₂·Compound + β₃·TyreLife + β₄·Stint) + ε
+
+This tells us that the **circuit**, **tyre compound**, **age of the tyres**, and **stint number** all play key roles in determining how quick (or slow) that final inlap is before a pit stop. It's like the last gasp of a tyre's life — and I want to time it just right 🔧⏱️.
+
+### 🛞 Outlaps
+
+Outlaps — the lap right after a pit stop — are when drivers rejoin the track on fresh rubber, but not necessarily at full speed yet. Cold tyres, and traffic can all affect performance here.
+
+🏁 **And the winner is...** once again, the **Inverse Gaussian** family! 🥇
+
+The best model to estimate `LapTimePerKM` for outlaps is:
+
+**LapTimePerKM** = *g⁻¹*(β₀ + β₁·Circuit + β₂·Compound) + ε
+
+This tells us that outlap pace is mostly driven by the **circuit characteristics** and the **type of tyre compound** the driver switches to.
+
+### 🚨 Safety Cars
+
+Can we predict when a Safety Car will appear during a race? 🧐 To find out, two logistic GLMs models (binomial family with a **logit** link function) were compared:
+
+- 🛣️ **Model 1:** Includes only the lap number (`LapNumber`).
+- 🏁 **Model 2:** Adds the effect of the circuit (`Circuit`), because not all tracks are equally chaotic...
+
+The final model looks like this:
+
+**SafetyCar** = *g⁻¹*(β₀ + β₁·LapNumber + β₂·Circuit) + ε
+
+This allows us to estimate the probability of a Safety Car being deployed based on the lap number and the circuit. After all, Jeddah is not Monza... 😉
+
+### 🧮 Estimation
+
+The [R script](2.ModelSelection.R) handles the heavy lifting for estimation and model selection 🧠📊
+
+You can check out the full results in [Chapter 4](Tesis.pdf) of my thesis *“El plan perfecto para la victoria: Modelos”* — specifically, Tables 4.2 to 4.17.
 
 
 ## 🌳 Decision Trees 
