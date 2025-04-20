@@ -139,7 +139,7 @@ This file has the same structure and variables as the **DryQuickLaps** dataset.
 
 ### 🛞 Pitstops
 
-The [`PitstopsWithTeams.csv`](PitstopsWithTeams.csv) file contains detailed data on all pitstops made during a Grand Prix weekend.
+The [PitstopsWithTeams.csv](PitstopsWithTeams.csv) file contains detailed data on all pitstops made during a Grand Prix weekend.
 
 It includes the following variables:
 
@@ -150,7 +150,7 @@ It includes the following variables:
 - **Year** – Year in which the Grand Prix occurred.  
 - **Team** – Name of the team the driver was racing for.
 
-The [`Pitstops.csv`](Pitstops.csv) file contains the same data **before** the team variable was added.
+The [Pitstops.csv](Pitstops.csv) file contains the same data before the team variable was added.
 
 ### 🚨 Safety Cars
 
