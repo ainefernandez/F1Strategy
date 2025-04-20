@@ -186,7 +186,7 @@ Each circuit is different—some are long, others fast. Circuit characteristics 
 
 Pit stops also vary across circuits. For example, Australia has the least time lost in the pits, while Imola has the most. Pit lane characteristics can significantly affect overall strategy and race outcomes.
 
-### Safety Car Considerations
+### Safety Cars
 Race strategies must adapt to unexpected events, like the Safety Car. It's crucial to estimate the likelihood of a Safety Car deployment during the race and find the best predictors for that.
 
 Safety Cars typically occur in the early and late stages of a race, when drivers are more tightly packed. In the middle of the race, things settle down, leading to fewer Safety Cars.
