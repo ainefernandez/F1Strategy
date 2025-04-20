@@ -586,7 +586,7 @@ However, given the **disruptions from two Safety Cars**, many drivers couldn’t
 
 ### Safety Cars
 
-To test the **Safety Car model**, all circuits from the 2024 calendar (up to Singapore) were categorized into three groups based on their risk levels:
+To test the Safety Car model, all circuits in the 2024 calendar (up to Singapore) were classified into three groups according to risk:
 
 | Percentage Range (%) | Risk Category |
 |----------------------|----------------|
@@ -594,44 +594,37 @@ To test the **Safety Car model**, all circuits from the 2024 calendar (up to Sin
 | 30 - 70              | Medium Risk    |
 | 70 - 100             | High Risk      |
 
-The model was run separately for each risk group to estimate the probability of a Safety Car as a function of race completion percentage.
+#### Estimated Probabilities by Risk Category
 
----
+- The model was run for each risk group.
+- Safety Car probabilities were calculated based on the percentage of the race completed.
 
-#### Low Risk Circuits
+**Low Risk, Medium Risk, High Risk**  
+<img width="500" alt="Screen Shot 2025-04-19 at 21 19 07" src="https://github.com/user-attachments/assets/d88afc4b-58c0-4837-a3d7-df1492193416" />  
+<img width="500" alt="Screen Shot 2025-04-19 at 21 19 37" src="https://github.com/user-attachments/assets/1301fc72-710c-42c9-adf6-4dad254c4ef1" />  
+<img width="500" alt="Screen Shot 2025-04-19 at 21 20 26" src="https://github.com/user-attachments/assets/5057e591-f6c1-420e-bf31-d09b41d1c82e" />
 
-![Low Risk](https://github.com/user-attachments/assets/d88afc4b-58c0-4837-a3d7-df1492193416)
+##### Key Observations
 
-For low-risk circuits (e.g., **China** and **Hungary**), the model estimates a consistently low probability of Safety Car deployment throughout the race. Hungary shows very low probabilities across all segments, while China — which had only one Grand Prix in 2019 before returning in 2024 — displays a decreasing trend in Safety Car probability toward the end of the race.
+- **Low-Risk Circuits** (e.g., China and Hungary):
+  - Hungary shows consistently low probabilities throughout the race.
+  - China, despite limited data (only raced once before in 2019), exhibits a downward trend toward the end of the race.
 
----
+- **Medium-Risk Circuits**:
+  - Display a similar pattern to low-risk tracks.
+  - Peak probability at the beginning of the race, gradually decreasing.
+  - Overall higher probabilities than low-risk tracks.
 
-#### Medium Risk Circuits
-
-![Medium Risk](https://github.com/user-attachments/assets/1301fc72-710c-42c9-adf6-4dad254c4ef1)
-
-These circuits follow a similar shape to low-risk tracks, with a **peak at the start of the race** and a **gradual decline**. However, the **overall Safety Car probabilities are higher** than those in the low-risk group.
-
----
-
-#### High Risk Circuits
-
-![High Risk](https://github.com/user-attachments/assets/5057e591-f6c1-420e-bf31-d09b41d1c82e)
-
-High-risk circuits show **elevated probabilities of Safety Car deployment throughout the race**. These tracks are more volatile and have higher chances of incidents even in later stages of the race.
-
----
+- **High-Risk Circuits**:
+  - Show elevated Safety Car probabilities throughout the entire race.
+  - These tracks are the most volatile, especially in early laps.
 
 #### Average Probability by Risk Group
 
-![Avg Probability](https://github.com/user-attachments/assets/b55c7e35-8fd7-46ef-b2f3-0bebc4dbafca)
+<img width="500" alt="Screen Shot 2025-04-19 at 21 20 53" src="https://github.com/user-attachments/assets/b55c7e35-8fd7-46ef-b2f3-0bebc4dbafca" />
 
-Following the trends observed in the previous graphs, the **average probability of a Safety Car** by risk category is:
-
-- **High-risk circuits**: Highest average probability.
-- **Medium-risk circuits**: Moderate average probability.
-- **Low-risk circuits**: Lowest overall probability.
-
-In all three categories, the **highest probability occurs at the beginning of the race**, gradually decreasing as the race progresses.
+- High-risk circuits have the **highest average probability** of a Safety Car.
+- Followed by medium-risk, and finally low-risk circuits.
+- All categories show a **maximum probability early in the race**, which **declines as the race progresses**.
 
 ## 🧠 Debrief
