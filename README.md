@@ -321,7 +321,7 @@ You can check out the full results in [Chapter 4](Tesis.pdf) of my thesis *“El
 
 ## 🌳 Choosing the Winning Strategy: Decision Trees
 
-Now that we can estimate **stint times** and **pitstop costs**, it’s time to make some strategic calls — enter the **decision tree**! 🧠🛞
+Now that we can estimate **stint times** and **pitstop costs**, it’s time to make some strategic calls — enter the **decision trees**! 🧠🛞
 
 A decision tree is like a roadmap of choices. It starts with a root node (your first big decision) and branches out into all the possible paths your race strategy can take.
 
@@ -337,6 +337,79 @@ Here's how it works:
 
 At the end of each path, we get an estimated **Race Time**. The strategy with the **lowest time** wins the simulation — and maybe the race too. 🏁🚀
 
+All the decision trees models can be found in this [R script](3.DecisionTreeModels.R).
+
+### 🔧 Deterministic Model
+
+This model simulates a **single car race**, where pitstops are only allowed on the lap of the expected tyre life of the compound, making it a fully **deterministic setup**. It explores all possible strategies using the decision tree from earlier. 🧠🌳
+
+The simulation runs in **three rounds**, each starting on a different dry compound:
+
+1. **Round 1**: Start on **Hard** tyres (H)  
+2. **Round 2**: Start on **Medium** tyres (M)  
+3. **Round 3**: Start on **Soft** tyres (S)
+
+**How it works:**
+- First, the model calculates the **stint duration** for the starting compound compound.
+- Then it adds the **pitstop cost**, defined as:  
+  `pitstop cost = inlap + pit time + outlap`
+- It checks if the compound lasts long enough, follows tyre rules (you must use at least two different compounds), and whether a second or third stop is required.
+
+Each path through the tree returns:
+- Total race time (sum of all stints + pitstop costs),
+- Any warnings (like tyre life being exceeded),
+- And the **best strategy**, based on the shortest total time. 🏁
+
+💡 In races where pitstops are expensive or tyres are long-lasting, the model also considers simpler **two-stint strategies** — leaner, but still fast.
+
+
+### ⏳ Window Model
+
+Race strategists aren’t just interested in *which* tyres to use — they also care about *when* to pit. What happens if a driver pits two laps earlier than planned? Or a few laps later? That’s where the **pit window** comes in. 🪟
+
+A **pit window** is the range of laps around the *ideal* pit stop where a driver might realistically come in — usually a few laps before or after the planned stop.
+
+This model builds on the same decision tree as the deterministic model, **but with one big difference**:  
+Instead of forcing the first stop to happen exactly when the tyres reach their expected life, the model allows for flexibility — you can pit a few laps earlier or later.
+
+We test this using a range of **window values**:  
+`{-3, -2, -1, 0, 1, 2, 3}`
+
+- A value of `-3` means pitting **three laps earlier** than planned  
+- A value of `0` is the expected tyre life  
+- A value of `3` means pitting **three laps later**
+
+For each window value, the model calculates:
+- Total race time 
+- All valid strategy paths 
+- The fastest option 
+
+The Window Model gives teams the **flexibility** to adapt during the race — whether it’s reacting to an on-track incident, responding to a rival’s strategy, or adjusting for changing weather.
+
+### 🥊 Direct Rival Model: Strategy Meets the Competition
+
+Up to now, the models we've seen are static — they calculate the *best* strategy assuming a fixed position after the first lap, without accounting for what’s happening on track. But in a real race, things are constantly changing.
+
+That’s where the **Direct Rival Model** comes in. It’s my first approach to **dynamic strategy**, where timing decisions depend on the **gap to your closest rival**.
+
+The model recalculates strategies *every lap* based on:
+- The time gap to your nearest competitor ⏱️  
+- The potential to gain track position through an **undercut** (pit earlier) or **overcut** (pit later)
+
+It tests three pit stop timings relative to tyre life:
+1. Pit **3 laps earlier**
+2. Pit **on the expected lap**
+3. Pit **3 laps later**
+
+Then it estimates how much time you'd **gain or lose** compared to your rival with each option.
+
+#### Limitations? Yep.
+
+It’s a big step toward real-time strategy modeling, but it’s not fully dynamic just yet. Why?
+- We’d need **exact live time gaps** to model lap-by-lap decisions perfectly.
+- Things like safety cars, pit lane traffic, or unexpected incidents can throw off predictions based solely on average lap times.
+
+Still, it’s a solid starting point for **thinking strategically — not just in isolation, but against the competition.**
 
 ## 🏁 Results 
 
