@@ -350,6 +350,8 @@ The simulation runs in **three rounds**, each starting on a different dry compou
 3. **Round 3**: Start on **Soft** tyres (S)
 
 **How it works:**
+Using the GLMs models from the previous section: 
+
 - First, the model calculates the **stint duration** for the starting compound compound.
 - Then it adds the **pitstop cost**, defined as:  
   `pitstop cost = inlap + pit time + outlap`
@@ -386,9 +388,9 @@ For each window value, the model calculates:
 
 The Window Model gives teams the **flexibility** to adapt during the race — whether it’s reacting to an on-track incident, responding to a rival’s strategy, or adjusting for changing weather.
 
-### 🥊 Direct Rival Model: Strategy Meets the Competition
+### 🥊 Direct Rival Model
 
-Up to now, the models we've seen are static — they calculate the *best* strategy assuming a fixed position after the first lap, without accounting for what’s happening on track. But in a real race, things are constantly changing.
+Up to now, the models I've described are static — they calculate the *best* strategy assuming a fixed position after the first lap, without accounting for what’s happening on track. But in a real race, things are constantly changing.
 
 That’s where the **Direct Rival Model** comes in. It’s my first approach to **dynamic strategy**, where timing decisions depend on the **gap to your closest rival**.
 
@@ -397,11 +399,11 @@ The model recalculates strategies *every lap* based on:
 - The potential to gain track position through an **undercut** (pit earlier) or **overcut** (pit later)
 
 It tests three pit stop timings relative to tyre life:
-1. Pit **3 laps earlier**
-2. Pit **on the expected lap**
-3. Pit **3 laps later**
+1. Pit 3 laps earlier
+2. Pit on the expected lap
+3. Pit 3 laps later
 
-Then it estimates how much time you'd **gain or lose** compared to your rival with each option.
+Then it estimates how much time you'd gain or lose compared to your rival with each option.
 
 #### Limitations? Yep.
 
@@ -411,6 +413,31 @@ It’s a big step toward real-time strategy modeling, but it’s not fully dynam
 
 Still, it’s a solid starting point for **thinking strategically — not just in isolation, but against the competition.**
 
-## 🏁 Results 
+## 🏁 Results
+
+To evaluate the accuracy of the models, I tested them using data from four races in the 2024 season. Three of these — **Bahrain**, **Singapore**, and **Monza** — were run without interruptions from Safety Cars or Virtual Safety Cars (VSC). The fourth, **China**, experienced multiple Safety Car interventions, offering a contrasting scenario.
+
+The tyre compound selected for the race start can vary due to several factors — including each team's tyre allocation and specific race-day strategies. For this reason, the analysis considers the **fastest strategy** for each type of starting compound:
+
+- One for drivers who began on **Soft** tyres
+- One for **Medium**
+- And one for **Hard**
+
+It’s crucial to emphasize that real-world strategies don’t always align with what the model identifies as optimal. While the comparison between real and predicted strategies offers a way to assess the model's accuracy, we must recognize that teams often make **suboptimal choices** — and not necessarily by mistake.
+
+Factors such as:
+- Tyre allocation constraints 
+- Strategy miscalculations 
+- Tactical risks to chase more points or go for a win   
+can lead teams to diverge from the theoretically optimal plan.
+
+Thus, when reviewing the results in the upcoming examples, keep in mind: the strategy a team used may not have been the best possible — but it was chosen within the context of that specific race.
+
+### 2024 Bahrain GP 
+
+<img width="626" alt="Screen Shot 2025-04-19 at 20 04 51" src="https://github.com/user-attachments/assets/ef2fef3c-e752-4e29-a7e1-5d7b8bc3b4eb" />
+
+
+
 
 ## 🧠 Debrief
