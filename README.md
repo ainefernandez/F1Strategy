@@ -319,7 +319,24 @@ The [R script](2.ModelSelection.R) handles the heavy lifting for estimation and 
 You can check out the full results in [Chapter 4](Tesis.pdf) of my thesis *“El plan perfecto para la victoria: Modelos”* — specifically, Tables 4.2 to 4.17.
 
 
-## 🌳 Decision Trees 
+## 🌳 Choosing the Winning Strategy: Decision Trees
+
+Now that we can estimate **stint times** and **pitstop costs**, it’s time to make some strategic calls — enter the **decision tree**! 🧠🛞
+
+A decision tree is like a roadmap of choices. It starts with a root node (your first big decision) and branches out into all the possible paths your race strategy can take.
+
+In our case, each **final node** of the tree shows the **total expected race time** of a strategy — calculated using the GLMs from the previous sectin laptimes, inlaps, outlaps, and pitstop times.
+
+Here's how it works:
+
+1. **Root Node**: Choose your starting tyre — **Soft (S)**, **Medium (M)**, or **Hard (H)**.
+2. **First Pitstop**: Pick your next tyre set (mandatory pitstop = mandatory decision 🚨).
+3. **Second Pitstop**: 
+   - If you’ve repeated a compound, you **must** pit again.
+   - Otherwise, you can pick another compound or **not pit (NP)** and go to the end!
+
+At the end of each path, we get an estimated **Race Time**. The strategy with the **lowest time** wins the simulation — and maybe the race too. 🏁🚀
+
 
 ## 🏁 Results 
 
