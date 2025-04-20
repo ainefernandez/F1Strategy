@@ -584,7 +584,7 @@ The **Window Model**, which recommends stopping **3 laps earlier** than the esti
 
 However, given the **disruptions from two Safety Cars**, many drivers couldn’t stick to a fixed stint plan. This highlights the limitations of both models in unpredictable race conditions — and the need for adaptability in real-time strategy calls.
 
-### Safety Cars
+### 🚨 Safety Cars
 
 To test the Safety Car model, all circuits in the 2024 calendar (up to Singapore) were classified into three groups according to risk:
 
@@ -628,3 +628,57 @@ To test the Safety Car model, all circuits in the 2024 calendar (up to Singapore
 - All categories show a **maximum probability early in the race**, which **declines as the race progresses**.
 
 ## 🧠 Debrief
+
+This thesis set out to design a race strategy model to help Formula 1 teams make smarter decisions and find the optimal strategy for each Grand Prix. Using data from F1’s official API, I began by exploring key factors that influence race strategy — think tire wear, pit stop times, race incidents — and built models around them.
+
+### 🛠️ Building the Model
+
+- **Started simple:** Used multiple linear regressions to estimate lap times and pit stop losses.
+- **Faced reality:** Despite good R² scores, assumptions didn’t hold — so I moved to **generalized linear models** (GLMs), which handled things better.
+- **Decision making:** Strategy isn’t just prediction — it’s also choice. So I added **decision trees** to help pick between options.
+
+### 🏁 Model Highlights
+
+- **Deterministic Model:** 
+  - Worked great in clean races like **Bahrain 2024**.
+  - Less accurate in chaotic races (e.g., **China 2024** with multiple Safety Cars).
+  - Struggled when teams tried creative pit stop strategies — looking at you, **Monza 2024**.
+
+- **Real Strategy Comparison:**  
+  - Model results were compared with actual team strategies — though, let’s be honest, even teams make strategic errors (**Singapore 2024**, anyone?).
+
+- **Window Model:**  
+  - Suggested undercutting about **3 laps before** tire life expires — a pattern that aligns with real-world decisions when drivers are stuck in DRS trains or struggling with worn tires.
+
+### 🔮 What’s Next?
+
+This is just the starting line. Future models could:
+
+- Factor in **Safety Car probabilities**.
+- Adapt to **wet track conditions** for better tire choices.
+- Get more **dynamic**, updating strategies when drivers suddenly gain or lose positions.
+
+One early attempt at this is the **Rival Model**, which starts considering time gaps between drivers — a small but exciting step toward real-time adaptability.
+
+### 🧩 Final Thoughts
+
+This work adds a new voice to the race strategy literature — using GLMs and decision trees instead of neural nets or dynamic programming. It's a flexible, interpretable approach that lays a solid foundation for future, more reactive models.
+
+Ultimately, this thesis shows the **potential of data-driven strategy models** to support F1 teams in a world where every tenth of a second counts. With added layers like Safety Car risk and live updates, the future looks fast — and smart.
+
+## 📚 References
+
+
+- Collins, B. (2024). *How to Win a Grand Prix: From Pit Lane to Podium - The Inside Track*. Quercus.
+- Dunn, P. K., Smyth, G. K., et al. (2018). *Generalized linear models with examples in R, volume 53*. Springer.
+- Formula 1 (2024a). F1 live timing. [https://www.formula1.com/en/timing/f1-live](https://www.formula1.com/en/timing/f1-live).
+- Formula 1 (2024b). It Ruined His Race: Mercedes Admit to Clear Mistake with Hamilton’s Singapore GP Strategy. [https://www.formula1.com/en/latest/article/it-ruined-his-race-mercedes-admit-to-clear-mistake-with-hamiltons-singapore.4VteePMCYiSgKE7NAq9TY6](https://www.formula1.com/en/latest/article/it-ruined-his-race-mercedes-admit-to-clear-mistake-with-hamiltons-singapore.4VteePMCYiSgKE7NAq9TY6).
+- Formula 1 (2024c). Leclerc Thrills the Tifosi to Triumph at Monza Ahead of Piastri and Norris with Bold Ferrari Strategy Paying Off. [https://www.formula1.com/en/latest/article/leclerc-thrills-the-tifosi-to-triumph-at-monza-ahead-of-piastri-and-norris.1aiYZF3rWZp2Q9yQtcuvqV](https://www.formula1.com/en/latest/article/leclerc-thrills-the-tifosi-to-triumph-at-monza-ahead-of-piastri-and-norris.1aiYZF3rWZp2Q9yQtcuvqV).
+- Formula 1 (2024d). Strategy Guide: What Are the Possible Race Strategies for the 2024 Bahrain Grand Prix. [https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-possible-race-strategies-for-the-2024-bahrain.1NT25ROUaq4grnLyJmOojV](https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-possible-race-strategies-for-the-2024-bahrain.1NT25ROUaq4grnLyJmOojV).
+- Formula 1 (2024e). Verstappen charges to victory over Norris and Perez in action-packed Chinese GP. [https://www.formula1.com/en/latest/article/verstappen-charges-to-victory-over-norris-and-perez-in-action-packed-chinese.3Uz5CwNh5tEQt62umIGhob](https://www.formula1.com/en/latest/article/verstappen-charges-to-victory-over-norris-and-perez-in-action-packed-chinese.3Uz5CwNh5tEQt62umIGhob).
+- Heilmeier, A., Thomaser, A., Graf, M., and Betz, J. (2020). Virtual strategy engineer: Using artificial neural networks for making race strategy decisions in circuit motorsport. *Applied Sciences*, 10(21):7805.
+- Magee, J. F. (1964). Decision trees for decision making. *Harvard Business Review*, Brighton, MA, USA.
+- McCarthy, L. and Rotthoff, K. W. (2013). Incentives on the starting grid in formula one racing. *The Journal of Sport*, 2(2).
+- Schaefer, P. (2024). FastF1. [https://docs.fastf1.dev/](https://docs.fastf1.dev/).
+- Stoppels, E. (2017). Predicting race results using artificial neural networks. Master’s thesis, University of Twente.
+- Thraves, C. et al. (2022). On the optimization of pit stop strategies via dynamic programming. *Central European Journal of Operations Research*, 31(1).
