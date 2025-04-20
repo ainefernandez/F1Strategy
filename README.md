@@ -561,7 +561,7 @@ On the flip side, **McLaren** rolled the dice with **Lando Norris** and **Oscar 
 
 #### 🪟 Window Model
 
-The **Window Model**, which advises pitting **3 laps earlier** than the expected tire lifespan, proposed a slightly different take:
+The **Window Model**, which advises pitting **3 laps earlier** than the expected tyre lifespan, proposed a slightly different take:
 
 - Optimal strategy: **Medium–Medium–Hard**
 
@@ -575,7 +575,7 @@ These are the strategies used by the drivers in the 2024 China Grand Prix:
 
 🔴 **Soft** | ⚪ (gray) **Hard** | 🟡 **Medium**
 
-The **Chinese Grand Prix** consists of 56 laps. All drivers completed the race distance except for **Ricciardo (RIC)**, **Tsunoda (TSU)**, and **Bottas (BOT)**, who retired on laps 33, 27, and 20, respectively.
+The **Chinese Grand Prix** consists of 56 laps. All drivers completed the race distance except for **Ricciardo (RIC)**, **Tsunoda (TSU)**, and **Bottas (BOT)**, who retyred on laps 33, 27, and 20, respectively.
 
 ---
 
@@ -655,7 +655,7 @@ To test the Safety Car model, all circuits in the 2024 calendar (up to Singapore
 
 ## 🧠 Debrief
 
-This thesis set out to design a race strategy model to help Formula 1 teams make smarter decisions and find the optimal strategy for each Grand Prix. Using data from F1’s official API, I began by exploring key factors that influence race strategy — think tire wear, pit stop times, race incidents — and built models around them.
+This thesis set out to design a race strategy model to help Formula 1 teams make smarter decisions and find the optimal strategy for each Grand Prix. Using data from F1’s official API, I began by exploring key factors that influence race strategy — think tyre wear, pit stop times, race incidents — and built models around them.
 
 ### 🛠️ Building the Model
 
@@ -681,7 +681,7 @@ This thesis set out to design a race strategy model to help Formula 1 teams make
 This is just the starting line. Future models could:
 
 - Factor in **Safety Car probabilities**.
-- Adapt to **wet track conditions** for better tire choices.
+- Adapt to **wet track conditions** for better tyre choices.
 - Get more **dynamic**, updating strategies when drivers suddenly gain or lose positions.
 
 One early attempt at this is the **Direct Rival Model**, which starts considering time gaps between drivers — a small but exciting step toward real-time adaptability.
