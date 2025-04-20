@@ -168,7 +168,7 @@ The [SafetyCars2024.csv](SafetyCars2024.csv) contains the same type of data, but
 
 ## 🔍 Exploratory Data Analysis
 
-## 📈 Generalized Linear Models and Model Selection
+## 📈 Generalized Linear Models (GLMs)
 
 In Formula 1, speed isn’t just about raw pace — it’s about strategy. The faster a driver completes the race distance, the better their finishing position and the more championship points they score. 
 
@@ -190,7 +190,7 @@ And how do we estimate all these times?
 
 With **Generalized Linear Models (GLMs)**, of course! 🔧📉
 
-### 🤔 What are Generalized Linear Models (GLMs)?
+## 🤔 What are Generalized Linear Models (GLMs)?
 
 If you’re already familiar with classic linear models, then GLMs are like their more flexible, modern cousin. They serve the same basic purpose: to model the relationship between a **dependent variable (Y)** and one or more **explanatory variables (X)**.
 
@@ -198,7 +198,7 @@ The major advantage of GLMs over traditional linear models? **They don’t requi
 
 GLMs also relax some of the classic assumptions — like linearity, normality, and homoscedasticity — making them ideal for situations where those assumptions don't hold.
 
-#### GLMs have two main components:
+### GLMs have two main components:
 
 - **Error Distribution (Family):**  
   This is the distribution of the dependent variable (Y). It must belong to the exponential family — which includes Normal, Poisson, Gamma, and others — chosen based on the nature of the data.
@@ -206,7 +206,7 @@ GLMs also relax some of the classic assumptions — like linearity, normality, a
 - **Link Function (g()):**  
   This function connects the **mean of the dependent variable** to the **linear predictor** (the linear combination of the independent variables). It must be **monotonic** and **differentiable**, which ensures a unique relationship between the predictor and the expected value of Y.
 
-#### The general form of a GLM:
+### The general form of a GLM
 
 `Y = g⁻¹(Xβ) + ε`
 
@@ -215,7 +215,7 @@ Where:
 - `Xβ` is the linear predictor  
 - `ε` is the error term
 
-#### Model Comparison
+### Model Comparison
 
 To compare different GLMs, we rely on model selection criteria like:
 
@@ -232,8 +232,38 @@ Where:
 - `k` is the number of estimated parameters  
 - `n` is the sample size
 
-While **AIC** emphasizes *predictive performance*, **BIC** favors models that strike a balance between *simplicity and fit*. In this thesis, I focus on **AIC** for model selection.
+While **AIC** emphasizes *predictive performance*, **BIC** favors models that strike a balance between *simplicity and fit*. In this thesis, I focus  more on **AIC** for model selection.
 
+## 🧠 Model Selection
+
+After diving into the data through Exploratory Data Analysis, we had a pretty good idea 💡 of which variables could impact lap times and pit stop costs. To lock in the best model, we used the `bestglm` function from the **bestglm** R package — a powerful tool that compares models using the **Bayesian Information Criterion (BIC)**.
+
+But first, let’s talk families. Since we're modeling **continuous** and **strictly positive** variables (lap times and pit stop costs), we explored three distribution families — each with their own twist:
+
+- 📊 **Normal** (with a logarithmic link function)  
+- 🔁 **Gamma** (with an inverse link function)  
+- 🌀 **Inverse Gaussian** (with a quadratic inverse link function)
+
+Once we had the top model from each family, we brought out the **Akaike Information Criterion (AIC)** — because **lower AIC = better model** 📉. This way, we picked the one that has the best predictive performance.
+
+
+
+### 🏁 LapTimePerKM: How Fast Can You Go?
+
+To estimate how lap times evolve across a stint, we modeled the variable `LapTimePerKM`. The champion here? 🥇 The model using the **Inverse Gaussian** family.
+
+Here’s how the model looks:
+
+**LapTimePerKM** = *g⁻¹*(β₀ + β₁·Circuit + β₂·RacePercentage + β₃·Driver + β₄·Team + β₅·TyreLife + β₆·Compound + β₇·Position + β₈·Stint) + ε
+
+This means lap time per kilometer depends on:
+
+- 🏟️ **Circuit** – because every track is unique  
+- 📈 **RacePercentage** – lap times change as the race progresses  
+- 🧑‍💼 **Driver** & **Team** – skill and performance matter  
+- 🛞 **TyreLife** & **Compound** – fresh softs ≠ worn hards  
+- 🏁 **Position** – cleaner air vs battling in traffic  
+- 🔁 **Stint number** – drivers push differently across stints
 
 
 
