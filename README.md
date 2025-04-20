@@ -433,11 +433,44 @@ can lead teams to diverge from the theoretically optimal plan.
 
 Thus, when reviewing the results in the upcoming examples, keep in mind: the strategy a team used may not have been the best possible — but it was chosen within the context of that specific race.
 
-### 2024 Bahrain GP 
+### 🇧🇭 2024 Bahrain GP
 
-<img width="626" alt="Screen Shot 2025-04-19 at 20 04 51" src="https://github.com/user-attachments/assets/ef2fef3c-e752-4e29-a7e1-5d7b8bc3b4eb" />
+These are the strategies used by the drivers in the 2024 Bahrain Grand Prix:
 
+<div align="center">
+  <img width="500" alt="2024 Bahrain GP Strategies" src="https://github.com/user-attachments/assets/ef2fef3c-e752-4e29-a7e1-5d7b8bc3b4eb" />
+</div>
 
+🔴 **Soft** | ⚫ **Hard** | 🟡 **Medium**
 
+In this race, only **Soft** and **Hard** compounds were used. The Bahrain GP consists of **57 laps**, so any bar reaching lap 57 represents a full race distance. Drivers like Zhou (ZHO), Magnussen (MAG), Ricciardo (RIC), Tsunoda (TSU), Albon (ALB), Hulkenberg (HUL), Ocon (OCO), Gasly (GAS), and Bottas (BOT) were **lapped once**, and Sargeant (SAR) finished **two laps down**.
+
+---
+
+#### 🔧 Deterministic Model
+
+Although expected lap times vary across teams and drivers, the **optimal strategy** identified by the model was the same for all in this case:  
+**Soft–Hard–Hard**.
+
+Since all drivers started on **Soft** tyres, only this initial compound is considered for strategy accuracy. According to the model, **14 out of 20 drivers** followed the optimal strategy, resulting in a **70% precision rate**.
+
+This strategy was also the **most popular** among the grid. However, drivers like **Max Verstappen** and **Sergio Pérez** (Red Bull Racing) opted for a different approach. This divergence can be explained by tyre allocation constraints:
+
+- Both had:  
+  - 1 set of **new Softs**  
+  - 3 sets of **used Softs**  
+  - Only 1 set of **new Hards**
+
+Meanwhile, other Top 10 drivers had **two sets of new Hard tyres**, giving them more flexibility to follow the model's optimal plan. This example highlights how tyre allocation can play a decisive role in strategic decisions.
+
+---
+
+#### 🪟 Window Model
+
+According to the **Window Model**, the best strategy involved stopping **3 laps earlier** than the expected tyre lifespan.  
+The optimal tyre sequence proposed by this model was:  
+**Medium–Medium–Hard**
+
+However, in this specific race, no driver started on **Medium** tyres, so the strategy was not applicable. This demonstrates that even when a model suggests a faster plan, it may not always be implementable due to constraints in tyre availability or allocation.
 
 ## 🧠 Debrief
