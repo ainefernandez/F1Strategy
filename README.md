@@ -577,7 +577,7 @@ These are the strategies used by the drivers in the 2024 China Grand Prix:
 
 The **Chinese Grand Prix** consists of 56 laps. All drivers completed the race distance except for **Ricciardo (RIC)**, **Tsunoda (TSU)**, and **Bottas (BOT)**, who retyred on laps 33, 27, and 20, respectively.
 
----
+
 
 #### 🔧 Deterministic Model
 
